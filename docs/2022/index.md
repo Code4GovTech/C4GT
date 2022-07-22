@@ -25,11 +25,11 @@ Following are the important links to projects done in C4GT - 2022.
 | Hardik Sharma | [Shiksha](/docs/2022/shiksha) |
 | Harshil Jani | [Admin for Sunbird RC](/docs/2022/admin) |
 | Himanshi Kukreja | [Sunbird QUML player](/docs/2022/sunbird-quml) |
-| Janhavi Lande | Machine Learning |
+| Janhavi Lande | [Machine Learning](/docs/2022/ml-platform)|
 | Kanika Gola | [YAUS](/docs/2022/yaus) |
 | Kushboo Agarwal | [Centralized Access Control](/docs/2022/cac) |
 | Neelesh Sharma | [UCI-Web-Channel](/docs/2022/uci) |
-| Pratyaksh Singh | Machine Learning |
+| Pratyaksh Singh | [Machine Learning](/docs/2022/ml-platform)|
 | Siddhant Tohan | [Shiksha](/docs/2022/shiksha) |
 ### Mentors
 

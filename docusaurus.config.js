@@ -29,6 +29,7 @@ module.exports = {
               label: "UCI Web Channel",
               to: "/docs/2022/uci/",
             },
+            
             {
               label: "Competency Passbook",
               to: "/docs/2022/passbook/",
@@ -52,6 +53,10 @@ module.exports = {
             {
               label: 'Sunbird QuML Player',
               to: '/docs/2022/sunbird-quml/',
+            },
+            {
+              label: 'Machine Learning Platform',
+              to: '/docs/2022/ml-platform/',
             },
           ],
         },
