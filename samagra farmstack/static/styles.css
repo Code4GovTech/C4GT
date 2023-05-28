@@ -1,0 +1,57 @@
+/* Global Styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+h1 {
+    color: #333;
+    text-align: center;
+}
+
+h2 {
+    color: #555;
+    margin-top: 20px;
+}
+
+button {
+    margin-top: 20px;
+}
+
+/* Home Page (index.html) Styles */
+#dataset-form {
+    max-width: 400px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.dataset {
+    margin-bottom: 10px;
+}
+
+/* Analysis Page (analyze.html) Styles */
+#analyze-form {
+    max-width: 500px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+ul li {
+    margin-bottom: 5px;
+}
+
+#visualization,
+#analysis-name {
+    margin-bottom: 10px;
+}
+
+/* Success Page (success.html) Styles */
+p {
+    text-align: center;
+    margin-top: 20px;
+}

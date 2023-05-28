@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>FarmStack Dashboard Builder - Analyze</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+    <h1>Analysis Settings</h1>
+    <form id="analysis-form" action="{{ url_for('analyze') }}" method="POST">
+        <label for="name">Analysis Name:</label>
+        <input type="text" name="name" id="name" required><br><br>
+
+        <h2>Select Tables</h2>
+        {% for dataset in datasets %}
+            <h3>{{ dataset.name }}</h3>
+            {% for table in dataset.tables %}
+                <div class="table">
+                    <input type="checkbox" name="table" value="{{ table.name }}" id="table-{{ table.name }}">
+                    <label for="table-{{ table.name }}">{{ table.name }}</label>
+                </div>
+            {% endfor %}
+        {% endfor %}
+
+        <h2>Select Visualization</h2>
+        <div class="visualization">
+            <input type="radio" name="visualization" value="chart" id="visualization-chart" required>
+            <label for="visualization-chart">Chart</label>
+            <input type="radio" name="visualization" value="table" id="visualization-table" required>
+            <label for="visualization-table">Table</label>
+        </div>
+
+        <button type="submit" id="start-analysis-button">Start Analysis</button>
+    </form>
+
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>

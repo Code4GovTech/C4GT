@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>FarmStack Dashboard Builder</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+    <h1>FarmStack Dashboard Builder</h1>
+    <h2>Select Datasets</h2>
+    <form id="dataset-form" action="{{ url_for('analyze') }}" method="GET">
+        {% for dataset in datasets %}
+            <div class="dataset">
+                <input type="checkbox" name="dataset" value="{{ dataset.name }}" id="dataset-{{ dataset.name }}">
+                <label for="dataset-{{ dataset.name }}">{{ dataset.name }}</label>
+            </div>
+        {% endfor %}
+        
+        <button type="submit" id="analyze-button">Analyze</button>
+    </form>
+
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>
