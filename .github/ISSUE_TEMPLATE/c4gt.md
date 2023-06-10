@@ -49,3 +49,12 @@ assignees: ''
 
 ### Mentor(s)
 [@Mentor1] [@Mentor2] [@Mentor3]
+
+### Complexity
+[High]/[Medium]/[Low]
+
+### Category
+[CI/CD], [Integrations], [Performance Improvement], [Security], [UI/UX/Design], [Bug], [Feature], [Documentation], [Deployment], [Test], [PoC]
+
+### Sub Category
+[API], [Database], [Analytics], [Refactoring], [Data Science], [Machine Learning], [Accessibility], [Internationalization], [Localization], [Frontend], [Backend], [Mobile], [SEO], [Configuration], [Deprecation], [Breaking Change], [Maintenance], [Support], [Question], [Technical Debt], [Beginner friendly], [Research], [Reproducible], [Needs Reproduction].
