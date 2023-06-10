@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 ## Description
-[Provide a brief description of the feature, including why it is needed and what it will accomplish.]
+[Provide a brief description of the feature, including why it is needed and what it will accomplish. You can skip any of Goals, Expected Outcome, Implementation Details, Mockups / Wireframes if they are irrelevant]
 
 ## Goals
 - [ ] [Goal 1]
@@ -51,10 +51,10 @@ assignees: ''
 [@Mentor1] [@Mentor2] [@Mentor3]
 
 ### Complexity
-[High]/[Medium]/[Low]
+Pick one of [High]/[Medium]/[Low]
 
 ### Category
-[CI/CD], [Integrations], [Performance Improvement], [Security], [UI/UX/Design], [Bug], [Feature], [Documentation], [Deployment], [Test], [PoC]
+Pick one or more of [CI/CD], [Integrations], [Performance Improvement], [Security], [UI/UX/Design], [Bug], [Feature], [Documentation], [Deployment], [Test], [PoC]
 
 ### Sub Category
-[API], [Database], [Analytics], [Refactoring], [Data Science], [Machine Learning], [Accessibility], [Internationalization], [Localization], [Frontend], [Backend], [Mobile], [SEO], [Configuration], [Deprecation], [Breaking Change], [Maintenance], [Support], [Question], [Technical Debt], [Beginner friendly], [Research], [Reproducible], [Needs Reproduction].
+Pick one or more of [API], [Database], [Analytics], [Refactoring], [Data Science], [Machine Learning], [Accessibility], [Internationalization], [Localization], [Frontend], [Backend], [Mobile], [SEO], [Configuration], [Deprecation], [Breaking Change], [Maintenance], [Support], [Question], [Technical Debt], [Beginner friendly], [Research], [Reproducible], [Needs Reproduction].
