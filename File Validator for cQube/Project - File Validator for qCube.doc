@@ -1,4 +1,9 @@
-Project Details:
+
+name: C4GT
+about: C4GT Project, File Validator for cQube
+labels: cQube Community
+
+Project Description:
 
 • This project aims to develop a File Validation utility with a user-friendly interface for cQube. The utility will perform checks files to be uploaded to ensure that the data meets the required specifications and is accurate and complete. Basically the Event file has to be validated before uploading that to cQube.
 
@@ -45,3 +50,5 @@ Key milestones for this project are:
 • Implementation of custom validation rules and error reporting
 • Coming up with UI for easy usage
 • Testing and debugging of the utility
+
+Mentors: @invinayak007
