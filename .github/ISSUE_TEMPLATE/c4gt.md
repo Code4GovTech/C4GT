@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 ## Description
-[Provide a brief description of the feature, including why it is needed and what it will accomplish. You can skip any of Goals, Expected Outcome, Implementation Details, Mockups / Wireframes if they are irrelevant]
+[Provide a brief description of the feature, including why it is needed and what it will accomplish. You can skip any of Goals, Expected Outcome, Implementation Details, Mockups / Wireframes if they are irrelevant. Please note that this section of the ticket is suggestive & you can structure it as per your prerogative.]
 
 ## Goals
 - [ ] [Goal 1]
@@ -34,6 +34,7 @@ assignees: ''
 [Include links to any visual aids, mockups, wireframes, or diagrams that help illustrate what the final product should look like. This is not always necessary, but can be very helpful in many cases.]
 
 ---
+[Please note that the below section of the ticket ****has to be in the format as mentioned as it is key to enabling proper listing of the project.**** Please only choose the options mentioned under the headings wherever applicable.]
 
 ### Project
 [Project Name]
