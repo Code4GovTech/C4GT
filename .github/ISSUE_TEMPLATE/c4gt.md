@@ -36,12 +36,12 @@ assignees: ''
 ---
 [Please note that the below section of the ticket ****has to be in the format as mentioned as it is key to enabling proper listing of the project.**** Please only choose the options mentioned under the headings wherever applicable.]
 
-### Project
-[Project Name]
-
-
 ### Product  
 [Product Name: For eg: Beckn, Sunbird Obsrv etc]
+
+
+### Project
+[Project Name: Descriptive of the ticket]
 
 
 ### Organization Name:
