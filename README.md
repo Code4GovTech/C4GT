@@ -8,8 +8,8 @@ Welcome to the C4GT Code For GovTech 2023 repository! This repository contains a
 
 ## Index
 
-1. [Brief about C4GT]([url](https://github.com/Code4GovTech/C4GT#1-brief-about-c4gt))
-2. [Steps to apply]([url](https://github.com/Code4GovTech/C4GT#2-steps-to-apply))
+1. [Brief about C4GT](https://github.com/Code4GovTech/C4GT#1-brief-about-c4gt)
+2. [Steps to apply](https://github.com/Code4GovTech/C4GT#2-steps-to-apply)
 3. C4GT 2023 Projects
 4. Proposal Guidelines
 5. Proposal Format
