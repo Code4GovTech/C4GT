@@ -39,11 +39,15 @@ body:
     attributes:
       label: Product Name
       placeholder: Enter Product Name
+    validations:
+      required: true
   - type: input
     id: ticket-organisation
     attributes:
       label: Organisation Name
       placeholder: Enter Organisation Name
+    validations:
+      required: true
   - type: input
     id: ticket-governance-domain
     attributes:
@@ -53,6 +57,8 @@ body:
       required: true
   - type: dropdown
     id: ticket-technical-skills-required
+    validations:
+      required: true
     attributes:
       label: Tech Skills Needed
       description: Select the technologies needed for this ticket (use Ctrl or Command to select multiple)
@@ -139,6 +145,7 @@ body:
         - Vue.js
         - WebSockets
         - Webpack
+      
   - type: textarea
     id: ticket-mentors
     attributes:
