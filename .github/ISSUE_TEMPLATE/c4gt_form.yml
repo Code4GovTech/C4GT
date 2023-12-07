@@ -53,8 +53,6 @@ body:
     attributes:
       label: Domain
       placeholder: Enter Area of Governance
-    validations:
-      required: true
   - type: dropdown
     id: ticket-technical-skills-required
     validations:
@@ -155,6 +153,8 @@ body:
       required: true
   - type: dropdown
     id: ticket-complexity
+    validations:
+      required: true
     attributes: 
       label: Complexity
       description: Choose a complexity describing the complexity of your ticket
@@ -165,6 +165,8 @@ body:
         - High
   - type: dropdown
     id: ticket-category
+    validations:
+      required: true
     attributes: 
       label: Category
       description: Choose the categories that best describe your ticket
