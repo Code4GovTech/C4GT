@@ -11,7 +11,7 @@ body:
       label: Ticket Contents
       value: |
         ## Description
-        [Provide a brief description of the feature, including why it is needed and what it will accomplish. You can skip any of Goals, Expected Outcome, Implementation Details, Mockups / Wireframes if they are irrelevant. Please note that this section of the ticket is suggestive & you can structure it as per your prerogative.]
+        [Provide a brief description of the feature, including why it is needed and what it will accomplish.]
 
   - type: textarea
     id: ticket-goals
@@ -39,6 +39,20 @@ body:
     attributes:
       label: Acceptance Criteria
       description: List the acceptance criteria for this feature.
+
+  - type: textarea
+    id: ticket-implementation details
+    validations:
+      required: true
+    attributes:
+      label: Implementation Details
+      description: List any technical details about the proposed implementation, including any specific technologies that will be used.
+
+  - type: textarea
+    id: ticket-mockups
+    attributes:
+      label: Mockups/Wireframes
+      description: Include links to any visual aids, mockups, wireframes, or diagrams that help illustrate what the final product should look like. This is not always necessary, but can be very helpful in many cases.
 
   - type: input
     id: ticket-product
