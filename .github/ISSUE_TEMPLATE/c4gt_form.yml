@@ -53,9 +53,95 @@ body:
     id: ticket-technical-skills-required
     attributes:
       label: Tech Skills Needed
-      description: A comma-separated list of technical skills that would be required to solve the ticket
-    validations:
-      required: true
+      description: Select the technologies needed for this ticket (use Ctrl or Command to select multiple)
+      multiple: true
+      options:
+        - .NET
+        - Agile
+        - Angular
+        - Artificial Intelligence
+        - ASP.NET
+        - AWS
+        - Babel
+        - Backend
+        - Bootstrap
+        - C#
+        - Chart.js
+        - CI/CD
+        - Computer Vision
+        - Configuration
+        - CORS
+        - cURL
+        - Cypress
+        - D3.js
+        - Database
+        - Debugging
+        - Deprecation
+        - Design
+        - DevOps
+        - Django
+        - Docker
+        - Electron
+        - ESLint
+        - Express.js
+        - Feature
+        - Flask
+        - Go
+        - GraphQL
+        - HTML
+        - Ionic
+        - Jest
+        - Java
+        - JavaScript
+        - Jenkins
+        - Jest
+        - JWT
+        - Kubernetes
+        - Laravel
+        - Machine Learning
+        - Maintenance
+        - Material-UI
+        - Microservices
+        - MongoDB
+        - Mobile
+        - Mockups
+        - Mocha
+        - Natural Language Processing
+        - NestJS
+        - Node.js
+        - NUnit
+        - OAuth
+        - Performance Improvement
+        - Prettier
+        - Python
+        - Question
+        - React
+        - React Native
+        - Redux
+        - RESTful APIs
+        - Ruby
+        - Ruby on Rails
+        - Rust
+        - Scala
+        - Scrum
+        - Security
+        - Selenium
+        - SEO
+        - Serverless
+        - Solidity
+        - Spring Boot
+        - SQL
+        - Swagger
+        - Tailwind CSS
+        - Test
+        - Testing Library
+        - Three.js
+        - TypeScript
+        - UI/UX/Design
+        - Virtual Reality
+        - Vue.js
+        - WebSockets
+        - Webpack
   - type: textarea
     id: ticket-mentors
     attributes:
@@ -100,26 +186,28 @@ body:
       multiple: true
       options:
         - API
-        - Database
         - Analytics
-        - Refactoring
-        - Data Science
-        - Machine Learning
         - Accessibility
+        - Backend
+        - Breaking Change
+        - Beginner Friendly
+        - Configuration
+        - Database
+        - Data Science
+        - Deprecation
+        - Frontend
         - Internationalization
         - Localization
-        - Frontend
-        - Backend
-        - Mobile
-        - SEO
-        - Configuration
-        - Deprecation
-        - Breaking Change
+        - Machine Learning
         - Maintenance
-        - Support
+        - Mobile
+        - Performance Improvement
         - Question
-        - Technical Debt
-        - Beginner Friendly
+        - Refactoring
         - Research
         - Reproducible
         - Needs Reproduction
+        - SEO
+        - Security
+        - Technical Debt
+        - Test
