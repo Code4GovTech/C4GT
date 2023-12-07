@@ -1,0 +1,138 @@
+name: C4GT Ticket Form
+description: Create a new Ticket for C4GT Community
+title: "[C4GT Community]: "
+labels: ["C4GT Community"]
+body:
+  - type: textarea
+    id: ticket-description
+    attributes:
+      description: Provide a brief description of the feature, including why it is needed and what it will accomplish.
+      label: Ticket Contents
+      value: |
+        ## Description
+        [Provide a brief description of the feature, including why it is needed and what it will accomplish. You can skip any of Goals, Expected Outcome, Implementation Details, Mockups / Wireframes if they are irrelevant. Please note that this section of the ticket is suggestive & you can structure it as per your prerogative.]
+
+        ## Goals
+        - [ ] [Goal 1]
+        - [ ] [Goal 2]
+        - [ ] [Goal 3]
+        - [ ] [Goal 4]
+        - [ ] [Goal 5]
+
+        ## Expected Outcome
+        [Describe in detail what the final product or result should look like and how it should behave.]
+        
+        ## Acceptance Criteria
+        - [ ] [Criteria 1]
+        - [ ] [Criteria 2]
+        - [ ] [Criteria 3]
+        - [ ] [Criteria 4]
+        - [ ] [Criteria 5]
+        
+        ## Implementation Details
+        [List any technical details about the proposed implementation, including any specific technologies that will be used.]
+        
+        ## Mockups / Wireframes
+        [Include links to any visual aids, mockups, wireframes, or diagrams that help illustrate what the final product should look like. This is not always necessary, but can be very helpful in many cases.]   - type: input 
+  - type: input
+    id: ticket-product
+    attributes:
+      label: Product Name
+      placeholder: Enter Product Name
+  - type: input
+    id: ticket-organisation
+    attributes:
+      label: Organisation Name
+      placeholder: Enter Organisation Name
+  - type: input
+    id: ticket-governance-domain
+    attributes:
+      label: Domain
+      placeholder: Enter Area of Governance
+  - type: textarea
+    id: ticket-technical-skills-required
+    attributes:
+      label: Tech Skills Needed
+      description: A comma-separated list of technical skills that would be required to solve the ticket
+    validations:
+      required: true
+  - type: textarea
+    id: ticket-mentors
+    attributes:
+      label: Mentor(s)
+      description: Please tag relevant mentors for the ticket
+    validations:
+      required: true
+  - type: dropdown
+    id: ticket-complexity
+    attributes: 
+      label: Complexity
+      description: Choose a complexity describing the complexity of your ticket
+      multiple: false
+      options:
+        - Low
+        - Medium
+        - High
+  - type: dropdown
+    id: ticket-category
+    attributes: 
+      label: Category
+      description: Choose the categories that best describe your ticket
+      multiple: true
+      options:
+        - CI/CD
+        - Integrations
+        - Performance Improvement
+        - Security
+        - UI/UX/Design
+        - Bug
+        - Feature
+        - Documentation
+        - Deployment
+        - Test
+        - PoC
+        - Other
+  - type: dropdown
+    id: ticket-sub-category
+    attributes: 
+      label: Sub Category
+      description: Choose the subcategories that best describe your ticket
+      multiple: true
+      options:
+        - API
+        - Database
+        - Analytics
+        - Refactoring
+        - Data Science
+        - Machine Learning
+        - Accessibility
+        - Internationalization
+        - Localization
+        - Frontend
+        - Backend
+        - Mobile
+        - SEO
+        - Configuration
+        - Deprecation
+        - Breaking Change
+        - Maintenance
+        - Support
+        - Question
+        - Technical Debt
+        - Beginner Friendly
+        - Research
+        - Reproducible
+        - Needs Reproduction
+  - type: multiselect
+    id: ticket-tech-stack
+    attributes:
+      label: Tech Stack
+      description: Select the technologies used for this ticket
+      multiple: true
+      options:
+        - React
+        - JavaScript
+        - Node.js
+        - Express
+        - Nest
+        - Rust
