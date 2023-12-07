@@ -41,7 +41,7 @@ body:
       description: List the acceptance criteria for this feature.
 
   - type: textarea
-    id: ticket-implementation details
+    id: ticket-implementation-details
     validations:
       required: true
     attributes:
