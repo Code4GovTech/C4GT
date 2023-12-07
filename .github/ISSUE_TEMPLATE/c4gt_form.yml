@@ -33,28 +33,24 @@ body:
         [List any technical details about the proposed implementation, including any specific technologies that will be used.]
         
         ## Mockups / Wireframes
-        [Include links to any visual aids, mockups, wireframes, or diagrams that help illustrate what the final product should look like. This is not always necessary, but can be very helpful in many cases.]
+        [Include links to any visual aids, mockups, wireframes, or diagrams that help illustrate what the final product should look like. This is not always necessary, but can be very helpful in many cases.]   - type: input 
   - type: input
     id: ticket-product
     attributes:
       label: Product Name
       placeholder: Enter Product Name
-      validations:
-        required: true
   - type: input
     id: ticket-organisation
     attributes:
       label: Organisation Name
       placeholder: Enter Organisation Name
-      validations:
-        required: true
   - type: input
     id: ticket-governance-domain
     attributes:
       label: Domain
       placeholder: Enter Area of Governance
-      validations:
-        required: true
+    validations:
+      required: true
   - type: dropdown
     id: ticket-technical-skills-required
     attributes:
@@ -97,7 +93,6 @@ body:
         - Java
         - JavaScript
         - Jenkins
-        - Jest
         - JWT
         - Kubernetes
         - Laravel
@@ -144,15 +139,13 @@ body:
         - Vue.js
         - WebSockets
         - Webpack
-      validations:
-        required: true
   - type: textarea
     id: ticket-mentors
     attributes:
       label: Mentor(s)
       description: Please tag relevant mentors for the ticket
-      validations:
-        required: true
+    validations:
+      required: true
   - type: dropdown
     id: ticket-complexity
     attributes: 
@@ -163,8 +156,6 @@ body:
         - Low
         - Medium
         - High
-      validations:
-        required: true
   - type: dropdown
     id: ticket-category
     attributes: 
@@ -184,8 +175,6 @@ body:
         - Test
         - PoC
         - Other
-      validations:
-        required: true
   - type: dropdown
     id: ticket-sub-category
     attributes: 
@@ -219,5 +208,3 @@ body:
         - Security
         - Technical Debt
         - Test
-      validations:
-        required: true
