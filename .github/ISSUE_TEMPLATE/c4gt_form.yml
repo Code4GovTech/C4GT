@@ -20,6 +20,13 @@ body:
     attributes:
       label: Goals
       description: List the goals of the feature.
+      value: |
+        ## Goals
+        - [ ] [Goal 1]
+        - [ ] [Goal 2]
+        - [ ] [Goal 3]
+        - [ ] [Goal 4]
+        - [ ] [Goal 5]
 
   - type: textarea
     id: ticket-expected-outcome
@@ -62,7 +69,7 @@ body:
       description: Select the technologies needed for this ticket (use Ctrl or Command to select multiple)
       multiple: true
       options:
-        - .NET
+                - .NET
         - Agile
         - Angular
         - Artificial Intelligence
@@ -97,7 +104,6 @@ body:
         - Java
         - JavaScript
         - Jenkins
-        - Jest
         - JWT
         - Kubernetes
         - Laravel
