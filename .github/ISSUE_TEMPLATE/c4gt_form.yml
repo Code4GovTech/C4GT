@@ -62,11 +62,19 @@ body:
     validations:
       required: true
 
-  - type: input
+  - type: dropdown
     id: ticket-organisation
     attributes:
       label: Organisation Name
       placeholder: Enter Organisation Name
+      multiple: false
+      options:
+        - Dhiway
+        - FIDE
+        - SamagraX
+        - ShikshaLokam
+        - Tech4Dev
+        - Tibil
     validations:
       required: true
 
