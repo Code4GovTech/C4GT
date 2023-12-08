@@ -164,6 +164,7 @@ body:
         - Vue.js
         - WebSockets
         - Webpack
+        - Other
     validations:
       required: true
 
