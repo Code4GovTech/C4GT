@@ -195,28 +195,6 @@ body:
       description: Choose the categories that best describe your ticket
       multiple: true
       options:
-        - CI/CD
-        - Integrations
-        - Performance Improvement
-        - Security
-        - UI/UX/Design
-        - Bug
-        - Feature
-        - Documentation
-        - Deployment
-        - Test
-        - PoC
-        - Other
-    validations:
-      required: true
-
-  - type: dropdown
-    id: ticket-sub-category
-    attributes: 
-      label: Sub Category
-      description: Choose the subcategories that best describe your ticket
-      multiple: true
-      options:
         - API
         - Analytics
         - Accessibility
@@ -224,9 +202,12 @@ body:
         - Breaking Change
         - Beginner Friendly
         - Configuration
+        - CI/CD
         - Database
         - Data Science
         - Deprecation
+        - Documentation
+        - Delpoyment
         - Frontend
         - Internationalization
         - Localization
@@ -237,11 +218,12 @@ body:
         - Question
         - Refactoring
         - Research
-        - Reproducible
         - Needs Reproduction
         - SEO
         - Security
-        - Technical Debt
-        - Test
+        - Testing
+        - Other
     validations:
       required: true
+
+  
