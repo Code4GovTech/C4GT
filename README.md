@@ -73,4 +73,3 @@ When submitting a proposal, please follow this format:
    - Explain your motivation for applying to this project and C4GT.
 
 Thank you for your interest in the C4GT Code For GovTech 2023 program! We look forward to receiving your proposals and working together to create impactful solutions for governance challenges. If you have any further questions, please don't hesitate to reach out to us.
-
