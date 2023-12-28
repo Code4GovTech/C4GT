@@ -108,7 +108,7 @@ body:
              - Ensure the head repository is your fork and the compare branch is `main`.
              - Click "Create pull request" and provide a meaningful title and description.
              - Click "Create pull request" again to submit the pull request.
-        Your changes will now be submitted as a pull request to the original repository, and the maintainers can review and merge them.
+          Your changes will now be submitted as a pull request to the original repository, and the maintainers can review and merge them.
 
 
   - type: textarea
