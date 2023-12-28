@@ -58,19 +58,19 @@
 <table>
   <tr>
     <td>Name</td>
-    <td>Sagar Kori</td>
+    <td>Abhilasha supe</td>
   </tr>
   <tr>
     <td>GitHub</td>
-    <td>https://github.com/sagarkori143</td>
+    <td>https://github.com/abhilashasupe</td>
   </tr>
   <tr>
     <td>LinkedIn</td>
-    <td>https://www.linkedin.com/in/sagar-kori-02280a258/</td>
+    <td>https://www.linkedin.com/in/abhilasha-supe-b6129424b/</td>
   </tr>
   <tr>
     <td>College</td>
-    <td>IIIT Jabalpur</td>
+    <td>IIIT SURAT</td>
   </tr>
 </table>
 
