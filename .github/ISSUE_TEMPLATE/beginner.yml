@@ -51,73 +51,15 @@ body:
       description: List any technical details about the proposed implementation, including any specific technologies that will be used.
       value: |
       To implement the changes in the `Community.md` file on the GitHub repository (https://github.com/Code4GovTech/C4GT/blob/main/Community.md), follow these steps:
-
-1. **Fork the Repository:**
-   - Visit the repository (https://github.com/Code4GovTech/C4GT).
-   - Click the "Fork" button in the upper right corner to create a fork of the repository in your GitHub account.
-
-2. **Clone Your Fork:**
-   - Open a terminal or command prompt.
-   - Run the following command to clone your fork to your local machine:
-     ```bash
-     git clone https://github.com/your-username/C4GT.git
-     ```
-
-3. **Navigate to the Repository:**
-   - Change into the repository directory:
-     ```bash
-     cd C4GT
-     ```
-
-4. **Edit the Community.md File:**
-   - Open the `Community.md` file in a text editor. You can use any code editor or a simple text editor.
-   - Locate the existing table and replace the details with your own:
-     ```markdown
-     <table>
-       <tr>
-         <td>Name</td>
-         <td>Your Name</td>
-       </tr>
-       <tr>
-         <td>GitHub</td>
-         <td>https://github.com/your-username</td>
-       </tr>
-       <tr>
-         <td>LinkedIn</td>
-         <td>https://www.linkedin.com/in/your-linkedin</td>
-       </tr>
-       <tr>
-         <td>College</td>
-         <td>Your College/University</td>
-       </tr>
-     </table>
-     ```
-
-5. **Save Changes:**
-   - Save the changes to the `Community.md` file.
-
-6. **Commit Changes:**
-   - In the terminal, run the following commands to commit the changes:
-     ```bash
-     git add Community.md
-     git commit -m "Update my details in Community.md"
-     ```
-
-7. **Push Changes to Your Fork:**
-   - Push the changes to your GitHub fork:
-     ```bash
-     git push origin main
-     ```
-
-8. **Create a Pull Request:**
-   - Visit your fork on GitHub (https://github.com/your-username/C4GT).
-   - Click on the "New pull request" button.
-   - Ensure the base repository is `Code4GovTech/C4GT` and the base branch is `main`.
-   - Ensure the head repository is your fork and the compare branch is `main`.
-   - Click "Create pull request" and provide a meaningful title and description.
-   - Click "Create pull request" again to submit the pull request.
-
-Your changes will now be submitted as a pull request to the original repository, and the maintainers can review and merge them.
+      1. **Fork the Repository:**
+         - Visit the repository (https://github.com/Code4GovTech/C4GT).
+         - Click the "Fork" button in the upper right corner to create a fork of the repository in your GitHub account.
+      2. **Clone Your Fork:**
+        - Open a terminal or command prompt.
+        - Run the following command to clone your fork to your local machine:
+           ```bash
+              git clone https://github.com/your-username/C4GT.git
+           ```
 
   - type: textarea
     id: ticket-mockups
