@@ -55,4 +55,22 @@
     <td>Ashoka University</td>
   </tr>
 </table>
+    <table>
+      <tr>
+        <td>Name</td>
+        <td>Midatana Sai Surya Teja</td>
+      </tr>
+      <tr>
+        <td>GitHub</td>
+        <td>https://github.com/SAI-SURYATEJA</td>
+      </tr>
+      <tr>
+        <td>LinkedIn</td>
+        <td>[https://www.linkedin.com/in/](https://www.linkedin.com/in/midatana-sai-surya-teja-630575259/)</td>
+      </tr>
+      <tr>
+        <td>College</td>
+        <td>NIT Calicut</td>
+      </tr>
+    </table>
 
