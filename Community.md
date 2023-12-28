@@ -56,3 +56,22 @@
   </tr>
 </table>
 
+<table>
+      <tr>
+        <td>Name</td>
+        <td>Shreeyans Arora</td>
+      </tr>
+      <tr>
+        <td>GitHub</td>
+        <td>https://github.com/shreeyans2808</td>
+      </tr>
+      <tr>
+        <td>LinkedIn</td>
+        <td>https://www.linkedin.com/in/shreeyansarora</td>
+      </tr>
+      <tr>
+        <td>College</td>
+        <td>IIIT Nagpur</td>
+      </tr>
+    </table>
+
