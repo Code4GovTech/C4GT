@@ -326,3 +326,24 @@
     <td>indian institute of information technology , nagpur</td>
   </tr>
 </table>
+
+<table>
+  <tr>
+    <td>Name</td>
+    <td>Karan Agarwal</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/Karanagarwal12</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>https://www.linkedin.com/in/karan-agarwal-321299231/</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>Indian Institute of Information Technology Lucknow</td>
+  </tr>
+</table>
+
+
