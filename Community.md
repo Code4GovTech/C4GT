@@ -55,4 +55,22 @@
     <td>Ashoka University</td>
   </tr>
 </table>
+<table>
+  <tr>
+    <td>Name</td>
+    <td>Aniket Bhatia</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/aniket28dot</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>https://www.linkedin.com/in/aniket-bhatia-1b04811bb/</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>National Institute of Technology Kurukshetra</td>
+  </tr>
+</table>
 
