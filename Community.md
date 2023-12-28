@@ -67,7 +67,7 @@
       </tr>
       <tr>
         <td>LinkedIn</td>
-        <td>hhttps://www.linkedin.com/in/amanslink/</td>
+        <td>https://www.linkedin.com/in/amanslink/</td>
       </tr>
       <tr>
         <td>College</td>
