@@ -40,19 +40,36 @@
 <table>
   <tr>
     <td>Name</td>
-    <td>Shailiza Mayal</td>
+    <td>Sandesh jat</td>
   </tr>
   <tr>
     <td>GitHub</td>
-    <td>https://github.com/Shailiza-mayal</td>
+    <td>https://github.com/Sandesh jat</td>
   </tr>
   <tr>
     <td>LinkedIn</td>
-    <td>https://www.linkedin.com/in/shailiza-mayal-97a48279/</td>
+    <td>(https://www.linkedin.com/in/sandesh-jat-b0377728a/)</td>
   </tr>
   <tr>
     <td>College</td>
-    <td>Ashoka University</td>
+    <td>IIIT Nagpur</td>
   </tr>
 </table>
+<table>
+  <tr>
+    <td>Name</td>
+    <td>Shruti Agarwal</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/Shruti3004</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>https://www.linkedin.com/in/shruti-ag</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>JSS Academy of Technical Education, Noida</td>
+  </tr>
 
