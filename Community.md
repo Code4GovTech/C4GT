@@ -50,9 +50,28 @@
     <td>LinkedIn</td>
     <td>https://www.linkedin.com/in/shailiza-mayal-97a48279/</td>
   </tr>
+
+    <table>
+      <tr>
+        <td>Name</td>
+        <td>Ishit Godshalwar</td>
+      </tr>
+      <tr>
+        <td>GitHub</td>
+        <td>https://github.com/ishitg</td>
+      </tr>
+      <tr>
+        <td>LinkedIn</td>
+        <td>https://www.linkedin.com/in/your-linkedin</td>
+      </tr>
+      <tr>
+        <td>College</td>
+        <td>Your IIIT Nagpur</td>
+      </tr>
+    </table>
   <tr>
     <td>College</td>
-    <td>Ashoka University</td>
+    <td>IIIT Nagpur</td>
   </tr>
 </table>
 
