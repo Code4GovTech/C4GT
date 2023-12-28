@@ -56,24 +56,6 @@
     <td>Ashoka University</td>
   </tr>
 </table>
-<table>
-  <tr>
-    <td>Name</td>
-    <td>Bhavana Sharma</td>
-  </tr>
-  <tr>
-    <td>GitHub</td>
-    <td>https://github.com/Shantam60</td>
-  </tr>
-  <tr>
-    <td>LinkedIn</td>
-    <td>https://www.linkedin.com/in/bhavana-sharma-44495a261/</td>
-  </tr>
-  <tr>
-    <td>College</td>
-    <td>IIITDM Jabalpur</td>
-  </tr>
-</table>
 
 <table>
       <tr>
