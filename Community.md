@@ -56,7 +56,7 @@
   </tr>
 </table>
 
-    <table>
+  <table>
       <tr>
         <td>Name</td>
         <td>Sudiksha Sharma</td>
@@ -73,5 +73,5 @@
         <td>College</td>
         <td>Siksha 'O' Anusandhan, Bhubaneshwar</td>
       </tr>
-    </table>
+  </table>
 
