@@ -37,6 +37,7 @@
     <td>Delhi Technological University</td>
   </tr>
 </table>
+
 <table>
   <tr>
     <td>Name</td>
@@ -55,6 +56,25 @@
     <td>Ashoka University</td>
   </tr>
 </table>
+
+<table>
+      <tr>
+        <td>Name</td>
+        <td>Ishika Poddar</td>
+      </tr>
+      <tr>
+        <td>GitHub</td>
+        <td>https://github.com/ishikapoddar</td>
+      </tr>
+      <tr>
+        <td>LinkedIn</td>
+        <td>https://www.linkedin.com/in/ishika-poddar-598aba231/</td>
+      </tr>
+      <tr>
+        <td>College</td>
+        <td>NIT Rourkela</td>
+      </tr>
+    </table>
 
 
 <table>
@@ -76,4 +96,154 @@
   </tr>
 </table>
 
+
+    <td>bhavya</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/bhavyasri-24/C4GT.git</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>www.linkedin.com/in/bhavya-kureti-b946a129a</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>IIIT Nagpur</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>Name</td>
+    <td>Spaarsh Thakkar</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/Spaarsh</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>https://www.linkedin.com/in/spaarsh-thakkar-1b0aa7256</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>Indian Institute of Information Technology, Surat</td>
+    </tr>
+</table>
+
+<table>
+  <tr>
+    <td>Name</td>
+    <td>Abhilasha supe</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/abhilashasupe</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>https://www.linkedin.com/in/abhilasha-supe-b6129424b/</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>IIIT SURAT</td>
+  </tr>
+</table>
+    
+    
+<table>
+  <tr>
+    <td>Name</td>
+    <td>Sandeep Biswal</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/Sandeep0306</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>https://www.linkedin.com/in/sandeep-biswal-b21378158/</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>Maharaja Surajmal Institute of Technology</td>
+ </tr>
+</table>
+
+<table>
+  <tr>
+    <td>Name</td>
+    <td>Dishant Garg</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/Dishant-garg</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>https://www.linkedin.com/in/dishant-garg-6029061a3/</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>IIIT Lucknow </td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td>Name</td>
+    <td>Kanishka Patwa</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/Kanishka66</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>https://www.linkedin.com/in/kanishka-patwa-27599b260/</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>NIT Kurukshetra</td>
+  </tr>
+</table>
+
+  <table>
+      <tr>
+        <td>Name</td>
+        <td>Midatana Sai Praneetha</td>
+      </tr>
+      <tr>
+        <td>GitHub</td>
+        <td>https://github.com/Praneetha29</td>
+      </tr>
+      <tr>
+        <td>LinkedIn</td>
+        <td>https://www.linkedin.com/in/saipraneetha/</td>
+      </tr>
+      <tr>
+        <td>College</td>
+        <td>National Institute Of Technology, Rourkela</td>
+      </tr>
+    </table>
+
+
+<table>
+      <tr>
+        <td>Name</td>
+        <td>Muskan Nain</td>
+      </tr>
+      <tr>
+        <td>GitHub</td>
+        <td>https://github.com/nainmuskan</td>
+      </tr>
+      <tr>
+        <td>LinkedIn</td>
+        <td>https://www.linkedin.com/in/muskannain</td>
+      </tr>
+      <tr>
+        <td>College</td>
+        <td>National Institute of Technology, Rourkela</td>
+      </tr>
+    </table>
 
