@@ -73,7 +73,8 @@ body:
                      <td>College</td>
                      <td>Your College/University</td>
                    </tr>
-               </table>```
+                 </table>
+            ```
            5. **Save Changes:**
              - Save the changes to the `Community.md` file.
            6. **Commit Changes:**
