@@ -55,4 +55,22 @@
     <td>Ashoka University</td>
   </tr>
 </table>
+<table>
+  <tr>
+    <td>Name</td>
+    <td>bhavya</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/bhavyasri-24/C4GT.git</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>www.linkedin.com/in/bhavya-kureti-b946a129a</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>IIIT Nagpur</td>
+  </tr>
+</table>
 
