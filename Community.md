@@ -55,7 +55,6 @@
     <td>Ashoka University</td>
   </tr>
 </table>
-
     <table>
       <tr>
         <td>Name</td>
@@ -74,7 +73,6 @@
         <td>IIITDM Jabalpur </td>
       </tr>
     </table>
-=======
 <table>
   <tr>
     <td>Name</td>
