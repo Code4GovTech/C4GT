@@ -284,4 +284,21 @@
         <td>National Institute of Technology, Rourkela</td>
       </tr>
     </table>
-
+<table>
+      <tr>
+        <td>Name</td>
+        <td>Harshavardhan Uphade</td>
+      </tr>
+      <tr>
+        <td>GitHub</td>
+        <td>https://github.com/uphadeharsh45</td>
+      </tr>
+      <tr>
+        <td>LinkedIn</td>
+        <td>www.linkedin.com/in/harshavardhan-uphade-060112284</td>
+      </tr>
+      <tr>
+        <td>College</td>
+        <td>Indian Institute of Information Technology, Design and Manufacturing, Jabalpur</td>
+      </tr>
+    </table>
