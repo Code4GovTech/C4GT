@@ -73,8 +73,6 @@
     <td>IIIT SURAT</td>
   </tr>
 </table>
-
-
 <table>
     <tr>
     <td>Name</td>
