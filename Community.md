@@ -56,3 +56,21 @@
   </tr>
 </table>
 
+  <table>
+    <tr>
+      <td>Name</td>
+      <td>Aman Khan</td>
+      </tr>
+      <tr>
+        <td>GitHub</td>
+        <td>https://github.com/amansgith</td>
+      </tr>
+      <tr>
+        <td>LinkedIn</td>
+        <td>hhttps://www.linkedin.com/in/amanslink/</td>
+      </tr>
+      <tr>
+        <td>College</td>
+        <td>Maharaja Surajmal Institute of Technology</td>
+    </tr>
+  </table>
