@@ -70,7 +70,7 @@
       </tr>
       <tr>
         <td>College</td>
-        <td>Your College/Ramaiah University of Applied Science</td>
+        <td>Ramaiah University of Applied Science</td>
       </tr>
     </table>
 
