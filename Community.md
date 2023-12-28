@@ -37,6 +37,7 @@
     <td>Delhi Technological University</td>
   </tr>
 </table>
+
 <table>
   <tr>
     <td>Name</td>
@@ -55,6 +56,26 @@
     <td>Ashoka University</td>
   </tr>
 </table>
+
+<table>
+  <tr>
+    <td>Name</td>
+    <td>Spaarsh Thakkar</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/Spaarsh</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>https://www.linkedin.com/in/spaarsh-thakkar-1b0aa7256</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>Indian Institute of Information Technology, Surat</td>
+    </tr>
+</table>
+
 <table>
   <tr>
     <td>Name</td>
@@ -73,6 +94,8 @@
     <td>IIIT SURAT</td>
   </tr>
 </table>
+    
+    
 <table>
   <tr>
     <td>Name</td>
@@ -89,5 +112,6 @@
   <tr>
     <td>College</td>
     <td>Maharaja Surajmal Institute of Technology</td>
+
   </tr>
 </table>
