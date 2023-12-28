@@ -37,4 +37,22 @@
     <td>Delhi Technological University</td>
   </tr>
 </table>
+<table>
+  <tr>
+    <td>Name</td>
+    <td>Shailiza Mayal</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/Shailiza-mayal</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>https://www.linkedin.com/in/shailiza-mayal-97a48279/</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>Ashoka University</td>
+  </tr>
+</table>
 
