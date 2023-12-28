@@ -66,7 +66,7 @@
       </tr>
       <tr>
         <td>LinkedIn</td>
-        <td>https://www.linkedin.com/in/mandira shetty</td>
+        <td>https://www.linkedin.com/in/mandirashetty</td>
       </tr>
       <tr>
         <td>College</td>
