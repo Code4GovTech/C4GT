@@ -56,3 +56,22 @@
   </tr>
 </table>
 
+    <table>
+      <tr>
+        <td>Name</td>
+        <td>Sudiksha Sharma</td>
+      </tr>
+      <tr>
+        <td>GitHub</td>
+        <td>https://github.com/arayathegod</td>
+      </tr>
+      <tr>
+        <td>LinkedIn</td>
+        <td>https://www.linkedin.com/in/sudiksha108</td>
+      </tr>
+      <tr>
+        <td>College</td>
+        <td>Siksha 'O' Anusandhan, Bhubaneshwar</td>
+      </tr>
+    </table>
+
