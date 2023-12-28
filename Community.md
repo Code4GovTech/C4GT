@@ -52,7 +52,24 @@
   </tr>
   <tr>
     <td>College</td>
-    <td>Ashoka University</td>
+
+ <table>
+  <tr>
+    <td>Name</td>
+    <td>Aman Raj</td>
   </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/prtkjakhar](https://github.com/vulture278</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>https://www.linkedin.com/in/prateek-jakhar-a64a04197](https://www.linkedin.com/in/aman-r-1676751b6</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>Indian Institute of Information Technology, Design and Manufacturing, Jabalpur</td>
+  </tr>
+</table>
 </table>
 
