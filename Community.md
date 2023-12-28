@@ -57,7 +57,7 @@
   </tr>
 </table>
 
- <table>
+<table>
       <tr>
         <td>Name</td>
         <td>Ishika Poddar</td>
@@ -76,9 +76,27 @@
       </tr>
     </table>
 
+
 <table>
   <tr>
     <td>Name</td>
+    <td>Peeyush mishra</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/Peeyush237</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>https://www.linkedin.com/in/peeyush-mishra-23187027b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>indian institute of information technology , nagpur</td>
+  </tr>
+</table>
+
+
     <td>bhavya</td>
   </tr>
   <tr>
