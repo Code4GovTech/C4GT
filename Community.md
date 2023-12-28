@@ -3,74 +3,21 @@
 <table>
   <tr>
     <td>Name</td>
-    <td>Shruti Agarwal</td>
+    <td>Devansh Verma</td>
   </tr>
   <tr>
     <td>GitHub</td>
-    <td>https://github.com/Shruti3004</td>
+    <td>https://github.com/Invincible1602</td>
   </tr>
   <tr>
     <td>LinkedIn</td>
-    <td>https://www.linkedin.com/in/shruti-ag</td>
+    <td>https://www.linkedin.com/in/devansh-verma-74aa16283/</td>
   </tr>
   <tr>
     <td>College</td>
-    <td>JSS Academy of Technical Education, Noida</td>
+    <td>IIIT Lucknow</td>
   </tr>
 </table>
 
-<table>
-  <tr>
-    <td>Name</td>
-    <td>Prateek Jakhar</td>
-  </tr>
-  <tr>
-    <td>GitHub</td>
-    <td>https://github.com/prtkjakhar</td>
-  </tr>
-  <tr>
-    <td>LinkedIn</td>
-    <td>https://www.linkedin.com/in/prateek-jakhar-a64a04197</td>
-  </tr>
-  <tr>
-    <td>College</td>
-    <td>Delhi Technological University</td>
-  </tr>
-</table>
-<table>
-  <tr>
-    <td>Name</td>
-    <td>Shailiza Mayal</td>
-  </tr>
-  <tr>
-    <td>GitHub</td>
-    <td>https://github.com/Shailiza-mayal</td>
-  </tr>
-  <tr>
-    <td>LinkedIn</td>
-    <td>https://www.linkedin.com/in/shailiza-mayal-97a48279/</td>
-  </tr>
-  <tr>
-    <td>College</td>
-    <td>Ashoka University</td>
-  </tr>
-</table>
-<table>
-  <tr>
-    <td>Name</td>
-    <td>Sagar Kori</td>
-  </tr>
-  <tr>
-    <td>GitHub</td>
-    <td>https://github.com/sagarkori143</td>
-  </tr>
-  <tr>
-    <td>LinkedIn</td>
-    <td>https://www.linkedin.com/in/sagar-kori-02280a258/</td>
-  </tr>
-  <tr>
-    <td>College</td>
-    <td>IIIT Jabalpur</td>
-  </tr>
-</table>
+
 
