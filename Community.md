@@ -72,4 +72,22 @@
   </tr>
 </table>
 </table>
+<table>
+  <tr>
+    <td>Name</td>
+    <td>Abhilasha supe</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/abhilashasupe</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>https://www.linkedin.com/in/abhilasha-supe-b6129424b/</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>IIIT SURAT</td>
+  </tr>
+</table>
 
