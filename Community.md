@@ -51,7 +51,7 @@
     <td>https://www.linkedin.com/in/shailiza-mayal-97a48279/</td>
   </tr>
 
-    <table>
+  <table>
       <tr>
         <td>Name</td>
         <td>Ishit Godshalwar</td>
