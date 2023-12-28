@@ -64,7 +64,7 @@
   </tr>
   <tr>
     <td>LinkedIn</td>
-    <td>https://www.linkedin.com/in/prateek-jakhar-a64a04197](https://www.linkedin.com/in/aman-r-1676751b6</td>
+    <td>https://www.linkedin.com/in/aman-r-1676751b6</td>
   </tr>
   <tr>
     <td>College</td>
