@@ -51,10 +51,10 @@ body:
       description: List any technical details about the proposed implementation, including any specific technologies that will be used.
       value: |
          To implement the changes in the `Community.md` file on the GitHub repository (https://github.com/Code4GovTech/C4GT/blob/main/Community.md), follow these steps:
-         1. **Fork the Repository:**
+          1. **Fork the Repository:**
             - Visit the repository (https://github.com/Code4GovTech/C4GT).
             - Click the "Fork" button in the upper right corner to create a fork of the repository in your GitHub account.
-         2. **Clone Your Fork:**
+          2. **Clone Your Fork:**
             - Open a terminal or command prompt.
             - Run the following command to clone your fork to your local machine:
              ```bash
