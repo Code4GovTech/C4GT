@@ -62,7 +62,7 @@
       </tr>
       <tr>
         <td>LinkedIn</td>
-        <td>https://www.linkedin.com/in/your-linkedin</td>
+        <td>https://https://www.linkedin.com/in/ishit-g-7ba6b5114/</td>
       </tr>
       <tr>
         <td>College</td>
