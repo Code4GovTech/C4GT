@@ -1,6 +1,6 @@
 name: C4GT Beginner Ticket
 description: Create a new Ticket for C4GT Community
-title: "[C4GT Community]: Add Basic Details to Community"
+title: "C4GT Community: Basic Details of [Your name]"
 labels: ["C4GT Community"]
 body:
   - type: textarea
@@ -39,22 +39,22 @@ body:
       value: |
          To implement the changes in the `Community.md` file on the GitHub repository (https://github.com/Code4GovTech/C4GT/blob/main/Community.md), follow these steps:
           1. **Fork the Repository:**
-            - Visit the repository (https://github.com/Code4GovTech/C4GT).
-            - Click the "Fork" button in the upper right corner to create a fork of the repository in your GitHub account.
+             - Visit the repository (https://github.com/Code4GovTech/C4GT).
+             - Click the "Fork" button in the upper right corner to create a fork of the repository in your GitHub account.
           2. **Clone Your Fork:**
-            - Open a terminal or command prompt.
-            - Run the following command to clone your fork to your local machine:
+             - Open a terminal or command prompt.
+             - Run the following command to clone your fork to your local machine:
              ```bash
-                git clone https://github.com/your-username/C4GT.git
+                  git clone https://github.com/your-username/C4GT.git
              ```
           3. **Navigate to the Repository:**
-            - Change into the repository directory:
+             - Change into the repository directory:
              ```bash
-                cd C4GT
+                 cd C4GT
              ```
           4. **Edit the Community.md File:**
-            - Open the `Community.md` file in a text editor. You can use any code editor or a simple text editor.
-            - Locate the existing table and replace the details with your own:
+             - Open the `Community.md` file in a text editor. You can use any code editor or a simple text editor.
+             - Locate the existing table and replace the details with your own:
             ```markdown
                  <table>
                    <tr>
@@ -80,11 +80,11 @@ body:
            6. **Commit Changes:**
              - In the terminal, run the following commands to commit the changes:
              ```bash
-               git add Community.md
-               git commit -m "Update my details in Community.md"
+                git add Community.md
+                git commit -m "Update my details in Community.md"
              ```
            7. **Push Changes to Your Fork:**
-           - Push the changes to your GitHub fork:
+             - Push the changes to your GitHub fork:
              ```bash
                 git push origin main
              ```
