@@ -133,3 +133,21 @@
 
   </tr>
 </table>
+    <table>
+      <tr>
+        <td>Name</td>
+        <td>Midatana Sai Praneetha</td>
+      </tr>
+      <tr>
+        <td>GitHub</td>
+        <td>https://github.com/Praneetha29</td>
+      </tr>
+      <tr>
+        <td>LinkedIn</td>
+        <td>https://www.linkedin.com/in/saipraneetha/</td>
+      </tr>
+      <tr>
+        <td>College</td>
+        <td>National Institute Of Technology, Rourkela</td>
+      </tr>
+    </table>
