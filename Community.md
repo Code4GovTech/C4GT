@@ -60,7 +60,7 @@
   </tr>
   <tr>
     <td>GitHub</td>
-    <td>https://github.com/prtkjakhar](https://github.com/vulture278</td>
+    <td>https://github.com/vulture278</td>
   </tr>
   <tr>
     <td>LinkedIn</td>
