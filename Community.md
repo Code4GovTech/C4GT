@@ -58,7 +58,7 @@
 <table>
   <tr>
     <td>Name</td>
-    <tdBhavana Sharma</td>
+    <td>Bhavana Sharma</td>
   </tr>
   <tr>
     <td>GitHub</td>
