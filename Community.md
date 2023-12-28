@@ -56,6 +56,26 @@
     <td>Ashoka University</td>
   </tr>
 </table>
+
+ <table>
+      <tr>
+        <td>Name</td>
+        <td>Ishika Poddar</td>
+      </tr>
+      <tr>
+        <td>GitHub</td>
+        <td>https://github.com/ishikapoddar</td>
+      </tr>
+      <tr>
+        <td>LinkedIn</td>
+        <td>https://www.linkedin.com/in/ishika-poddar-598aba231/</td>
+      </tr>
+      <tr>
+        <td>College</td>
+        <td>NIT Rourkela</td>
+      </tr>
+    </table>
+
 <table>
   <tr>
     <td>Name</td>
@@ -130,10 +150,30 @@
   <tr>
     <td>College</td>
     <td>Maharaja Surajmal Institute of Technology</td>
+ </tr>
+</table>
 
+<table>
+  <tr>
+    <td>Name</td>
+    <td>Dishant Garg</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/Dishant-garg</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>https://www.linkedin.com/in/dishant-garg-6029061a3/</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>IIIT Lucknow </td>
   </tr>
 </table>
-    <table>
+
+
+  <table>
       <tr>
         <td>Name</td>
         <td>Midatana Sai Praneetha</td>
@@ -151,3 +191,24 @@
         <td>National Institute Of Technology, Rourkela</td>
       </tr>
     </table>
+
+
+<table>
+      <tr>
+        <td>Name</td>
+        <td>Muskan Nain</td>
+      </tr>
+      <tr>
+        <td>GitHub</td>
+        <td>https://github.com/nainmuskan</td>
+      </tr>
+      <tr>
+        <td>LinkedIn</td>
+        <td>https://www.linkedin.com/in/muskannain</td>
+      </tr>
+      <tr>
+        <td>College</td>
+        <td>National Institute of Technology, Rourkela</td>
+      </tr>
+    </table>
+
