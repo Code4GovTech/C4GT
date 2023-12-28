@@ -55,4 +55,22 @@
     <td>Ashoka University</td>
   </tr>
 </table>
+ <table>
+      <tr>
+        <td>Name</td>
+        <td>Ishika Poddar</td>
+      </tr>
+      <tr>
+        <td>GitHub</td>
+        <td>https://github.com/ishikapoddar</td>
+      </tr>
+      <tr>
+        <td>LinkedIn</td>
+        <td>https://www.linkedin.com/in/ishika-poddar-598aba231/</td>
+      </tr>
+      <tr>
+        <td>College</td>
+        <td>NIT Rourkela</td>
+      </tr>
+    </table>
 
