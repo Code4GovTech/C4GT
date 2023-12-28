@@ -8,5 +8,5 @@ Code for GovTech (C4GT) is India's first dedicated mentoring program aimed at cr
 <div align="Center"><h2>Our Community</h2></div>
 
 <a href="https://github.com/code4govtech/c4gt/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=code4govtech/c4gt" />
+  <img src="https://contrib.rocks/image?repo=Code4GovTech/C4gt" />
 </a>
