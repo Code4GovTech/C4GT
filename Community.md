@@ -153,4 +153,21 @@
 </table>
 
 
- 
+<table>
+      <tr>
+        <td>Name</td>
+        <td>Muskan Nain</td>
+      </tr>
+      <tr>
+        <td>GitHub</td>
+        <td>https://github.com/nainmuskan</td>
+      </tr>
+      <tr>
+        <td>LinkedIn</td>
+        <td>https://www.linkedin.com/in/muskannain</td>
+      </tr>
+      <tr>
+        <td>College</td>
+        <td>National Institute of Technology, Rourkela</td>
+      </tr>
+    </table>
