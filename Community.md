@@ -15,4 +15,5 @@
         <td>College</td>
         <td>Indian Insititute of Information Technology Lucknow</td>
       </tr>
-    </table>
+</table>
+
