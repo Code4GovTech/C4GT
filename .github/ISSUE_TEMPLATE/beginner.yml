@@ -155,89 +155,7 @@ body:
       description: Select the technologies needed for this ticket (use Ctrl or Command to select multiple)
       multiple: true
       options:
-        - .NET
-        - Agile
-        - Angular
-        - Artificial Intelligence
-        - ASP.NET
-        - AWS
-        - Babel
-        - Bootstrap
-        - C#
-        - Chart.js
-        - CI/CD
-        - Computer Vision
-        - CORS
-        - cURL
-        - Cypress
-        - D3.js
-        - Database
-        - Debugging
-        - Design
-        - DevOps
-        - Django
-        - Docker
-        - Electron
-        - ESLint
-        - Express.js
-        - Feature
-        - Flask
-        - Go
-        - GraphQL
-        - HTML
-        - Ionic
-        - Jest
-        - Java
-        - JavaScript
-        - Jenkins
-        - JWT
-        - Kubernetes
-        - Laravel
-        - Machine Learning
-        - Maintenance
         - Markdown
-        - Material-UI
-        - Microservices
-        - MongoDB
-        - Mobile
-        - Mockups
-        - Mocha
-        - Natural Language Processing
-        - NestJS
-        - Node.js
-        - NUnit
-        - OAuth
-        - Performance Improvement
-        - Prettier
-        - Python
-        - Question
-        - React
-        - React Native
-        - Redux
-        - RESTful APIs
-        - Ruby
-        - Ruby on Rails
-        - Rust
-        - Scala
-        - Security
-        - Selenium
-        - SEO
-        - Serverless
-        - Solidity
-        - Spring Boot
-        - SQL
-        - Swagger
-        - Tailwind CSS
-        - Test
-        - Testing Library
-        - Three.js
-        - TypeScript
-        - UI/UX/Design
-        - Virtual Reality
-        - Vue.js
-        - WebSockets
-        - Webpack
-        - Other
     validations:
       required: true
 
@@ -257,9 +175,6 @@ body:
       multiple: false
       options:
         - Beginner
-        - Low
-        - Medium
-        - High
     validations:
       required: true
 
@@ -270,34 +185,7 @@ body:
       description: Choose the categories that best describe your ticket
       multiple: true
       options:
-        - API
-        - Analytics
-        - Accessibility
-        - Backend
-        - Breaking Change
-        - Beginner Friendly
-        - Configuration
-        - CI/CD
-        - Database
-        - Data Science
-        - Deprecation
         - Documentation
-        - Delpoyment
-        - Frontend
-        - Internationalization
-        - Localization
-        - Machine Learning
-        - Maintenance
-        - Mobile
-        - Performance Improvement
-        - Question
-        - Refactoring
-        - Research
-        - Needs Reproduction
-        - SEO
-        - Security
-        - Testing
-        - Other
     validations:
       required: true
 
