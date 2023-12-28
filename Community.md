@@ -57,20 +57,20 @@
 </table>
     <table>
       <tr>
-        <td>Name</td>
-        <td>Your Name</td>
+        <td>Nam</td>
+        <td>Hemant Verma</td>
       </tr>
       <tr>
         <td>GitHub</td>
-        <td>https://github.com/your-username</td>
+        <td>https://github.com/Hemant-Verma-IND</td>
       </tr>
       <tr>
         <td>LinkedIn</td>
-        <td>https://www.linkedin.com/in/your-linkedin</td>
+        <td> </td>
       </tr>
       <tr>
         <td>College</td>
-        <td>Your College/University</td>
+        <td>NIT Rourkela</td>
       </tr>
     </table>
 
