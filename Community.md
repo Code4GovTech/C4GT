@@ -55,4 +55,22 @@
     <td>Ashoka University</td>
   </tr>
 </table>
+<table>
+  <tr>
+    <td>Name</td>
+    <td>Yash Baghela</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/yash-not-bot22</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>https://www.linkedin.com/in/yash-baghela-468916256/</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>IIIT Sonepat</td>
+  </tr>
+</table>
 
