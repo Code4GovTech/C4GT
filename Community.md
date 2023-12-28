@@ -168,6 +168,26 @@
     <td>IIIT SURAT</td>
   </tr>
 </table>
+
+<table>
+    <tr>
+    <td>Name</td>
+    <td>Krishna Sumit</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/dev-KS-155 </td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td> https://www.linkedin.com/in/krishna-sumit</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>Indian Institute of Information Technology, Lucknow</td>
+  </tr>
+</table>
+
     
     
 <table>
