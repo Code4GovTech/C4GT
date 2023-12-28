@@ -69,6 +69,7 @@ body:
       description: Enter Organisation Name
       multiple: false
       options:
+        - C4GT
         - Dhiway
         - FIDE
         - SamagraX
@@ -131,6 +132,7 @@ body:
         - Laravel
         - Machine Learning
         - Maintenance
+        - Markdown
         - Material-UI
         - Microservices
         - MongoDB
@@ -191,6 +193,7 @@ body:
       description: Choose a complexity describing the complexity of your ticket
       multiple: false
       options:
+        - Beginner
         - Low
         - Medium
         - High
