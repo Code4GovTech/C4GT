@@ -74,3 +74,23 @@
   </tr>
 </table>
 
+
+
+<table>
+  <tr>
+    <td>Name</td>
+    <td>Vilol Goyal</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/vilol-04</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>https://www.linkedin.com/in/vilol-goyal-1a3411226/</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>NIT Jalandhar</td>
+  </tr>
+</table>
