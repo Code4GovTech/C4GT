@@ -122,6 +122,8 @@ body:
     attributes:
       label: Product Name
       placeholder: Enter Product Name
+      value: |
+         C4GT
     validations:
       required: true
 
@@ -133,12 +135,6 @@ body:
       multiple: false
       options:
         - C4GT
-        - Dhiway
-        - FIDE
-        - SamagraX
-        - ShikshaLokam
-        - Tech4Dev
-        - Tibil
     validations:
       required: true
 
@@ -153,7 +149,7 @@ body:
     attributes:
       label: Tech Skills Needed
       description: Select the technologies needed for this ticket (use Ctrl or Command to select multiple)
-      multiple: true
+      multiple: false
       options:
         - Markdown
     validations:
@@ -183,7 +179,7 @@ body:
     attributes: 
       label: Category
       description: Choose the categories that best describe your ticket
-      multiple: true
+      multiple: false
       options:
         - Documentation
     validations:
