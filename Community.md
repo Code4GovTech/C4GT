@@ -37,6 +37,7 @@
     <td>Delhi Technological University</td>
   </tr>
 </table>
+
 <table>
   <tr>
     <td>Name</td>
@@ -54,6 +55,82 @@
     <td>College</td>
     <td>Ashoka University</td>
   </tr>
+</table>
+<table>
+  <tr>
+    <td>Name</td>
+    <td>bhavya</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/bhavyasri-24/C4GT.git</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>www.linkedin.com/in/bhavya-kureti-b946a129a</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>IIIT Nagpur</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>Name</td>
+    <td>Spaarsh Thakkar</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/Spaarsh</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>https://www.linkedin.com/in/spaarsh-thakkar-1b0aa7256</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>Indian Institute of Information Technology, Surat</td>
+    </tr>
+</table>
+
+<table>
+  <tr>
+    <td>Name</td>
+    <td>Abhilasha supe</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/abhilashasupe</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>https://www.linkedin.com/in/abhilasha-supe-b6129424b/</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>IIIT SURAT</td>
+  </tr>
+</table>
+    
+    
+<table>
+  <tr>
+    <td>Name</td>
+    <td>Sandeep Biswal</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/Sandeep0306</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>https://www.linkedin.com/in/sandeep-biswal-b21378158/</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>Maharaja Surajmal Institute of Technology</td>
+ </tr>
 </table>
 
 <table>
@@ -75,3 +152,5 @@
   </tr>
 </table>
 
+
+ 
