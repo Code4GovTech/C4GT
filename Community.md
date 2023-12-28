@@ -55,4 +55,22 @@
     <td>Ashoka University</td>
   </tr>
 </table>
+    <table>
+      <tr>
+        <td>Name</td>
+        <td>Mandira K Shetty </td>
+      </tr>
+      <tr>
+        <td>GitHub</td>
+        <td>https://github.com/mandirashetty</td>
+      </tr>
+      <tr>
+        <td>LinkedIn</td>
+        <td>https://www.linkedin.com/in/mandira shetty</td>
+      </tr>
+      <tr>
+        <td>College</td>
+        <td>Your College/Ramaiah University of Applied Science</td>
+      </tr>
+    </table>
 
