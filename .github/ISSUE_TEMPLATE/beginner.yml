@@ -1,6 +1,6 @@
 name: C4GT Beginner Ticket
 description: Create a new Ticket for C4GT Community
-title: "[C4GT Community]: "
+title: "[C4GT Community]: Add Basic Details to Community"
 labels: ["C4GT Community"]
 body:
   - type: textarea
@@ -29,18 +29,6 @@ body:
       value: |
         ## Goals
         - [ ] Adding your basic details
-
-  - type: textarea
-    id: ticket-expected-outcome
-    attributes:
-      label: Expected Outcome
-      description: Describe in detail what the final product or result should look like and how it should behave.
-
-  - type: textarea
-    id: ticket-acceptance-criteria
-    attributes:
-      label: Acceptance Criteria
-      description: List the acceptance criteria for this feature.
 
   - type: textarea
     id: ticket-implementation-details
@@ -111,12 +99,6 @@ body:
             Your changes will now be submitted as a pull request to the original repository, and the maintainers can review and merge them.
 
 
-  - type: textarea
-    id: ticket-mockups
-    attributes:
-      label: Mockups/Wireframes
-      description: Include links to any visual aids, mockups, wireframes, or diagrams that help illustrate what the final product should look like. This is not always necessary, but can be very helpful in many cases.
-
   - type: input
     id: ticket-product
     attributes:
@@ -138,11 +120,6 @@ body:
     validations:
       required: true
 
-  - type: input
-    id: ticket-governance-domain
-    attributes:
-      label: Domain
-      placeholder: Enter Area of Governance
 
   - type: dropdown
     id: ticket-technical-skills-required
@@ -160,6 +137,8 @@ body:
     attributes:
       label: Mentor(s)
       description: Please tag relevant mentors for the ticket
+      value: |
+         @Shruti3004
     validations:
       required: true
 
