@@ -73,4 +73,21 @@
     <td>IIIT SURAT</td>
   </tr>
 </table>
-
+<table>
+  <tr>
+    <td>Name</td>
+    <td>Sandeep Biswal</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/Sandeep0306</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>https://www.linkedin.com/in/sandeep-biswal-b21378158/</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>Maharaja Surajmal Institute of Technology</td>
+  </tr>
+</table>
