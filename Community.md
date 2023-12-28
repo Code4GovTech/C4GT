@@ -56,3 +56,23 @@
   </tr>
 </table>
 
+
+<table>
+          <tr>
+            <td>Name</td>
+            <td>Kartik Ambekar</td>
+          </tr>
+          <tr>
+            <td>GitHub</td>
+            <td>https://github.com/Kartik-Ambekar</td>
+          </tr>
+          <tr>
+            <td>LinkedIn</td>
+            <td>https://www.linkedin.com/in/kartik-v-ambekar-402b1a267/</td>
+          </tr>
+          <tr>
+            <td>College</td>
+            <td>MS Ramaiah University of Applied Sciences</td>
+          </tr>
+        </table>
+
