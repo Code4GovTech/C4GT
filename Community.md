@@ -58,19 +58,19 @@
     <table>
       <tr>
         <td>Name</td>
-        <td>Your Name</td>
+        <td>Arsh Sinha</td>
       </tr>
       <tr>
         <td>GitHub</td>
-        <td>https://github.com/your-username</td>
+        <td>https://github.com/arshsinha22</td>
       </tr>
       <tr>
         <td>LinkedIn</td>
-        <td>https://www.linkedin.com/in/your-linkedin</td>
+        <td>https://www.linkedin.com/in/arshsinha22</td>
       </tr>
       <tr>
         <td>College</td>
-        <td>Your College/University</td>
+        <td>IIITDM Jabalpur </td>
       </tr>
     </table>
 
