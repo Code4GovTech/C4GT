@@ -55,7 +55,7 @@ body:
           4. **Edit the Community.md File:**
              - Open the `Community.md` file in a text editor. You can use any code editor or a simple text editor.
              - Locate the existing table and replace the details with your own:
-            ```markdown
+             ```markdown
                  <table>
                    <tr>
                      <td>Name</td>
@@ -74,7 +74,7 @@ body:
                      <td>Your College/University</td>
                    </tr>
                  </table>
-            ```
+             ```
            5. **Save Changes:**
              - Save the changes to the `Community.md` file.
            6. **Commit Changes:**
