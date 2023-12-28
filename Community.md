@@ -55,4 +55,21 @@
     <td>Ashoka University</td>
   </tr>
 </table>
-
+<table>
+  <tr>
+    <td>Name</td>
+    <td>Shreya Sinha</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/Shailiza-mayal</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>https://www.linkedin.com/in/shreya-sinha-962a26257/</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>NIT Kurukshetra</td>
+  </tr>
+</table>
