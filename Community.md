@@ -571,3 +571,22 @@
     <td>IIIT Surat</td>
   </tr>
 </table>
+
+    <table>
+      <tr>
+        <td>Name</td>
+        <td>Akshi Pahade</td>
+      </tr>
+      <tr>
+        <td>GitHub</td>
+        <td>https://github.com/Akshit2807</td>
+      </tr>
+      <tr>
+        <td>LinkedIn</td>
+        <td>https://www.linkedin.com/in/akshit-pahade-5b2799290/</td>
+      </tr>
+      <tr>
+        <td>College</td>
+        <td>IIIT Bhopal</td>
+      </tr>
+    </table>
