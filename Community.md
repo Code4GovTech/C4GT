@@ -438,3 +438,22 @@
     <td>Indian Institute of Information Technology, Lucknow (IIITL)</td>
   </tr>
 </table>
+
+<table>
+  <tr>
+    <td>Name</td>
+    <td>Ishit Godshalwar</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/ishitg</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>https://www.linkedin.com/in/ishit-g-7ba6b5114/</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>IIIT Nagpur</td>
+  </tr>
+</table>
