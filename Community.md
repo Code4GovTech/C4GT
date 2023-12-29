@@ -72,6 +72,24 @@
     <td>Indian Institute of Information Technology, Design and Manufacturing, Jabalpur</td>
   </tr>
 </table>
+ <table>
+      <tr>
+        <td>Name</td>
+        <td>Arsh Sinha</td>
+      </tr>
+      <tr>
+        <td>GitHub</td>
+        <td>https://github.com/arshsinha22</td>
+      </tr>
+      <tr>
+        <td>LinkedIn</td>
+        <td>https://www.linkedin.com/in/arshsinha22</td>
+      </tr>
+      <tr>
+        <td>College</td>
+        <td>Indian Institute of Information Technology, Design and Manufacturing, Jabalpur</td>
+      </tr>
+    </table>
 </table>
 <table>
   <tr>
@@ -187,7 +205,6 @@
     <td>Indian Institute of Information Technology, Surat</td>
     </tr>
 </table>
-
 <table>
   <tr>
     <td>Name</td>
@@ -436,9 +453,6 @@
     <td>NIT Kurukshetra</td>
   </tr>
 </table>
-
-
-
 <table>
   <tr>
     <td>Name</td>
