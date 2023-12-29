@@ -348,6 +348,25 @@
 <table>
       <tr>
         <td>Name</td>
+        <td>TANMAY KUMAR SWAIN</td>
+      </tr>
+      <tr>
+        <td>GitHub</td>
+        <td>https://github.com/tanXnyx</td>
+      </tr>
+      <tr>
+        <td>LinkedIn</td>
+      <td>https://www.linkedin.com/in/tanmay-kumar-swain-60a524257/</td>
+      </tr>
+      <tr>
+        <td>College</td>
+        <td>ITER </td>
+      </tr>
+    </table>
+
+<table>
+      <tr>
+        <td>Name</td>
         <td>Negrah Singh</td>
       </tr>
       <tr>
