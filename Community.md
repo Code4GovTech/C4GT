@@ -285,3 +285,21 @@
       </tr>
     </table>
 
+    <table>
+      <tr>
+        <td>Name</td>
+        <td>ARJUN VARSHNEY</td>
+      </tr>
+      <tr>
+        <td>GitHub</td>
+        <td>https://github.com/arrjunn</td>
+      </tr>
+      <tr>
+        <td>LinkedIn</td>
+        <td>https://www.linkedin.com/in/arjun-varshney-178b042a6/</td>
+      </tr>
+      <tr>
+        <td>College</td>
+        <td>IIIT Nagpur</td>
+      </tr>
+    </table>
