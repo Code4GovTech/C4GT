@@ -284,7 +284,6 @@
         <td>National Institute of Technology, Rourkela</td>
       </tr>
     </table>
-
     <table>
       <tr>
         <td>Name</td>
