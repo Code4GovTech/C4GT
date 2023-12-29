@@ -56,6 +56,24 @@
     <td>Ashoka University</td>
   </tr>
 </table>
+<table>
+  <tr>
+    <td>Name</td>
+    <td>GN Jena</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/blackkite88</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>https://www.linkedin.com/in/girija-n-jena-044972272/</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>National Institute of Technology , Rourkela</td>
+  </tr>
+</table>
 
 <table>
   <tr>
@@ -364,7 +382,64 @@
       </tr>
     </table>
 
-  <table>
+<table>
+      <tr>
+        <td>Name</td>
+        <td>Negrah Singh</td>
+      </tr>
+      <tr>
+        <td>GitHub</td>
+        <td>https://github.com/NEGRAH-S</td>
+      </tr>
+      <tr>
+        <td>LinkedIn</td>
+        <td>https://www.linkedin.com/in/negrahs23</td>
+      </tr>
+      <tr>
+        <td>College</td>
+        <td>Maharaja Surajmal Institute of Technology</td>
+      </tr>
+    </table>
+
+<table>
+  <tr>
+    <td>Name</td>
+    <td>Shreya Sinha</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/Shailiza-mayal</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>https://www.linkedin.com/in/shreya-sinha-962a26257/</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>NIT Kurukshetra</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>Name</td>
+    <td>Animesh Sahu</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/Animeshz/</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>https://www.linkedin.com/in/animeshz/</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>Indian Institute of Information Technology, Lucknow (IIITL)</td>
+  </tr>
+</table>
+
+<table>
   <tr>
     <td>Name</td>
     <td>Gyanendu Bikash Boitai</td>
@@ -382,4 +457,3 @@
     <td>Siksha O Anusandhan University, Bhubaneswar</td>
   </tr>
 </table>
-
