@@ -571,3 +571,22 @@
     <td>IIIT Surat</td>
   </tr>
 </table>
+
+<table>
+  <tr>
+    <td>Name</td>
+    <td>Praveen Jaiswal</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/rootCircle</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>https://www.linkedin.com/in/rootCircle</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>Indian Institute of Information Technology, Lucknow (IIITL)</td>
+  </tr>
+</table>
