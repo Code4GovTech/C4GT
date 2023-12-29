@@ -457,3 +457,22 @@
     <td>Siksha O Anusandhan University, Bhubaneswar</td>
   </tr>
 </table>
+
+<table>
+  <tr>
+    <td>Name</td>
+    <td>Hamesh Kumar Puniya</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/Hamesh142003</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>https://www.linkedin.com/in/hamesh-puniya-5a102125b/</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>Indian Institute of Information Technology,Surat</td>
+  </tr>
+</table>
