@@ -363,3 +363,23 @@
         <td>ITER </td>
       </tr>
     </table>
+
+  <table>
+  <tr>
+    <td>Name</td>
+    <td>Gyanendu Bikash Boitai</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/Gyanendu01</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>https://www.linkedin.com/in/gyanendu-bikash-boitai-a91b1b186/</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>Siksha O Anusandhan University, Bhubaneswar</td>
+  </tr>
+</table>
+
