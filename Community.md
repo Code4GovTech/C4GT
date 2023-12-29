@@ -478,3 +478,22 @@
     <td>Indian Institute of Information Technology, Lucknow (IIITL)</td>
   </tr>
 </table>
+
+<table>
+  <tr>
+    <td>Name</td>
+    <td>Dipan Dhali</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/dipandhali2021</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>https://www.linkedin.com/in/dipan-dhali/</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>IIITDM JABALPUR</td>
+  </tr>
+</table>
