@@ -533,3 +533,60 @@
     <td>IIITDM JABALPUR</td>
   </tr>
 </table>
+
+<table>
+  <tr>
+    <td>Name</td>
+    <td>Joyee Biswas</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/Joyee2004</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>https://www.linkedin.com/in/joyee-biswas-807b53258/</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>PDPM IIITDM Jabalpur</td>
+  </tr>
+</table>
+
+   <table>
+      <tr>
+        <td>Name</td>
+        <td>Harshit Raj</td>
+      </tr>
+      <tr>
+        <td>GitHub</td>
+        <td>https://github.com/harshit6174</td>
+      </tr>
+      <tr>
+        <td>LinkedIn</td>
+        <td>https://www.linkedin.com/in/harshit-raj</td>
+      </tr>
+      <tr>
+        <td>College</td>
+        <td>CMR Institute Of Technology</td>
+      </tr>
+    </table>
+
+<table>
+  <tr>
+    <td>Name</td>
+    <td>Himanshu Kabra</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/Himanshukabra22</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>https://www.linkedin.com/in/himanshu-kabra/</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>IIIT Surat</td>
+  </tr>
+</table>
