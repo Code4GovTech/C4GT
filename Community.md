@@ -345,3 +345,22 @@
     <td>INdian Institute of Information Technology, Lucknow</td>
   </tr>
 </table>
+    <table>
+      <tr>
+        <td>Name</td>
+        <td>Anugya Singh</td>
+      </tr>
+      <tr>
+        <td>GitHub</td>
+        <td>https://github.com/Anugyasingh21</td>
+      </tr>
+      <tr>
+        <td>LinkedIn</td>
+        <td>www.linkedin.com/in/anugya-singh-5a1726233</td>
+
+      </tr>
+      <tr>
+        <td>College</td>
+        <td>National Institute of Technology,Jalandhar</td>
+      </tr>
+    </table>
