@@ -326,3 +326,22 @@
     <td>indian institute of information technology , nagpur</td>
   </tr>
 </table>
+
+<table>
+  <tr>
+    <td>Name</td>
+    <td>Aman Vishwakarma</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/AMANVISHWAKARMA27</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>https://www.linkedin.com/in/aman-vishwakarma-3b788828a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>INdian Institute of Information Technology, Lucknow</td>
+  </tr>
+</table>
