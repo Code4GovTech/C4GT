@@ -149,7 +149,6 @@
       </tr>
     </table>
 
-
 <table>
       <tr>
         <td>Name</td>
@@ -226,8 +225,6 @@
   </tr>
 </table>
 
-    
-    
 <table>
   <tr>
     <td>Name</td>
@@ -303,7 +300,6 @@
         <td>National Institute Of Technology, Rourkela</td>
       </tr>
     </table>
-
 
 <table>
       <tr>
@@ -437,8 +433,6 @@
   </tr>
 </table>
 
-
-
 <table>
   <tr>
     <td>Name</td>
@@ -512,5 +506,24 @@
   <tr>
     <td>College</td>
     <td>IIITDM JABALPUR</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>Name</td>
+    <td>Himanshu Kabra</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/Himanshukabra22</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>https://www.linkedin.com/in/himanshu-kabra/</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>IIIT Surat</td>
   </tr>
 </table>
