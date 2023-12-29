@@ -460,5 +460,4 @@
         <td>College</td>
         <td>National Institute of Technology, Kurukshetra</td>
       </tr>
-     
     </table>
