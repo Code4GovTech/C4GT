@@ -438,3 +438,27 @@
     <td>Indian Institute of Information Technology, Lucknow (IIITL)</td>
   </tr>
 </table>
+
+    <table>
+      <tr>
+        <td>Name</td>
+        <td>Riya Raj</td>
+      </tr>
+      <tr>
+        <td>GitHub</td>
+        <td>https://github.com/RiyaRaj28</td>
+      </tr>
+      <tr>
+        <td>LinkedIn</td>
+        <td>www.linkedin.com/in/riya-raj-799152281</td>
+      </tr>
+       <tr>
+        <td>Twitter</td>
+        <td>https://x.com/rraj7674?t=TpzIzvbdsFzQiKwsGD9jcw&s=09</td>
+      </tr>
+      <tr>
+        <td>College</td>
+        <td>National Institute of Technology, Kurukshetra</td>
+      </tr>
+     
+    </table>
