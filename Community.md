@@ -3,6 +3,25 @@
 <table>
   <tr>
     <td>Name</td>
+    <td>Ashish Padhy</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/Shurtu-gal</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>https://www.linkedin.com/in/ashish-padhy3023/</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>NIT Rourkela</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>Name</td>
     <td>Shruti Agarwal</td>
   </tr>
   <tr>
