@@ -571,3 +571,22 @@
     <td>IIIT Surat</td>
   </tr>
 </table>
+
+<table>
+  <tr>
+    <td>Name</td>
+    <td>Gourav</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/Gourav2609</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>https://www.linkedin.com/in/gourav-a6266014b/</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>Army Institute of Technology Pune</td>
+  </tr>
+</table>
