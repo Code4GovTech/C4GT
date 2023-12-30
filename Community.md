@@ -571,3 +571,22 @@
     <td>IIIT Surat</td>
   </tr>
 </table>
+
+<table>
+  <tr>
+    <td>Name</td>
+    <td>Sujal Singh</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/SUJALSINGH7473</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>https://www.linkedin.com/in/sujal-singh-4a0b49223/</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>NIT Jalandhar</td>
+  </tr>
+</table>
