@@ -149,7 +149,6 @@
       </tr>
     </table>
 
-
 <table>
       <tr>
         <td>Name</td>
@@ -226,8 +225,6 @@
   </tr>
 </table>
 
-    
-    
 <table>
   <tr>
     <td>Name</td>
@@ -303,7 +300,6 @@
         <td>National Institute Of Technology, Rourkela</td>
       </tr>
     </table>
-
 
 <table>
       <tr>
@@ -437,8 +433,6 @@
   </tr>
 </table>
 
-
-
 <table>
   <tr>
     <td>Name</td>
@@ -569,5 +563,24 @@
   <tr>
     <td>College</td>
     <td>IIIT Surat</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>Name</td>
+    <td>Jayesh Savaliya</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/jayesh9747</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>hhttps://www.linkedin.com/in/jayesh-savaliya-b677541a7/</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>IIIT Pune</td>
   </tr>
 </table>
