@@ -53,8 +53,25 @@
   </tr>
   <tr>
     <td>College</td>
-    <td>Ashoka University</td>
+
+ <table>
+  <tr>
+    <td>Name</td>
+    <td>Aman Raj</td>
   </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/vulture278</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>https://www.linkedin.com/in/aman-r-1676751b6</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>Indian Institute of Information Technology, Design and Manufacturing, Jabalpur</td>
+  </tr>
+</table>
 </table>
 <table>
   <tr>
@@ -420,6 +437,46 @@
   </tr>
 </table>
 
+
+
+<table>
+  <tr>
+    <td>Name</td>
+    <td>Gyanendu Bikash Boitai</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/Gyanendu01</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>https://www.linkedin.com/in/gyanendu-bikash-boitai-a91b1b186/</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>Siksha O Anusandhan University, Bhubaneswar</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>Name</td>
+    <td>Hamesh Kumar Puniya</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/Hamesh142003</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>https://www.linkedin.com/in/hamesh-puniya-5a102125b/</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>Indian Institute of Information Technology,Surat</td>
+  </tr>
+</table>
+
 <table>
   <tr>
     <td>Name</td>
@@ -442,6 +499,7 @@
 <table>
   <tr>
     <td>Name</td>
+
     <td>Riya Raj</td>
   </tr>
   <tr>
@@ -461,3 +519,76 @@
     <td>National Institute of Technology, Kurukshetra</td>
   </tr>
 </table> 
+
+    <td>Dipan Dhali</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/dipandhali2021</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>https://www.linkedin.com/in/dipan-dhali/</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>IIITDM JABALPUR</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>Name</td>
+    <td>Joyee Biswas</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/Joyee2004</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>https://www.linkedin.com/in/joyee-biswas-807b53258/</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>PDPM IIITDM Jabalpur</td>
+  </tr>
+</table>
+
+   <table>
+      <tr>
+        <td>Name</td>
+        <td>Harshit Raj</td>
+      </tr>
+      <tr>
+        <td>GitHub</td>
+        <td>https://github.com/harshit6174</td>
+      </tr>
+      <tr>
+        <td>LinkedIn</td>
+        <td>https://www.linkedin.com/in/harshit-raj</td>
+      </tr>
+      <tr>
+        <td>College</td>
+        <td>CMR Institute Of Technology</td>
+      </tr>
+    </table>
+
+<table>
+  <tr>
+    <td>Name</td>
+    <td>Himanshu Kabra</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/Himanshukabra22</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>https://www.linkedin.com/in/himanshu-kabra/</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>IIIT Surat</td>
+  </tr>
+</table>
