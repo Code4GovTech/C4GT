@@ -571,3 +571,22 @@
     <td>IIIT Surat</td>
   </tr>
 </table>
+
+<table>
+       <tr>
+         <td>Name</td>
+         <td>Prabhpreet Kaur</td>
+       </tr>
+       <tr>
+         <td>GitHub</td>
+         <td>https://github.com/naina35</td>
+       </tr>
+       <tr>
+         <td>LinkedIn</td>
+         <td>https://www.linkedin.com/in/prabhpreet-kaur-bb5775253</td>
+       </tr>
+       <tr>
+         <td>College</td>
+         <td>NIT Jalandhar</td>
+       </tr>
+     </table>
