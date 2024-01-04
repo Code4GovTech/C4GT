@@ -7,7 +7,7 @@
   </tr>
   <tr>
     <td>GitHub</td>
-        <td>https://github.com/Shruti3004</td>
+    <td>https://github.com/Shruti3004</td>
   </tr>
   <tr>
     <td>LinkedIn</td>
@@ -18,7 +18,6 @@
     <td>JSS Academy of Technical Education, Noida</td>
   </tr>
 </table>
-
 <table>
       <tr>
         <td>Name</td>
