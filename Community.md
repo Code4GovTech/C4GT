@@ -33,7 +33,7 @@
       </tr>
       <tr>
         <td>College</td>
-        <td>NIT KKR</td>
+        <td>NIT KURUKSHETRA</td>
       </tr>
     </table>
 <table>
