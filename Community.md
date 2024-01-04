@@ -571,3 +571,22 @@
     <td>IIIT Surat</td>
   </tr>
 </table>
+
+<table>
+  <tr>
+    <td>Name</td>
+    <td>Krushna Prasad Marndi</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/krushn-a</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>www.linkedin.com/in/krushna-prasad-marndi-07604b258</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>IIITDM Jabalpur</td>
+  </tr>
+</table>
