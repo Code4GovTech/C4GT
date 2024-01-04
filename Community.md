@@ -571,3 +571,21 @@
     <td>IIIT Surat</td>
   </tr>
 </table>
+<table>
+      <tr>
+        <td>Name</td>
+        <td>Mayank Kumar</td>
+      </tr>
+      <tr>
+        <td>GitHub</td>
+        <td>https://github.com/Mayankkumar6017</td>
+      </tr>
+      <tr>
+        <td>LinkedIn</td>
+        <td>https://www.linkedin.com/in/mayank-kumar-79482b287/</td>
+      </tr>
+      <tr>
+        <td>College</td>
+        <td>National Institute Of Technology, Kurukshetra</td>
+      </tr>
+</table>
