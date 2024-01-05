@@ -608,6 +608,5 @@
       <tr>
         <td>College</td>
         <td>PDPM IIIT DMJ</td>
-
       </tr>
     </table>
