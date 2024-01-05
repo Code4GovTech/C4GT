@@ -588,3 +588,21 @@
       <td>Maharaja Surajmal Institute of Technology</td>
   </tr>
 </table>
+<table>
+      <tr>
+        <td>Name</td>
+        <td>Ajay Bansal</td>
+      </tr>
+      <tr>
+        <td>GitHub</td>
+        <td>https://github.com/abansal15</td>
+      </tr>
+      <tr>
+        <td>LinkedIn</td>
+        <td>https://www.linkedin.com/in/ajay-bansal-a51572256/</td>
+      </tr>
+      <tr>
+        <td>College</td>
+        <td>PDPM IIIT DMJ</td>
+      </tr>
+ </table>
