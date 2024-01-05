@@ -572,21 +572,42 @@
   </tr>
 </table>
 
-    <table>
+<table>
+  <tr>
+    <td>Name</td>
+    <td>Akshit Pahade</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/Akshit2807</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>https://www.linkedin.com/in/akshit-pahade-5b2799290/</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>IIIT Bhopal</td>
+  </tr>
+</table>
+
+
+<table>
       <tr>
         <td>Name</td>
-        <td>Akshi Pahade</td>
+        <td>Ajay Bansal</td>
       </tr>
       <tr>
         <td>GitHub</td>
-        <td>https://github.com/Akshit2807</td>
+        <td>https://github.com/abansal15</td>
       </tr>
       <tr>
         <td>LinkedIn</td>
-        <td>https://www.linkedin.com/in/akshit-pahade-5b2799290/</td>
+        <td>https://www.linkedin.com/in/ajay-bansal-a51572256/</td>
       </tr>
       <tr>
         <td>College</td>
-        <td>IIIT Bhopal</td>
+        <td>PDPM IIIT DMJ</td>
+
       </tr>
     </table>
