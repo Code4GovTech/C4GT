@@ -590,3 +590,22 @@
         <td>PDPM IIIT DMJ</td>
       </tr>
     </table>
+
+  <table>
+      <tr>
+        <td>Name</td>
+        <td>Saswat Samal</td>
+      </tr>
+      <tr>
+        <td>GitHub</td>
+        <td>https://github.com/saswat10</td>
+      </tr>
+      <tr>
+        <td>LinkedIn</td>
+        <td>https://www.linkedin.com/in/saswat1091/</td>
+      </tr>
+      <tr>
+        <td>College</td>
+        <td>National Institute of Technology, Rourkela</td>
+      </tr>
+  </table>
