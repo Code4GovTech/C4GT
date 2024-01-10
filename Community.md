@@ -740,3 +740,22 @@
         <td>National Institute Of Technology, Kurukshetra</td>
       </tr>
 </table>
+
+<table>
+      <tr>
+        <td>Name</td>
+        <td>Vinay Dhankhar</td>
+      </tr>
+      <tr>
+        <td>GitHub</td>
+        <td>https://github.com/vinay-dhankhar</td>
+      </tr>
+      <tr>
+        <td>LinkedIn</td>
+        <td>https://www.linkedin.com/in/vinay-dhankhar-757a45247</td>
+      </tr>
+      <tr>
+        <td>College</td>
+        <td>NIT Kurukshetra</td>
+      </tr>
+    </table>
