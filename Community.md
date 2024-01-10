@@ -18,7 +18,24 @@
     <td>JSS Academy of Technical Education, Noida</td>
   </tr>
 </table>
-
+<table>
+      <tr>
+        <td>Name</td>
+        <td>Arnav Goel</td>
+      </tr>
+      <tr>
+        <td>GitHub</td>
+        <td>https://github.com/arnav-1211</td>
+      </tr>
+      <tr>
+        <td>LinkedIn</td>
+        <td>https://www.linkedin.com/in/arnav-goel-861a2b118?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app</td>
+      </tr>
+      <tr>
+        <td>College</td>
+        <td>NIT KURUKSHETRA</td>
+      </tr>
+    </table>
 <table>
   <tr>
     <td>Name</td>
