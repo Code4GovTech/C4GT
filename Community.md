@@ -647,3 +647,23 @@
     <td>Shri Vaishnav Vidyapeeth Vishwavidyalaya, Indore</td>
   </tr>
 </table>
+
+<table>
+      <tr>
+        <td>Name</td>
+        <td>Sumit Agarwal</td>
+      </tr>
+      <tr>
+        <td>GitHub</td>
+        <td>https://github.com/CodeVoyager-Sumit</td>
+      </tr>
+      <tr>
+        <td>LinkedIn</td>
+        <td>https://www.linkedin.com/in/sumit-agarwal-158b98297/</td>
+      </tr>
+      <tr>
+        <td>College</td>
+        <td>NIT Kurukshetra</td>
+      </tr>
+    </table>
+Footer
