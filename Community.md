@@ -629,3 +629,21 @@
   </tr>
 </table>
 
+ <table>
+  <tr>
+    <td>Name</td>
+    <td>Manasvi Bagherwal</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/Manasvie</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>https://www.linkedin.com/in/manasvi-bagherwal</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>Shri Vaishnav Vidyapeeth Vishwavidyalaya, Indore</td>
+  </tr>
+</table>
