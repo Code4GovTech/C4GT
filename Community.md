@@ -18,7 +18,24 @@
     <td>JSS Academy of Technical Education, Noida</td>
   </tr>
 </table>
-
+<table>
+      <tr>
+        <td>Name</td>
+        <td>Arnav Goel</td>
+      </tr>
+      <tr>
+        <td>GitHub</td>
+        <td>https://github.com/arnav-1211</td>
+      </tr>
+      <tr>
+        <td>LinkedIn</td>
+        <td>https://www.linkedin.com/in/arnav-goel-861a2b118?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app</td>
+      </tr>
+      <tr>
+        <td>College</td>
+        <td>NIT KURUKSHETRA</td>
+      </tr>
+    </table>
 <table>
   <tr>
     <td>Name</td>
@@ -499,6 +516,25 @@
 <table>
   <tr>
     <td>Name</td>
+    <td>Dhrutinandan Swain</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/coder-XX04/</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>https://linkedin.com/in/dhrutinandan-swain-684743231/</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>NIT ROURKELA</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>Name</td>
     <td>Dipan Dhali</td>
   </tr>
   <tr>
@@ -571,6 +607,101 @@
     <td>IIIT Surat</td>
   </tr>
 </table>
+
+<table>
+      <tr>
+        <td>Name</td>
+        <td>Ajay Bansal</td>
+      </tr>
+      <tr>
+        <td>GitHub</td>
+        <td>https://github.com/abansal15</td>
+      </tr>
+      <tr>
+        <td>LinkedIn</td>
+        <td>https://www.linkedin.com/in/ajay-bansal-a51572256/</td>
+      </tr>
+      <tr>
+        <td>College</td>
+        <td>PDPM IIIT DMJ</td>
+      </tr>
+    </table>
+
+  <table>
+      <tr>
+        <td>Name</td>
+        <td>Saswat Samal</td>
+      </tr>
+      <tr>
+        <td>GitHub</td>
+        <td>https://github.com/saswat10</td>
+      </tr>
+      <tr>
+        <td>LinkedIn</td>
+        <td>https://www.linkedin.com/in/saswat1091/</td>
+      </tr>
+      <tr>
+        <td>College</td>
+        <td>National Institute of Technology, Rourkela</td>
+      </tr>
+  </table>
+
+<table>
+  <tr>
+    <td>Name</td>
+    <td>Huzaif Malik</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/huzaifmalik786</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>https://www.linkedin.com/in/huzaif-malik-8ab2b5232/</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>Jamia Millia Islamia, New Delhi</td>
+  </tr>
+</table>
+
+ <table>
+  <tr>
+    <td>Name</td>
+    <td>Manasvi Bagherwal</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/Manasvie</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>https://www.linkedin.com/in/manasvi-bagherwal</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>Shri Vaishnav Vidyapeeth Vishwavidyalaya, Indore</td>
+  </tr>
+</table>
+
+<table>
+      <tr>
+        <td>Name</td>
+        <td>Sumit Agarwal</td>
+      </tr>
+      <tr>
+        <td>GitHub</td>
+        <td>https://github.com/CodeVoyager-Sumit</td>
+      </tr>
+      <tr>
+        <td>LinkedIn</td>
+        <td>https://www.linkedin.com/in/sumit-agarwal-158b98297/</td>
+      </tr>
+      <tr>
+        <td>College</td>
+        <td>NIT Kurukshetra</td>
+      </tr>
+    </table>
 
 <table>
   <tr>
