@@ -759,3 +759,21 @@
         <td>NIT Kurukshetra</td>
       </tr>
     </table>
+<table>
+  <tr>
+    <td>Name</td>
+    <td>Sakshi Jaiswal</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/babitarit</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>https://www.linkedin.com/in/sakshijaiswal1/</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>NIT Rourkela</td>
+  </tr>
+</table>
