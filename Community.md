@@ -499,6 +499,25 @@
 <table>
   <tr>
     <td>Name</td>
+    <td>Dhrutinandan Swain</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/coder-XX04/</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>https://linkedin.com/in/dhrutinandan-swain-684743231/</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>NIT ROURKELA</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>Name</td>
     <td>Dipan Dhali</td>
   </tr>
   <tr>
