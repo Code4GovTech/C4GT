@@ -591,7 +591,64 @@
       </tr>
     </table>
 
-    <table>
+  <table>
+      <tr>
+        <td>Name</td>
+        <td>Saswat Samal</td>
+      </tr>
+      <tr>
+        <td>GitHub</td>
+        <td>https://github.com/saswat10</td>
+      </tr>
+      <tr>
+        <td>LinkedIn</td>
+        <td>https://www.linkedin.com/in/saswat1091/</td>
+      </tr>
+      <tr>
+        <td>College</td>
+        <td>National Institute of Technology, Rourkela</td>
+      </tr>
+  </table>
+
+<table>
+  <tr>
+    <td>Name</td>
+    <td>Huzaif Malik</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/huzaifmalik786</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>https://www.linkedin.com/in/huzaif-malik-8ab2b5232/</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>Jamia Millia Islamia, New Delhi</td>
+  </tr>
+</table>
+
+ <table>
+  <tr>
+    <td>Name</td>
+    <td>Manasvi Bagherwal</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/Manasvie</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>https://www.linkedin.com/in/manasvi-bagherwal</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>Shri Vaishnav Vidyapeeth Vishwavidyalaya, Indore</td>
+  </tr>
+</table>
+
+<table>
       <tr>
         <td>Name</td>
         <td>Sumit Agarwal</td>
@@ -609,3 +666,4 @@
         <td>NIT Kurukshetra</td>
       </tr>
     </table>
+Footer
