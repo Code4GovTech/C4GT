@@ -759,3 +759,21 @@
         <td>NIT Kurukshetra</td>
       </tr>
     </table>
+        <table>
+      <tr>
+        <td>Name</td>
+        <td>Arman Kumar Jena</td>
+      </tr>
+      <tr>
+        <td>GitHub</td>
+        <td>https://github.com/Ajen07</td>
+      </tr>
+      <tr>
+        <td>LinkedIn</td>
+        <td>https://www.linkedin.com/in/arman-kumar-jena-9b6a9322a</td>
+      </tr>
+      <tr>
+        <td>College</td>
+        <td>National Institute of Technology , Rourkela</td>
+      </tr>
+    </table>
