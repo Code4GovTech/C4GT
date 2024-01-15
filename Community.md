@@ -759,6 +759,7 @@
         <td>NIT Kurukshetra</td>
       </tr>
     </table>
+
 <table>
   <tr>
     <td>Name</td>
@@ -777,3 +778,6 @@
     <td>NIT Rourkela</td>
   </tr>
 </table>
+Footer
+
+
