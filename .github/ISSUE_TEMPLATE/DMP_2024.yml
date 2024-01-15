@@ -78,7 +78,7 @@ body:
     validations:
       required: true
 
-  - type: input
+  - type: dropdown
     id: ticket-governance-domain
     attributes:
       label: Domain
@@ -92,6 +92,8 @@ body:
         - Babel
         - Bootstrap
         - C#
+    validations:
+      required: true
 
 
   - type: dropdown
