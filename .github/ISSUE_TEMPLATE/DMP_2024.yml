@@ -83,12 +83,14 @@ body:
     attributes:
       label: Domain
       options:
-        - Health
-        - Education 
-        - Skills & Development
-        - Agriculture
+        - ⁠Healthcare 
+        - ⁠Education
+        - ⁠Livelihoods
+        - ⁠Skilling 
+        - ⁠Learning & Development
+        - ⁠Agriculture
+        - ⁠Service Delivery
         - Open Source Library
-        - Law
     validations:
       required: true
 
