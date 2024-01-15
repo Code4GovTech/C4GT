@@ -83,15 +83,12 @@ body:
     attributes:
       label: Domain
       options:
-        - .NET
-        - Agile
-        - Angular
-        - Artificial Intelligence
-        - ASP.NET
-        - AWS
-        - Babel
-        - Bootstrap
-        - C#
+        - Health
+        - Education 
+        - Skills & Development
+        - Agriculture
+        - Open Source Library
+        - Law
     validations:
       required: true
 
