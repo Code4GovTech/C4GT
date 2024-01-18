@@ -69,6 +69,7 @@ body:
       description: Enter Organisation Name
       multiple: false
       options:
+        - Planet Read
         - Dhiway
         - FIDE
         - SamagraX
