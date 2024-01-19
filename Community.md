@@ -18,24 +18,27 @@
     <td>JSS Academy of Technical Education, Noida</td>
   </tr>
 </table>
+
 <table>
-      <tr>
-        <td>Name</td>
-        <td>Arnav Goel</td>
-      </tr>
-      <tr>
-        <td>GitHub</td>
-        <td>https://github.com/arnav-1211</td>
-      </tr>
-      <tr>
-        <td>LinkedIn</td>
-        <td>https://www.linkedin.com/in/arnav-goel-861a2b118?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app</td>
-      </tr>
-      <tr>
-        <td>College</td>
-        <td>NIT KURUKSHETRA</td>
-      </tr>
-    </table>
+  <tr>
+    <td>Name</td>
+    <td>Arnav Goel</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/arnav-1211</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>https://www.linkedin.com/in/arnav-goel-861a2b118?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+  </td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>NIT KURUKSHETRA</td>
+  </tr>
+</table>
+
 <table>
   <tr>
     <td>Name</td>
@@ -70,8 +73,10 @@
   </tr>
   <tr>
     <td>College</td>
+  </tr>
+</table>
 
- <table>
+<table>
   <tr>
     <td>Name</td>
     <td>Aman Raj</td>
@@ -89,7 +94,7 @@
     <td>Indian Institute of Information Technology, Design and Manufacturing, Jabalpur</td>
   </tr>
 </table>
-</table>
+
 <table>
   <tr>
     <td>Name</td>
@@ -165,7 +170,6 @@
         <td>NIT Rourkela</td>
       </tr>
     </table>
-
 
 <table>
       <tr>
@@ -243,8 +247,6 @@
   </tr>
 </table>
 
-    
-    
 <table>
   <tr>
     <td>Name</td>
@@ -397,43 +399,44 @@
     <td>INdian Institute of Information Technology, Lucknow</td>
   </tr>
 </table>
-<table>
-      <tr>
-        <td>Name</td>
-        <td>TANMAY KUMAR SWAIN</td>
-      </tr>
-      <tr>
-        <td>GitHub</td>
-        <td>https://github.com/tanXnyx</td>
-      </tr>
-      <tr>
-        <td>LinkedIn</td>
-      <td>https://www.linkedin.com/in/tanmay-kumar-swain-60a524257/</td>
-      </tr>
-      <tr>
-        <td>College</td>
-        <td>ITER </td>
-      </tr>
-    </table>
 
 <table>
-      <tr>
-        <td>Name</td>
-        <td>Negrah Singh</td>
-      </tr>
-      <tr>
-        <td>GitHub</td>
-        <td>https://github.com/NEGRAH-S</td>
-      </tr>
-      <tr>
-        <td>LinkedIn</td>
-        <td>https://www.linkedin.com/in/negrahs23</td>
-      </tr>
-      <tr>
-        <td>College</td>
-        <td>Maharaja Surajmal Institute of Technology</td>
-      </tr>
-    </table>
+  <tr>
+    <td>Name</td>
+    <td>TANMAY KUMAR SWAIN</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/tanXnyx</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>https://www.linkedin.com/in/tanmay-kumar-swain-60a524257/</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>ITER </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>Name</td>
+    <td>Negrah Singh</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/NEGRAH-S</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>https://www.linkedin.com/in/negrahs23</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>Maharaja Surajmal Institute of Technology</td>
+  </tr>
+</table>
 
 <table>
   <tr>
@@ -453,8 +456,6 @@
     <td>NIT Kurukshetra</td>
   </tr>
 </table>
-
-
 
 <table>
   <tr>
@@ -570,24 +571,24 @@
   </tr>
 </table>
 
-   <table>
-      <tr>
-        <td>Name</td>
-        <td>Harshit Raj</td>
-      </tr>
-      <tr>
-        <td>GitHub</td>
-        <td>https://github.com/harshit6174</td>
-      </tr>
-      <tr>
-        <td>LinkedIn</td>
-        <td>https://www.linkedin.com/in/harshit-raj</td>
-      </tr>
-      <tr>
-        <td>College</td>
-        <td>CMR Institute Of Technology</td>
-      </tr>
-    </table>
+<table>
+  <tr>
+    <td>Name</td>
+    <td>Harshit Raj</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/harshit6174</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>https://www.linkedin.com/in/harshit-raj</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>CMR Institute Of Technology</td>
+  </tr>
+</table>
 
 <table>
   <tr>
@@ -609,42 +610,42 @@
 </table>
 
 <table>
-      <tr>
-        <td>Name</td>
-        <td>Ajay Bansal</td>
-      </tr>
-      <tr>
-        <td>GitHub</td>
-        <td>https://github.com/abansal15</td>
-      </tr>
-      <tr>
-        <td>LinkedIn</td>
-        <td>https://www.linkedin.com/in/ajay-bansal-a51572256/</td>
-      </tr>
-      <tr>
-        <td>College</td>
-        <td>PDPM IIIT DMJ</td>
-      </tr>
-    </table>
+  <tr>
+    <td>Name</td>
+    <td>Ajay Bansal</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/abansal15</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>https://www.linkedin.com/in/ajay-bansal-a51572256/</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>PDPM IIIT DMJ</td>
+  </tr>
+</table>
 
-  <table>
-      <tr>
-        <td>Name</td>
-        <td>Saswat Samal</td>
-      </tr>
-      <tr>
-        <td>GitHub</td>
-        <td>https://github.com/saswat10</td>
-      </tr>
-      <tr>
-        <td>LinkedIn</td>
-        <td>https://www.linkedin.com/in/saswat1091/</td>
-      </tr>
-      <tr>
-        <td>College</td>
-        <td>National Institute of Technology, Rourkela</td>
-      </tr>
-  </table>
+<table>
+  <tr>
+    <td>Name</td>
+    <td>Saswat Samal</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/saswat10</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>https://www.linkedin.com/in/saswat1091/</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>National Institute of Technology, Rourkela</td>
+  </tr>
+</table>
 
 <table>
   <tr>
@@ -665,7 +666,7 @@
   </tr>
 </table>
 
- <table>
+<table>
   <tr>
     <td>Name</td>
     <td>Manasvi Bagherwal</td>
@@ -685,23 +686,23 @@
 </table>
 
 <table>
-      <tr>
-        <td>Name</td>
-        <td>Sumit Agarwal</td>
-      </tr>
-      <tr>
-        <td>GitHub</td>
-        <td>https://github.com/CodeVoyager-Sumit</td>
-      </tr>
-      <tr>
-        <td>LinkedIn</td>
-        <td>https://www.linkedin.com/in/sumit-agarwal-158b98297/</td>
-      </tr>
-      <tr>
-        <td>College</td>
-        <td>NIT Kurukshetra</td>
-      </tr>
-    </table>
+  <tr>
+    <td>Name</td>
+    <td>Sumit Agarwal</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/CodeVoyager-Sumit</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>https://www.linkedin.com/in/sumit-agarwal-158b98297/</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>NIT Kurukshetra</td>
+  </tr>
+</table>
 
 <table>
   <tr>
@@ -723,98 +724,98 @@
 </table>
 
 <table>
-      <tr>
-        <td>Name</td>
-        <td>Mayank Kumar</td>
-      </tr>
-      <tr>
-        <td>GitHub</td>
-        <td>https://github.com/Mayankkumar6017</td>
-      </tr>
-      <tr>
-        <td>LinkedIn</td>
-        <td>https://www.linkedin.com/in/mayank-kumar-79482b287/</td>
-      </tr>
-      <tr>
-        <td>College</td>
-        <td>National Institute Of Technology, Kurukshetra</td>
-      </tr>
+  <tr>
+    <td>Name</td>
+    <td>Mayank Kumar</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/Mayankkumar6017</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>https://www.linkedin.com/in/mayank-kumar-79482b287/</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>National Institute Of Technology, Kurukshetra</td>
+  </tr>
 </table>
 
 <table>
-      <tr>
-        <td>Name</td>
-        <td>Vinay Dhankhar</td>
-      </tr>
-      <tr>
-        <td>GitHub</td>
-        <td>https://github.com/vinay-dhankhar</td>
-      </tr>
-      <tr>
-        <td>LinkedIn</td>
-        <td>https://www.linkedin.com/in/vinay-dhankhar-757a45247</td>
-      </tr>
-      <tr>
-        <td>College</td>
-        <td>NIT Kurukshetra</td>
-      </tr>
-    </table>
-
-    <table>
-      <tr>
-        <td>Name</td>
-        <td>Shobita Bhardwaj</td>
-      </tr>
-      <tr>
-        <td>GitHub</td>
-        <td>https://github.com/ShobitaBhardwaj</td>
-      </tr>
-      <tr>
-        <td>LinkedIn</td>
-        <td>https://www.linkedin.com/in/shobita-bhardwaj-327745264/</td>
-      </tr>
-      <tr>
-        <td>College</td>
-        <td>NIT Kurukshetra</td>
-      </tr>
-    </table>
+  <tr>
+    <td>Name</td>
+    <td>Vinay Dhankhar</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/vinay-dhankhar</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>https://www.linkedin.com/in/vinay-dhankhar-757a45247</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>NIT Kurukshetra</td>
+  </tr>
+</table>
 
 <table>
-      <tr>
-        <td>Name</td>
-        <td>Vamshi Maskuri</td>
-      </tr>
-      <tr>
-        <td>GitHub</td>
-        <td>https://github.com/varshith257</td>
-      </tr>
-      <tr>
-        <td>LinkedIn</td>
-        <td>https://www.linkedin.com/in/vamshi-maskuri1/</td>
-      </tr>
-      <tr>
-        <td>College</td>
-        <td>IIT Roorkee</td>
-      </tr>
+  <tr>
+    <td>Name</td>
+    <td>Shobita Bhardwaj</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/ShobitaBhardwaj</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>https://www.linkedin.com/in/shobita-bhardwaj-327745264/</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>NIT Kurukshetra</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>Name</td>
+    <td>Vamshi Maskuri</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/varshith257</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>https://www.linkedin.com/in/vamshi-maskuri1/</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>IIT Roorkee</td>
+  </tr>
 </table>
 
  <table>
-      <tr>
-        <td>Name</td>
-        <td>Arman Kumar Jena</td>
-      </tr>
-      <tr>
-        <td>GitHub</td>
-        <td>https://github.com/Ajen07</td>
-      </tr>
-      <tr>
-        <td>LinkedIn</td>
-        <td>https://www.linkedin.com/in/arman-kumar-jena-9b6a9322a</td>
-      </tr>
-      <tr>
-        <td>College</td>
-        <td>National Institute of Technology , Rourkela</td>
-      </tr>
-    </table>
+  <tr>
+    <td>Name</td>
+    <td>Arman Kumar Jena</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/Ajen07</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>https://www.linkedin.com/in/arman-kumar-jena-9b6a9322a</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>National Institute of Technology , Rourkela</td>
+  </tr>
+</table>
 Footer
 
