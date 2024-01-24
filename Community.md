@@ -818,3 +818,22 @@
     </table>
 Footer
 
+<table>
+      <tr>
+        <td>Name</td>
+        <td>Prathamesh Nikumbh</td>
+      </tr>
+      <tr>
+        <td>GitHub</td>
+        <td>https://github.com/Prathamesh12111</td>
+      </tr>
+      <tr>
+        <td>LinkedIn</td>
+        <td>https://www.linkedin.com/in/prathamesh-nikumbh-a22485246/</td>
+      </tr>
+      <tr>
+        <td>College</td>
+        <td>Indian Institute of Technology, Varanasi</td>
+      </tr>
+</table>
+
