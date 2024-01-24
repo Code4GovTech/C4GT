@@ -3,19 +3,19 @@
 <table>
   <tr>
     <td>Name</td>
-    <td>Shruti Agarwal</td>
+    <td>Zeel Darji</td>
   </tr>
   <tr>
     <td>GitHub</td>
-    <td>https://github.com/Shruti3004</td>
+    <td>https://github.com/zeel991</td>
   </tr>
   <tr>
     <td>LinkedIn</td>
-    <td>https://www.linkedin.com/in/shruti-ag</td>
+    <td>https://www.linkedin.com/in/zeel-darji-25501927b/</td>
   </tr>
   <tr>
     <td>College</td>
-    <td>JSS Academy of Technical Education, Noida</td>
+    <td>Indian Institute of Information Technology Nagpur</td>
   </tr>
 </table>
 <table>
