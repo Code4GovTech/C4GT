@@ -816,5 +816,24 @@
         <td>National Institute of Technology , Rourkela</td>
       </tr>
     </table>
+
+    <table>
+      <tr>
+        <td>Name</td>
+        <td>Nitish Malang</td>
+      </tr>
+      <tr>
+        <td>GitHub</td>
+        <td>https://github.com/nitishmalang</td>
+      </tr>
+      <tr>
+        <td>LinkedIn</td>
+        <td>https://www.linkedin.com/in/nitish-malang-4a35b8151/</td>
+      </tr>
+      <tr>
+        <td>College</td>
+        <td>Government Engineering College, Daman</td>
+      </tr>
+    </table>
 Footer
 
