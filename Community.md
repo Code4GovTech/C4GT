@@ -19,6 +19,24 @@
   </tr>
 </table>
 <table>
+  <tr>
+    <td>Name</td>
+    <td>Ayush Tripathi</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/tonystalker</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>www.linkedin.com/in/ayush-tripathi-4a062b1b4</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>IIT BHU</td>
+  </tr>
+</table>
+<table>
       <tr>
         <td>Name</td>
         <td>Arnav Goel</td>
