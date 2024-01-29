@@ -816,5 +816,23 @@
         <td>National Institute of Technology , Rourkela</td>
       </tr>
     </table>
+     <table>
+      <tr>
+        <td>Name</td>
+        <td>Zeel Rohit Darji</td>
+      </tr>
+      <tr>
+        <td>GitHub</td>
+        <td>https://github.com/zeel991</td>
+      </tr>
+      <tr>
+        <td>LinkedIn</td>
+        <td>https://www.linkedin.com/in/zeel-darji-25501927b/</td>
+      </tr>
+      <tr>
+        <td>College</td>
+        <td>Indian Institute of Information Technology Nagpur</td>
+      </tr>
+    </table>
 Footer
 
