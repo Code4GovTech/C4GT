@@ -816,5 +816,24 @@
         <td>National Institute of Technology , Rourkela</td>
       </tr>
     </table>
+
+<table>
+      <tr>
+        <td>Name</td>
+        <td>Sivasai Silla</td>
+      </tr>
+      <tr>
+        <td>GitHub</td>
+        <td>https://github.com/sivasaisilla</td>
+      </tr>
+      <tr>
+        <td>LinkedIn</td>
+        <td>https://www.linkedin.com/in/sivasaisilla/</td>
+      </tr>
+      <tr>
+        <td>College</td>
+        <td>National Institute of Technology, Rourkela</td>
+      </tr>
+  </table>
 Footer
 
