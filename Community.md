@@ -816,5 +816,24 @@
         <td>National Institute of Technology , Rourkela</td>
       </tr>
     </table>
+    <table>
+      <tr>
+        <td>Name</td>
+        <td>Riya Raj</td>
+      </tr>
+      <tr>
+        <td>GitHub</td>
+        <td>https://github.com/RiyaRaj28</td>
+      </tr>
+      <tr>
+        <td>LinkedIn</td>
+        <td>http://www.linkedin.com/in/riya-raj-799152281</td>
+      </tr>
+      <tr>
+        <td>College</td>
+        <td>NIT Kurukshetra</td>
+      </tr>
+    </table>
+    
 Footer
 
