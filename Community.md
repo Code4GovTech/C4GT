@@ -493,6 +493,7 @@
     <td>Indian Institute of Information Technology,Surat</td>
   </tr>
 </table>
+
 <table>
   <tr>
     <td>Name</td>
@@ -606,24 +607,7 @@
     <td>IIIT Surat</td>
   </tr>
 </table>
-<table>
-  <tr>
-      <td>Name</td>
-      <td>Aman Khan</td>
-  </tr>
-  <tr>
-      <td>GitHub</td>
-      <td>https://github.com/amansgith</td>
-  </tr>
-  <tr>
-      <td>LinkedIn</td>
-      <td>https://www.linkedin.com/in/amanslink/</td>
-  </tr>
-  <tr>
-      <td>College</td>
-      <td>Maharaja Surajmal Institute of Technology</td>
-  </tr>
-</table>
+
 <table>
       <tr>
         <td>Name</td>
@@ -641,7 +625,6 @@
         <td>College</td>
         <td>PDPM IIIT DMJ</td>
       </tr>
- </table>
     </table>
 
   <table>
@@ -776,7 +759,6 @@
         <td>NIT Kurukshetra</td>
       </tr>
     </table>
-    </table>
 
     <table>
       <tr>
@@ -834,3 +816,40 @@
         <td>National Institute of Technology , Rourkela</td>
       </tr>
     </table>
+    <table>
+      <tr>
+        <td>Name</td>
+        <td>Riya Raj</td>
+      </tr>
+      <tr>
+        <td>GitHub</td>
+        <td>https://github.com/RiyaRaj28</td>
+      </tr>
+      <tr>
+        <td>LinkedIn</td>
+        <td>http://www.linkedin.com/in/riya-raj-799152281</td>
+      </tr>
+      <tr>
+        <td>College</td>
+        <td>NIT Kurukshetra</td>
+      </tr>
+    </table>
+    
+<table>
+  <tr>
+      <td>Name</td>
+      <td>Aman Khan</td>
+  </tr>
+  <tr>
+      <td>GitHub</td>
+      <td>https://github.com/amansgith</td>
+  </tr>
+  <tr>
+      <td>LinkedIn</td>
+      <td>https://www.linkedin.com/in/amanslink/</td>
+  </tr>
+  <tr>
+      <td>College</td>
+      <td>Maharaja Surajmal Institute of Technology</td>
+  </tr>
+</table>
