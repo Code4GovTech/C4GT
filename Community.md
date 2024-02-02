@@ -834,6 +834,24 @@
         <td>NIT Kurukshetra</td>
       </tr>
     </table>
+    <table>
+      <tr>
+        <td>Name</td>
+        <td>Biswaprem Sahu</td>
+      </tr>
+      <tr>
+        <td>GitHub</td>
+        <td>https://github.com/Biswapremsahu77</td>
+      </tr>
+      <tr>
+        <td>LinkedIn</td>
+        <td>www.linkedin.com/in/biswaprem-sahu-4384702a1</td>
+      </tr>
+      <tr>
+        <td>College</td>
+        <td>NIT Rourkela</td>
+      </tr>
+    </table>
     
 Footer
 
