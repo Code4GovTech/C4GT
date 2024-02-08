@@ -478,6 +478,25 @@
 <table>
   <tr>
     <td>Name</td>
+    <td>Chhawinderpreet Singh</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/chhawinder</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>https://www.linkedin.com/in/chhawinderpreet-singh-017277228/</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>NIT Jalandhar</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>Name</td>
     <td>Hamesh Kumar Puniya</td>
   </tr>
   <tr>
