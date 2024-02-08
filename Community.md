@@ -891,3 +891,22 @@
       <td>Maharaja Surajmal Institute of Technology</td>
   </tr>
 </table>
+
+<table>
+  <tr>
+      <td>Name</td>
+      <td>Akshit Pahade</td>
+  </tr>
+  <tr>
+      <td>GitHub</td>
+      <td>https://github.com/Akshit2807</td>
+  </tr>
+  <tr>
+      <td>LinkedIn</td>
+      <td>https://www.linkedin.com/in/akshit-pahade-992b192a8/</td>
+  </tr>
+  <tr>
+      <td>College</td>
+      <td>Indian Institute of Information Technology , Bhopal</td>
+  </tr>
+</table>
