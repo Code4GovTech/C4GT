@@ -891,3 +891,22 @@
       <td>Maharaja Surajmal Institute of Technology</td>
   </tr>
 </table>
+
+<table>
+  <tr>
+    <td>Name</td>
+    <td>Prasanth</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/PrasanthYT</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>https://www.linkedin.com/in/rjprasanth</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>VELS Insitute of Science, Technology and Advanced Studies </td>
+  </tr>
+</table>
