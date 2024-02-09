@@ -891,3 +891,22 @@
       <td>Maharaja Surajmal Institute of Technology</td>
   </tr>
 </table>
+
+<table>
+  <tr>
+      <td>Name</td>
+      <td>Udayan Chatterjee</td>
+  </tr>
+  <tr>
+      <td>GitHub</td>
+      <td>https://github.com/UdAyAn123</td>
+  </tr>
+  <tr>
+      <td>LinkedIn</td>
+      <td>https://www.linkedin.com/in/udayan-chatterjee-5904231a2/</td>
+  </tr>
+  <tr>
+      <td>College</td>
+      <td>IIT ISM Dhanbad</td>
+  </tr>
+</table>
