@@ -1,4 +1,4 @@
-name: C4GT Ticket Form
+name: C4GT Community Template
 description: Create a new Ticket for C4GT Community
 title: "[C4GT Community]: "
 labels: ["C4GT Community"]
@@ -193,7 +193,6 @@ body:
       description: Choose a complexity describing the complexity of your ticket
       multiple: false
       options:
-        - Beginner
         - Low
         - Medium
         - High
