@@ -11,7 +11,7 @@ body:
       label: Ticket Contents
       value: |
         ## Description
-        [Provide a brief description of the feature, including why it is needed and what it will accomplish.]
+        [Provide a brief project description, outlining the need, purpose and measurable goals of the feature to be developed. Kindly, specify the number of users or scale of the product and feature, articulating its anticipated impact and intended use.]
 
   - type: textarea
     id: ticket-goals
