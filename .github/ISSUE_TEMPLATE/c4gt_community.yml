@@ -38,6 +38,7 @@ body:
 
   - type: textarea
     id: ticket-acceptance-criteria
+    required: true
     attributes:
       label: Acceptance Criteria
       description: List the acceptance criteria for this feature.
