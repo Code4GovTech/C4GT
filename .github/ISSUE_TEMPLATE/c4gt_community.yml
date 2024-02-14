@@ -32,6 +32,8 @@ body:
 
   - type: textarea
     id: ticket-expected-outcome
+    validations:
+      required: true
     attributes:
       label: Expected Outcome
       description: Describe in detail what the final product or result should look like and how it should behave.
