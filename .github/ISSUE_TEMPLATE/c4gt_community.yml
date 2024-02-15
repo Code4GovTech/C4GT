@@ -28,7 +28,7 @@ body:
         - [ ] [Goal 4]
         - [ ] [Goal 5]
         - [ ] [Midpoint Milestone]
-        [Please also specify the Mid-point milestones- goals that must be achieved by 1.5 months into the coding period. Kindly, state and link installation guide/ set-up steps (if any) in this section]
+        [Please also specify the Mid-point milestones- goals that must be achieved by 1.5 months into the coding period.]
 
   - type: textarea
     id: ticket-expected-outcome
@@ -202,6 +202,23 @@ body:
         - High
     validations:
       required: true
+
+- type: textarea
+    id: Set-up and Installation Steps (if any)
+    validations:
+      required: true
+    attributes:
+      label: Set-up and Installation Steps (if any)
+      description: List the goals of the feature.
+      value: |
+        ## Set-up or Installation Steps (if any)
+        - [ ] [Step 1]
+        - [ ] [Step 2]
+        - [ ] [Step 3]
+        - [ ] [Step 4]
+        - [ ] [Step 5]
+        [Kindly, state and link installation guide/ set-up steps (if any) in this section]
+
 
   - type: dropdown
     id: ticket-category
