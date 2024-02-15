@@ -209,7 +209,7 @@ body:
       required: true
     attributes:
       label: Set-up and Installation Steps (if any)
-      description: List the goals of the feature.
+      description: List the Set-up and Installation Steps (if any) for contributor to start contributing.
       value: |
         ## Set-up or Installation Steps ( if any )
         - [ ] [Step 1]
@@ -218,7 +218,8 @@ body:
         - [ ] [Step 4]
         - [ ] [Step 5]
         [Kindly, state and link installation guide/ set-up steps (if any) in this section]
-
+  validations:
+      required: true
 
   - type: dropdown
     id: ticket-category
