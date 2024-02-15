@@ -63,10 +63,10 @@ body:
     validations:
       required: true
     attributes:
-      label: Goals
+      label: installation guide for set-up
       description: installation guide for set-up
       value: |
-        ## Goals
+        ## installation guide for steps for set-up
         - [ ] [Step 1]
         - [ ] [Step 2]
         - [ ] [Step 3]
