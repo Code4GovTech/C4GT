@@ -58,23 +58,6 @@ body:
       label: Mockups/Wireframes
       description: Include links to any visual aids, mockups, wireframes, or diagrams that help illustrate what the final product should look like. This is not always necessary, but can be very helpful in many cases.
 
-- type: textarea
-    id: installation guide for set-up
-    validations:
-      required: true
-    attributes:
-      label: installation guide for set-up
-      description: installation guide for set-up
-      value: |
-        ## installation guide for steps for set-up
-        - [ ] [Step 1]
-        - [ ] [Step 2]
-        - [ ] [Step 3]
-        - [ ] [Step 4]
-        - [ ] [Step 5]
-        [Kindly, state and link installation guide/ set-up steps (if any) in this section]
-
-
   - type: input
     id: ticket-product
     attributes:
@@ -258,6 +241,7 @@ body:
     validations:
       required: true
 
+  
   
 
   
