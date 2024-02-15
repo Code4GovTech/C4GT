@@ -211,7 +211,7 @@ body:
       label: Set-up and Installation Steps (if any)
       description: List the goals of the feature.
       value: |
-        ## Set-up or Installation Steps (if any)
+        ## Set-up or Installation Steps ( if any )
         - [ ] [Step 1]
         - [ ] [Step 2]
         - [ ] [Step 3]
