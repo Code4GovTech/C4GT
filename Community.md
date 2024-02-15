@@ -3,6 +3,24 @@
 <table>
   <tr>
     <td>Name</td>
+    <td>V Athithya Ramaa</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/athithyaramaa1</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>https://www.linkedin.com/in/v-athithya-ramaa-b002242a5/</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>Kalasalingam Academy of Research & Education x Kalvium, Srivilliputhur</td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td>Name</td>
     <td>Shruti Agarwal</td>
   </tr>
   <tr>
