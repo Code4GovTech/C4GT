@@ -29,6 +29,12 @@ body:
         - [ ] [Goal 5]
 
   - type: textarea
+    id: ticket-setup
+    attributes:
+      label: Setup/Installation 
+      description: Please list or link setup or installation guide (if any)
+
+  - type: textarea
     id: ticket-expected-outcome
     attributes:
       label: Expected Outcome
