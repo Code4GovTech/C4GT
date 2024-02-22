@@ -19,7 +19,7 @@ body:
       required: true
     attributes:
       label: Goals
-      description: List the goals of the feature.
+      description: List the goals of the feature. Please add the goals that must be achieved by Mid-point check-in i.e 1.5 months into the coding period.
       value: |
         ## Goals
         - [ ] [Goal 1]
@@ -27,6 +27,7 @@ body:
         - [ ] [Goal 3]
         - [ ] [Goal 4]
         - [ ] [Goal 5]
+        - [ ] [Goals Achieved By Mid-point Milestone]
 
   - type: textarea
     id: ticket-setup
