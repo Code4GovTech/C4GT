@@ -909,3 +909,21 @@
       <td>SRCC</td>
   </tr>
 </table>
+<table>
+      <tr>
+        <td>Name</td>
+        <td>Your Name</td>
+      </tr>
+      <tr>
+        <td>GitHub</td>
+        <td>https://github.com/bhuvangoel04</td>
+      </tr>
+      <tr>
+        <td>LinkedIn</td>
+        <td>https://www.linkedin.com/in/bhuvan-goel-8611b7287</td>
+      </tr>
+      <tr>
+        <td>College</td>
+        <td>Indian Institute of Information Technology Nagpur</td>
+      </tr>
+    </table>
