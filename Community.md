@@ -909,3 +909,22 @@
       <td>SRCC</td>
   </tr>
 </table>
+<table>
+  <tr>
+      <td>Name</td>
+      <td>Anushka Poonia</td>
+  </tr>
+  <tr>
+      <td>GitHub</td>
+      <td>https://github.com/anushkapoonia07</td>
+  </tr>
+  <tr>
+      <td>LinkedIn</td>
+      <td>https://www.linkedin.com/in/anushka-poonia-8b2676285/</td>
+  </tr>
+  <tr>
+      <td>College</td>
+      <td>JECRC University</td>
+  </tr>
+</table>
+
