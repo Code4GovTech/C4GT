@@ -1,7 +1,7 @@
-name: C4GT Ticket Form
-description: Create a new Ticket for C4GT Community
-title: "[C4GT Community]: "
-labels: ["C4GT Community"]
+name: DMP 2024 Project Template
+description: List a new project for Dedicated Mentoring Program (DMP) 2024 
+title: "[DMP 2024]: "
+labels: ["DMP 2024"]
 body:
   - type: textarea
     id: ticket-description
@@ -69,21 +69,45 @@ body:
       description: Enter Organisation Name
       multiple: false
       options:
-        - C4GT
+        - Bandhu
+        - Blockster Global (CREDBEL)
+        - Civis
+        - Dhwani
         - Dhiway
+        - EGov
+        - EkShop Marketplace
         - FIDE
+        - If Me
+        - Key Education Foundation
+        - Norwegian Meteorological Institute
+        - Planet Read
+        - Project Second Chance
+        - Reap Benefit
         - SamagraX
         - ShikshaLokam
         - Tech4Dev
+        - Tekdi
         - Tibil
+        - Ushahidi
     validations:
       required: true
 
-  - type: input
+  - type: dropdown
     id: ticket-governance-domain
     attributes:
       label: Domain
-      placeholder: Enter Area of Governance
+      options:
+        - ⁠Healthcare 
+        - ⁠Education
+        - ⁠Livelihoods
+        - ⁠Skilling 
+        - ⁠Learning & Development
+        - ⁠Agriculture
+        - ⁠Service Delivery
+        - Open Source Library
+    validations:
+      required: true
+
 
   - type: dropdown
     id: ticket-technical-skills-required
@@ -93,7 +117,6 @@ body:
       multiple: true
       options:
         - .NET
-        - Agile
         - Angular
         - Artificial Intelligence
         - ASP.NET
@@ -183,20 +206,6 @@ body:
     attributes:
       label: Mentor(s)
       description: Please tag relevant mentors for the ticket
-    validations:
-      required: true
-
-  - type: dropdown
-    id: ticket-complexity
-    attributes: 
-      label: Complexity
-      description: Choose a complexity describing the complexity of your ticket
-      multiple: false
-      options:
-        - Beginner
-        - Low
-        - Medium
-        - High
     validations:
       required: true
 
