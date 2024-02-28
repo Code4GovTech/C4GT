@@ -909,3 +909,22 @@
       <td>SRCC</td>
   </tr>
 </table>
+
+<table>
+      <tr>
+        <td>Name</td>
+        <td>Gaurav Pandey</td>
+      </tr>
+      <tr>
+        <td>GitHub</td>
+        <td>https://github.com/Gauravdcap</td>
+      </tr>
+      <tr>
+        <td>LinkedIn</td>
+        <td>https://www.linkedin.com/in/gaurav-pandey-0653b821b/</td>
+      </tr>
+      <tr>
+        <td>College</td>
+        <td>CMR Institute Of Technology</td>
+      </tr>
+    </table>
