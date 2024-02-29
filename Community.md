@@ -908,4 +908,22 @@
       <td>College</td>
       <td>SRCC</td>
   </tr>
-</table>
+   </table>
+<table>
+  <tr>
+      <td>Name</td>
+      <td>Vibhash Singh</td>
+  </tr>
+  <tr>
+      <td>GitHub</td>
+      <td>https://github.com/Matrix-Mesh</td>
+  </tr>
+  <tr>
+      <td>LinkedIn</td>
+      <td>https://www.linkedin.com/in/vibhash-singh-160788250/</td>
+  </tr>
+  <tr>
+      <td>College</td>
+      <td>Maharaja Surajmal Institute</td>
+  </tr>
+   </table>   
