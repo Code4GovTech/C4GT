@@ -19,6 +19,20 @@
   </tr>
 </table>
 <table>
+  <tr>
+    <td>Name</td>
+    <td>PM</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/26-PM</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>MSI, Delhi</td>
+  </tr>
+</table>
+<table>
       <tr>
         <td>Name</td>
         <td>Arnav Goel</td>
