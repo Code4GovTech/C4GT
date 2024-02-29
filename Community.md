@@ -909,3 +909,21 @@
       <td>SRCC</td>
   </tr>
 </table>
+<table>
+  <tr>
+    <td>Name</td>
+    <td>Pranjal Pant</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/dotpranjal</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>www.linkedin.com/in/pranjal-pant-bb2516270</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>Maharaja Surajmal Institute</td>
+  </tr>
+</table>
