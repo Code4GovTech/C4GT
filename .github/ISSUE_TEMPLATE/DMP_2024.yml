@@ -96,6 +96,7 @@ body:
         - The Mifos Initiative
         - Tibil
         - Ushahidi
+        - Arghyam
     validations:
       required: true
 
@@ -113,6 +114,7 @@ body:
         - ⁠Agriculture
         - ⁠Service Delivery
         - Open Source Library
+        - Water
     validations:
       required: true
 
