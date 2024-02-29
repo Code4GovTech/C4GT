@@ -909,3 +909,21 @@
       <td>SRCC</td>
   </tr>
 </table>
+<table>
+  <tr>
+      <td>Name</td>
+      <td>Manish Aggarwal</td>
+  </tr>
+  <tr>
+      <td>GitHub</td>
+      <td>https://github.com/Manishl8304</td>
+  </tr>
+  <tr>
+      <td>LinkedIn</td>
+      <td>https://www.linkedin.com/in/manish-aggarwal-4674011ba/</td>
+  </tr>
+  <tr>
+      <td>College</td>
+      <td>Maharaja Surajmal Institute</td>
+  </tr>
+</table>
