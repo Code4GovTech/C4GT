@@ -253,6 +253,7 @@ body:
         - SEO
         - Security
         - Testing
+        - AI
         - Other
     validations:
       required: true
