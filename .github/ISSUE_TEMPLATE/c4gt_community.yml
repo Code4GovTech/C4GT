@@ -11,7 +11,7 @@ body:
       label: Ticket Contents
       value: |
         ## Description
-        [Provide a brief description of the feature, including why it is needed and what it will accomplish.]
+        [Provide a brief project description, outlining the need and measurable goals of the feature to be developed. Kindly, specify the number of users or scale of the product and feature, articulating its anticipated impact and intended use.]
 
   - type: textarea
     id: ticket-goals
@@ -27,9 +27,13 @@ body:
         - [ ] [Goal 3]
         - [ ] [Goal 4]
         - [ ] [Goal 5]
+        - [ ] [Midpoint Milestone]
+        [Please also specify the Mid-point milestones- goals that must be achieved by 1.5 months into the coding period. Kindly, state and link installation guide/ set-up steps (if any) in this section]
 
   - type: textarea
     id: ticket-expected-outcome
+    validations:
+      required: true
     attributes:
       label: Expected Outcome
       description: Describe in detail what the final product or result should look like and how it should behave.
@@ -236,5 +240,8 @@ body:
         - Other
     validations:
       required: true
+
+  
+  
 
   
