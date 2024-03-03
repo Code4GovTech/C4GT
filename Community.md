@@ -912,7 +912,7 @@
     <table>
       <tr>
         <td>Name</td>
-        <td>Nishant</td>
+        <td>Nishant Thapa</td>
       </tr>
       <tr>
         <td>GitHub</td>
