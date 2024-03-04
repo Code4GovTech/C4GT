@@ -97,6 +97,7 @@ body:
         - Tibil
         - Ushahidi
         - Arghyam
+        - Piramal Swasthya Management Research Institute
     validations:
       required: true
 
