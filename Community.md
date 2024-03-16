@@ -19,6 +19,24 @@
   </tr>
 </table>
 <table>
+<tr>
+    <td>Name</td>
+    <td>Mohana vamsi</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/mohanavamsi0614</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>https://www.linkedin.com/in/mohana-vamsi-gangisetti-0a2b70294</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>Kalvium</td>
+  </tr>
+</table>
+<table>
       <tr>
         <td>Name</td>
         <td>Arnav Goel</td>
