@@ -243,6 +243,25 @@
   </tr>
 </table>
 
+<table>
+      <tr>
+        <td>Name</td>
+        <td>Deepak Kumar Chaudhary</td>
+      </tr>
+      <tr>
+        <td>GitHub</td>
+        <td>https://github.com/Deepak4422</td>
+      </tr>
+      <tr>
+        <td>LinkedIn</td>
+        <td>https://www.linkedin.com/in/deepak4422123/</td>
+      </tr>
+      <tr>
+        <td>College</td>
+        <td>Indian Institute of Technology, Kharagpur(IITKGP) </td>
+      </tr>
+    </table>
+
     
     
 <table>
