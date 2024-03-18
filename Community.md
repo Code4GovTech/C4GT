@@ -854,9 +854,33 @@
         <td>NIT Kurukshetra</td>
       </tr>
     </table>
-    <table>
+
+  <table>
       <tr>
         <td>Name</td>
+
+        <td>Etika</td>
+      </tr>
+      <tr>
+        <td>GitHub</td>
+        <td>https://github.com/Etika8445</td>
+      </tr>
+      <tr>
+        <td>LinkedIn</td>
+        <td>http://www.linkedin.com/in/etika-c-b6b926256</td>
+      </tr>
+      <tr>
+        <td>College</td>
+        <td>Maharaja Surajmal Institute of Technology</td>
+      </tr>
+
+    </table>
+    <table>
+
+      <tr>
+
+        <td>Name</td>
+
         <td>Biswaprem Sahu</td>
       </tr>
       <tr>
@@ -870,6 +894,7 @@
       <tr>
         <td>College</td>
         <td>NIT Rourkela</td>
+
       </tr>
     </table>
     
