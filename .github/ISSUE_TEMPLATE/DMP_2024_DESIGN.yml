@@ -1,0 +1,62 @@
+name: DMP 2024 Design Project Template
+description: List a new UI/UX project for Dedicated Mentoring Program (DMP) 2024 
+title: "[DMP 2024]: "
+labels: ["DMP 2024"]
+body:
+  - type: textarea
+    id: ticket-description
+    validations:
+      required: true
+    attributes:
+      label: Ticket Contents
+      value: |
+        ## Description
+        [Provide a brief description of the problem statement here. Include any relevant context or background information (user research findings, list of user personas / target users affected, etc.,.)]
+
+  - type: textarea
+    id: current-state
+    validations:
+      required: true
+    attributes:
+      label: Current State
+      description: Describe the current state of the problem. What is the user experience like currently? Are there any temporary solutions in place?
+
+  - type: textarea
+    id: desired-state
+    validations:
+      required: true
+    attributes:
+      label: Desired State 
+      description: Outline the ideal scenario or solution for addressing this problem statement. How should the product behave or what features should be implemented to enhance usability in this aspect?
+
+  - type: textarea
+    id: ticket-goals
+    validations:
+      required: true
+    attributes:
+      label: Goals & Mid-Point Milestone
+      description: List the goals of the feature. Please add the goals that must be achieved by Mid-point check-in i.e 1.5 months into the designing period.
+      value: |
+        ## Goals
+        - [ ] [Goal 1]
+        - [ ] [Goal 2]
+        - [ ] [Goal 3]
+        - [ ] [Goal 4]
+        - [ ] [Goals Achieved By Mid-point Milestone]
+
+  - type: textarea
+    id: ticket-acceptance-criteria
+    validations:
+      required: true
+    attributes:
+      label: Acceptance Criteria
+      description: List the acceptance criteria for this feature.
+
+  - type: textarea
+    id: ticket-mentors
+    attributes:
+      label: Mentor(s)
+      description: Please tag relevant mentors for the ticket
+    validations:
+      required: true
+  
