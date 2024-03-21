@@ -1,7 +1,7 @@
 name: DMP 2024 Design Project Template
-description: List a new UI/UX project for Dedicated Mentoring Program (DMP) 2024 
+description: List a new design project for Dedicated Mentoring Program 2024
 title: "[DMP 2024]: "
-labels: ["DMP 2024"]
+labels: ["DMP 2024", "Product Usability"]
 body:
   - type: textarea
     id: ticket-description
@@ -9,9 +9,7 @@ body:
       required: true
     attributes:
       label: Ticket Contents
-      value: |
-        ## Description
-        [Provide a brief description of the problem statement here. Include any relevant context or background information (user research findings, list of user personas / target users affected, etc.,.)]
+      description: Provide a brief description of the problem statement here. Include any relevant context or background information (user research findings, list of user personas / target users affected, etc.,.)
 
   - type: textarea
     id: current-state
@@ -51,6 +49,71 @@ body:
     attributes:
       label: Acceptance Criteria
       description: List the acceptance criteria for this feature.
+
+  - type: textarea
+    id: ticket-mockups
+    attributes:
+      label: Existing Mockups/Wireframes
+      description: Include links to any visual aids, mockups, wireframes, or diagrams that help illustrate what the final product should look like. This is not always necessary, but can be very helpful in many cases.
+
+  - type: input
+    id: ticket-product
+    attributes:
+      label: Product Name
+      placeholder: Enter Product Name
+    validations:
+      required: true
+
+  - type: dropdown
+    id: ticket-organisation
+    attributes:
+      label: Organisation Name
+      description: Enter Organisation Name
+      multiple: false
+      options:
+        - Bandhu
+        - Blockster Global (CREDBEL)
+        - Civis
+        - Dhwani
+        - Dhiway
+        - EGov
+        - EkShop Marketplace
+        - FIDE
+        - If Me
+        - Key Education Foundation
+        - Norwegian Meteorological Institute
+        - Planet Read
+        - Project Second Chance
+        - Reap Benefit
+        - SamagraX
+        - ShikshaLokam
+        - Tech4Dev
+        - Tekdi
+        - The Mifos Initiative
+        - Tibil
+        - Ushahidi
+        - Arghyam
+        - Piramal Swasthya Management Research Institute
+    validations:
+      required: true
+
+  - type: dropdown
+    id: ticket-governance-domain
+    attributes:
+      label: Domain
+      options:
+        - ⁠Healthcare 
+        - ⁠Education
+        - Financial Inclusion
+        - ⁠Livelihoods
+        - ⁠Skilling 
+        - ⁠Learning & Development
+        - ⁠Agriculture
+        - ⁠Service Delivery
+        - Open Source Library
+        - Water
+    validations:
+      required: true
 
   - type: textarea
     id: ticket-mentors
