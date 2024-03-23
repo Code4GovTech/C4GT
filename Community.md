@@ -892,6 +892,7 @@
   </tr>
 </table>
 
+
 <table>
   <tr>
     <td>Name</td>
@@ -908,5 +909,25 @@
   <tr>
     <td>College</td>
     <td>Birsa Institute of Technology Sindri</td>
+     </tr>
+</table>
+
+
+<table>
+  <tr>
+      <td>Name</td>
+      <td>Abhishek Yadav</td>
+  </tr>
+  <tr>
+      <td>GitHub</td>
+      <td>https://github.com/y3abhishek</td>
+  </tr>
+  <tr>
+      <td>LinkedIn</td>
+      <td>https://www.linkedin.com/in/y1abhishek/</td>
+  </tr>
+  <tr>
+      <td>College</td>
+      <td>SRCC</td>
   </tr>
 </table>
