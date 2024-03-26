@@ -99,6 +99,7 @@ body:
         - Ushahidi
         - Arghyam
         - Piramal Swasthya Management Research Institute
+        - Belongg AI
     validations:
       required: true
 
