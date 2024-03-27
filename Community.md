@@ -760,7 +760,7 @@
       </tr>
     </table>
 
-    <table>
+  <table>
       <tr>
         <td>Name</td>
         <td>Shobita Bhardwaj</td>
@@ -817,7 +817,7 @@
       </tr>
     </table>
 
-     <table>
+  <table>
       <tr>
         <td>Name</td>
         <td>Zeel Rohit Darji</td>
@@ -836,7 +836,7 @@
       </tr>
     </table>
 
-    <table>
+   <table>
       <tr>
         <td>Name</td>
         <td>Riya Raj</td>
@@ -907,5 +907,23 @@
   <tr>
       <td>College</td>
       <td>SRCC</td>
+  </tr>
+</table>
+<table>
+  <tr>
+      <td>Name</td>
+      <td>Om Amar</td>
+  </tr>
+  <tr>
+      <td>GitHub</td>
+      <td>https://github.com/OmAmar106</td>
+  </tr>
+  <tr>
+      <td>LinkedIn</td>
+      <td>https://www.linkedin.com/in/om-amar/</td>
+  </tr>
+  <tr>
+      <td>College</td>
+      <td>Indian Institute of Information Technology, Nagpur</td>
   </tr>
 </table>
