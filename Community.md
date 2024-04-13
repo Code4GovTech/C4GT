@@ -909,3 +909,21 @@
       <td>SRCC</td>
   </tr>
 </table>
+<table>
+  <tr>
+    <td>Name</td>
+    <td>Vinay</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/Dunker21</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>MSI janakpuri</td>
+  </tr>
+</table>
