@@ -1,7 +1,7 @@
 name: DMP 2024 Design Project Template
 description: List a new design project for Dedicated Mentoring Program 2024
 title: "[DMP 2024]: "
-labels: ["DMP 2024", "Product Usability"]
+labels: ["DMP 2024" , "Product Usability"]
 body:
   - type: textarea
     id: ticket-description
