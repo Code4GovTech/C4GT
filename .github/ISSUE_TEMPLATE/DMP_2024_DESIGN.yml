@@ -10,6 +10,14 @@ body:
     attributes:
       label: Ticket Contents
       description: Provide a brief description of the problem statement here. Include any relevant context or background information (user research findings, list of user personas / target users affected, etc.,.)
+  
+  - type: textarea
+    id: key-design-research-questions
+    validations:
+      required: true
+    attributes:
+      label: Key design-research questions
+      description: Identify key design problems / research questions to be addressed during the project phase
 
   - type: textarea
     id: current-state
@@ -17,7 +25,7 @@ body:
       required: true
     attributes:
       label: Current State
-      description: Describe the current state of the problem. What is the user experience like currently? Are there any temporary solutions in place?
+      description: Describe the current state of the problem. What are the gaps / unanswered questions wrt problem statements identified? What is the user experience like currently? Are there any temporary solutions in place?
 
   - type: textarea
     id: desired-state
@@ -25,7 +33,7 @@ body:
       required: true
     attributes:
       label: Desired State 
-      description: Outline the ideal scenario or solution for addressing this problem statement. How should the product behave or what features should be implemented to enhance usability in this aspect?
+      description: What is the roadmap for the intended users and the respective product? Please list if there are any product / feature specific expected goals. (These could be overall and not limited to the DMP project goals)
 
   - type: textarea
     id: ticket-goals
@@ -33,7 +41,7 @@ body:
       required: true
     attributes:
       label: Goals & Mid-Point Milestone
-      description: List the goals of the feature. Please add the goals that must be achieved by Mid-point check-in i.e 1.5 months into the designing period.
+      description: List the goals of the project (What is the expected end outcome from the project). Add the tasks that must be completed by Mid-point check-in i.e 1.5 months into the execution period 
       value: |
         ## Goals
         - [ ] [Goal 1]
@@ -48,7 +56,7 @@ body:
       required: true
     attributes:
       label: Acceptance Criteria
-      description: List the acceptance criteria for this feature.
+      description: Define specific criteria that must be met for this problem statement to be considered resolved. These criteria should be measurable and observable, allowing for clear validation of the solution.
 
   - type: textarea
     id: ticket-mockups
