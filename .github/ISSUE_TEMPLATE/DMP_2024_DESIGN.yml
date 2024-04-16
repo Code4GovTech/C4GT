@@ -25,7 +25,7 @@ body:
       required: true
     attributes:
       label: Current State
-      description: Describe the current state of the problem. What are the gaps / unanswered questions wrt problem statements identified? What is the user experience like currently? Are there any temporary solutions in place?
+      description: Describe the current state of the problem. What are the gaps / unanswered questions wrt problem statements identified? What is the user experience like currently? 
 
   - type: textarea
     id: desired-state
