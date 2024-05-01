@@ -106,7 +106,6 @@ body:
         - Win Over Cancer 
         - Protean 
         - Thoughtworks 
-        - SamagraX
     validations:
       required: true
 
