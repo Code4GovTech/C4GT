@@ -102,6 +102,11 @@ body:
         - Ushahidi
         - Arghyam
         - Piramal Swasthya Management Research Institute
+        - Dimagi 
+        - Win Over Cancer 
+        - Protean 
+        - Thoughtworks 
+        - SamagraX
     validations:
       required: true
 
