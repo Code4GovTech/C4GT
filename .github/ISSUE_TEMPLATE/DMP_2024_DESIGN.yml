@@ -8,7 +8,7 @@ body:
     validations:
       required: true
     attributes:
-      label: Ticket Contents
+      label: Description
       description: Provide a brief description of the problem statement here. Include any relevant context or background information (user research findings, list of user personas / target users affected, etc.,.)
   
   - type: textarea
