@@ -194,7 +194,7 @@ body:
     id: ticket-mentorship
     attributes: 
       label: Mentorship Status
-      description: Choose the mentorship status for this ticket
+      description: Choose the mentorship status for this ticket.
       multiple: false
       options:
         - Mentor Required
@@ -207,7 +207,7 @@ body:
     id: ticket-mentors
     attributes:
       label: Mentor(s)
-      description: Please tag relevant mentors for the ticket
+      description: Please tag relevant mentors for the ticket.
     validations:
       required: true
   
@@ -215,7 +215,7 @@ body:
     id: ticket-complexity
     attributes: 
       label: Complexity
-      description: Choose a complexity describing the complexity of your ticket
+      description: Choose a complexity describing the complexity of your ticket.
       multiple: false
       options:
         - Foundational
@@ -230,7 +230,7 @@ body:
     id: ticket-project-type
     attributes: 
       label: Project Type
-      description: Choose the labels that best describe this project
+      description: Choose the labels that best describe this project.
       multiple: true
       options:
         - Code contribution
@@ -244,7 +244,7 @@ body:
     id: ticket-ticket-type
     attributes: 
       label: Ticket Type
-      description: Choose the labels that best describe this ticket
+      description: Choose the labels that best describe this ticket.
       multiple: true
       options:
         - Unpaid ticket
@@ -258,7 +258,7 @@ body:
     id: ticket-amount
     attributes:
       label: Ticket Prize
-      description: Please mention the amount (in INR/USD) in case of a bounty / paid ticket
+      description: Please mention the amount (in INR/USD) in case of a bounty / paid ticket.
     validations:
       required: true
   
