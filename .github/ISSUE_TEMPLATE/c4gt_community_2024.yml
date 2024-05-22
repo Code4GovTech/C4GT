@@ -1,7 +1,7 @@
 name: C4GT Open Community Template
 description: Create a new Ticket for C4GT Open Community
 title: "[C4GT Community]: "
-labels: ["C4GT Community"]["Mentorship (to be added if the ticket requires additional mentors"]
+labels: ["C4GT Community"]
 body:
   - type: textarea
     id: ticket-description
