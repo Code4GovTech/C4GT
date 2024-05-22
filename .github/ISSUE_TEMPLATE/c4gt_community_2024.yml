@@ -182,6 +182,19 @@ body:
     validations:
       required: true
 
+- type: dropdown
+    id: ticket-mentorship
+    attributes: 
+      label: Mentorship status
+      description: Choose a mentorship status for this ticket
+      multiple: false
+      options:
+        - Mentor required
+        - Mentor selected
+        - Mentorship completed
+    validations:
+      required: true
+      
   - type: textarea
     id: ticket-mentors
     attributes:
