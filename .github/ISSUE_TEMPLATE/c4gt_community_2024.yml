@@ -189,7 +189,20 @@ body:
       description: Please tag relevant mentors for the ticket
     validations:
       required: true
-
+      
+  - type: dropdown
+    id: ticket-mentorship
+    attributes: 
+      label: Mentorship Status
+      description: Choose the mentorship status for this ticket
+      multiple: false
+      options:
+        - Mentor Required
+        - Mentor Selected
+        - Mentorship Completed
+    validations:
+      required: true
+  
   - type: dropdown
     id: ticket-complexity
     attributes: 
