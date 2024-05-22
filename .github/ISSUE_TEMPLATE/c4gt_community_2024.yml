@@ -1,5 +1,5 @@
 name: C4GT Community Template 2024
-description: Create a new Ticket for C4GT Community 2024
+description: Create a new Ticket for C4GT Community
 title: "[C4GT Community]: "
 labels: ["C4GT Community"]
 body:
@@ -37,15 +37,15 @@ body:
     attributes:
       label: Expected Outcome for Contributor
       description: Describe in detail what the final product or result should look like and how it should behave.
-
+      
 - type: textarea
     id: ticket-expected-outcome-mentor
     validations:
       required: true
     attributes:
       label: Expected Outcome for Mentor
-      description: Describe in detail the expectations from the mentor. 
-
+      description: Describe in detail the expectations from the mentor.
+      
   - type: textarea
     id: ticket-acceptance-criteria
     attributes:
@@ -190,19 +190,6 @@ body:
     validations:
       required: true
 
- - type: dropdown
-    id: ticket-mentorship
-    attributes: 
-      label: Mentorship status
-      description: Please add the mentorship status for this ticket
-      multiple: false
-      options:
-        - Mentor required
-        - Mentor selected
-        - Mentorship completed
-    validations:
-      required: true
-
   - type: textarea
     id: ticket-mentors
     attributes:
@@ -218,11 +205,9 @@ body:
       description: Choose a complexity describing the complexity of your ticket
       multiple: false
       options:
-        - Foundational
         - Low
         - Medium
         - High
-        - Advanced
     validations:
       required: true
 
@@ -233,13 +218,34 @@ body:
       description: Choose the categories that best describe your ticket
       multiple: true
       options:
-        - Code contribution 
-        - UI / UX design 
+        - API
+        - Analytics
+        - Accessibility
+        - Backend
+        - Breaking Change
+        - Beginner Friendly
+        - Configuration
+        - CI/CD
+        - Database
+        - Data Science
+        - Deprecation
         - Documentation
-        - Unpaid ticket 
-        - Paid ticket 
-        - Bounty ticket
-        - Others
+        - Delpoyment
+        - Frontend
+        - Internationalization
+        - Localization
+        - Machine Learning
+        - Maintenance
+        - Mobile
+        - Performance Improvement
+        - Question
+        - Refactoring
+        - Research
+        - Needs Reproduction
+        - SEO
+        - Security
+        - Testing
+        - Other
     validations:
       required: true
 
