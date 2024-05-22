@@ -197,9 +197,11 @@ body:
       description: Choose a complexity describing the complexity of your ticket
       multiple: false
       options:
+        - Foundational
         - Low
         - Medium
         - High
+        - Advanced
     validations:
       required: true
 
@@ -210,34 +212,11 @@ body:
       description: Choose the categories that best describe your ticket
       multiple: true
       options:
-        - API
-        - Analytics
-        - Accessibility
-        - Backend
-        - Breaking Change
-        - Beginner Friendly
-        - Configuration
-        - CI/CD
-        - Database
-        - Data Science
-        - Deprecation
-        - Documentation
-        - Delpoyment
-        - Frontend
-        - Internationalization
-        - Localization
-        - Machine Learning
-        - Maintenance
-        - Mobile
-        - Performance Improvement
-        - Question
-        - Refactoring
-        - Research
-        - Needs Reproduction
-        - SEO
-        - Security
-        - Testing
-        - Other
+        - Code contribution
+        - UI / UX design 
+        - Documentation 
+        - Mentorship
+        - Others
     validations:
       required: true
 
