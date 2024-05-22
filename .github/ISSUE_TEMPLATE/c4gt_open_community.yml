@@ -253,6 +253,14 @@ body:
         - Mentorship
     validations:
       required: true
+
+  - type: textarea
+    id: ticket-amount
+    attributes:
+      label: Ticket Prize
+      description: Please mention the amount (in INR/USD) in case of a bounty / paid ticket
+    validations:
+      required: true
   
 
   
