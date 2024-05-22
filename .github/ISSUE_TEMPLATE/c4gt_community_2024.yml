@@ -227,21 +227,33 @@ body:
       required: true
 
   - type: dropdown
-    id: ticket-category
+    id: ticket-project-type
     attributes: 
-      label: Category
-      description: Choose the categories that best describe your ticket
+      label: Project Type
+      description: Choose the labels that best describe this project
       multiple: true
       options:
         - Code contribution
         - UI / UX design 
-        - Documentation 
-        - Mentorship
+        - Documentation
         - Others
     validations:
       required: true
 
-  
+  - type: dropdown
+    id: ticket-ticket-type
+    attributes: 
+      label: Ticket Type
+      description: Choose the labels that best describe this ticket
+      multiple: true
+      options:
+        - Unpaid ticket
+        - Paid ticket
+        - Bounty ticket 
+        - Mentorship
+        - Others
+    validations:
+      required: true
   
 
   
