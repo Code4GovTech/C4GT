@@ -31,12 +31,20 @@ body:
         [Please also specify the Mid-point milestones- goals that must be achieved by 1.5 months into the coding period. Kindly, state and link installation guide/ set-up steps (if any) in this section]
 
   - type: textarea
-    id: ticket-expected-outcome
+    id: ticket-expected-outcome-contributor
     validations:
       required: true
     attributes:
-      label: Expected Outcome
+      label: Expected Outcome from Contributor
       description: Describe in detail what the final product or result should look like and how it should behave.
+      
+  - type: textarea
+    id: ticket-expected-outcome-mentor
+    validations:
+      required: true
+    attributes:
+      label: Expected Outcome from Mentor
+      description: Describe in detail the expectations from the mentors. 
 
   - type: textarea
     id: ticket-acceptance-criteria
