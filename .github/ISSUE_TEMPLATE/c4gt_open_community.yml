@@ -1,7 +1,7 @@
-name: C4GT Community Template 2024
-description: Create a new Ticket for C4GT Community
+name: C4GT Open Community Template
+description: Create a new Ticket for C4GT Open Community
 title: "[C4GT Community]: "
-labels: ["C4GT Community"]
+labels: ["C4GT Community"]["Mentorship (to be added if the ticket requires additional mentors"]
 body:
   - type: textarea
     id: ticket-description
@@ -251,7 +251,6 @@ body:
         - Paid ticket
         - Bounty ticket 
         - Mentorship
-        - Others
     validations:
       required: true
   
