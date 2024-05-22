@@ -189,14 +189,6 @@ body:
         - Other
     validations:
       required: true
-    
-  - type: textarea
-    id: ticket-mentors
-    attributes:
-      label: Mentor(s)
-      description: Please tag relevant mentors for the ticket
-    validations:
-      required: true
       
   - type: dropdown
     id: ticket-mentorship
@@ -208,6 +200,14 @@ body:
         - Mentor Required
         - Mentor Selected
         - Mentorship Completed
+    validations:
+      required: true
+
+  - type: textarea
+    id: ticket-mentors
+    attributes:
+      label: Mentor(s)
+      description: Please tag relevant mentors for the ticket
     validations:
       required: true
   
