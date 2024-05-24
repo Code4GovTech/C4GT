@@ -3,6 +3,24 @@
 <table>
   <tr>
     <td>Name</td>
+    <td>Korada Vishal</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/Vishalk91-4</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>https://www.linkedin.com/in/vishal-k-2865b6254</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>IIT (BHU) Varanasi</td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td>Name</td>
     <td>Shruti Agarwal</td>
   </tr>
   <tr>
