@@ -200,6 +200,7 @@ body:
         - Mentor Required
         - Mentor Selected
         - Mentorship Completed
+        - Mentor not required
     validations:
       required: true
 
