@@ -1,5 +1,22 @@
 ## Our Community
-
+<table>
+  <tr>
+    <td>Name</td>
+    <td>Ayushmaan Singh</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/Ayushmaan06</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>https://www.linkedin.com/in/ayushmaan03</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>Indian Institute of Information Technology Nagpur</td>
+  </tr>
+</table>
 <table>
   <tr>
     <td>Name</td>
