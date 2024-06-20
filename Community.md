@@ -3,6 +3,25 @@
 <table>
   <tr>
     <td>Name</td>
+    <td>Utkarsh Swaroop</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/Zolo-Ryan</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>https://www.linkedin.com/in/utkarsh-swaroop-shrivastava-839898256/</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>NIT Kurukshetra</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>Name</td>
     <td>Shruti Agarwal</td>
   </tr>
   <tr>
