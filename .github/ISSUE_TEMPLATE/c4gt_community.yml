@@ -1,7 +1,7 @@
 name: C4GT Community Template
 description: Create a new Ticket for C4GT Community
 title: "[C4GT Community]: "
-labels: Please add the C4GT Community Label on all tickets that you will list. In addition to this, please add whichever labels best describe your project from this list: "C4GT Community", " C4GT Coding", " C4GT Design", " C4GT Mentorship", " C4GT Bounty"
+labels: "Please add the C4GT Community Label on all tickets that you will list. In addition to this, please add whichever labels best describe your project from this list: C4GT Community, C4GT Coding, C4GT Design, C4GT Mentorship, C4GT Bounty"
 body:
   - type: textarea
     id: ticket-description
