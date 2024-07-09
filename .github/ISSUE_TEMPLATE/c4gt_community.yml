@@ -1,7 +1,7 @@
 name: C4GT Community Template
 description: Create a new Ticket for C4GT Community
 title: "[C4GT Community]: "
-labels: "Please add the C4GT Community Label on all tickets that you will list. In addition to this, please add whichever labels best describe your project from this list: C4GT Community, C4GT Coding, C4GT Design, C4GT Mentorship, C4GT Bounty"
+labels: ["Please add the C4GT Community Label on all tickets that you will list. In addition to this, please add whichever labels best describe your project from this list: C4GT Community, C4GT Coding, C4GT Design, C4GT Mentorship, C4GT Bounty"]
 body:
   - type: textarea
     id: ticket-description
@@ -11,7 +11,7 @@ body:
       label: Ticket Contents
       value: |
         ## Description
-        [Provide a brief project description, outlining the need and measurable goals of the feature to be developed. Kindly, specify the number of users or scale of the product and feature, articulating its anticipated impact and intended use.]
+        [Provide a brief project description, outlining the need and measurable goals of the feature to be developed. Kindly, specify the number of users or scale of the product and feature, articulating its anticipated impact and intended use. Kindly also add the bounty amount you are willing to pay in case of this being a bounty ticket]
 
   - type: textarea
     id: ticket-goals
