@@ -1,7 +1,7 @@
 name: C4GT Community Template
 description: Create a new Ticket for C4GT Community
 title: "[C4GT Community]: "
-labels: ["C4GT Community"]
+labels: ["C4GT Community", "C4GT Coding", "C4GT Design", "C4GT Mentorship", "C4GT Bounty"]
 body:
   - type: textarea
     id: ticket-description
@@ -27,8 +27,7 @@ body:
         - [ ] [Goal 3]
         - [ ] [Goal 4]
         - [ ] [Goal 5]
-        - [ ] [Midpoint Milestone]
-        [Please also specify the Mid-point milestones- goals that must be achieved by 1.5 months into the coding period. Kindly, state and link installation guide/ set-up steps (if any) in this section]
+        [Kindly, state and link installation guide/ set-up steps (if any) in this section]
 
   - type: textarea
     id: ticket-expected-outcome
