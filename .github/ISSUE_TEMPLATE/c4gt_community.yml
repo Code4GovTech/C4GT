@@ -11,7 +11,7 @@ body:
       label: Ticket Contents
       value: |
         ## Description
-        [Provide a brief project description, outlining the need and measurable goals of the feature to be developed. Kindly, specify the number of users or scale of the product and feature, articulating its anticipated impact and intended use. Kindly also add the bounty amount you are willing to pay in case of this being a bounty ticket]
+        [Provide a brief project description, outlining the need and measurable goals of the feature to be developed. Kindly, specify the number of users or scale of the product and feature, articulating its anticipated impact and intended use. Kindly also add the bounty amount you are willing to pay in case of this being a bounty ticket. For Design, Mentorship & Advisory tickets, we request you to make a copy of this [google form](https://docs.google.com/forms/d/18EPdoqBUFS6lRoQQbRKKjTvzA711nNTdmU8jinKTXWs/edit) in your own drive and attach a link to it in the issue ticket for contributors to fill in. This way you will be able to see all the applications that come in and assign it to the selected contributor.]
 
   - type: textarea
     id: ticket-goals
