@@ -909,3 +909,21 @@
       <td>SRCC</td>
   </tr>
 </table>
+<table>
+  <tr>
+      <td>Name</td>
+      <td>Vineet Sharma</td>
+  </tr>
+  <tr>
+      <td>GitHub</td>
+      <td>[https:](https://github.com/Vineet-Sharma1927)</td>
+  </tr>
+  <tr>
+      <td>LinkedIn</td>
+      <td>https://www.linkedin.com/in/vineet-sharma-904332291/</td>
+  </tr>
+  <tr>
+      <td>College</td>
+      <td>Cluster Innovation Center Delhi University</td>
+  </tr>
+</table>
