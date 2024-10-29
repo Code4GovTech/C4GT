@@ -182,9 +182,17 @@ body:
       required: true
 
   - type: textarea
-    id: ticket-mentors
+    id: ticketorg-mentors
     attributes:
-      label: Mentor(s)
+      label: Organizational Mentor
+      description: Please tag relevant mentors for the ticket
+    validations:
+      required: true
+
+  - type: textarea
+    id: ticketangel-mentors
+    attributes:
+      label: Angel Mentor
       description: Please tag relevant mentors for the ticket
     validations:
       required: true
