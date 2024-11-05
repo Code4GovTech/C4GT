@@ -7,11 +7,3 @@
 
 
 Launched in 2022, C4GT is a one-of-its-kind initiative that aims to build Build active open-source community around DPGs for sustainable DPI implementations. Through various efforts, it aims to encourage ongoing contributions and strengthen collaboration between DPG/DPI builders, adopters, and contributors (students or working professionals). The initiative works towards facilitating long-term collaboration and innovation within the fast evolving DPGs/DPI & Tech for Good ecosystem, enhancing the efficiency and quality of contributions, and aligning the incentives for both organizations and contributors.
-
-
-
-<div align="Center"><h2>Our Community</h2></div>
-
-<a href="https://github.com/code4govtech/c4gt/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Code4GovTech/C4gt" />
-</a>
