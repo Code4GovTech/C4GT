@@ -909,3 +909,24 @@
       <td>SRCC</td>
   </tr>
 </table>
+
+
+<table>
+  <tr>
+      <td>Name</td>
+      <td>Saurabh Kumar Singh</td>
+  </tr>
+  <tr>
+      <td>GitHub</td>
+      <td>https://github.com/sau1606</td>
+  </tr>
+  <tr>
+      <td>LinkedIn</td>
+      <td>https://www.linkedin.com/in/sau1606/</td>
+  </tr>
+  <tr>
+      <td>College</td>
+      <td>Sir M Visvesvaraya Institute of Technology</td>
+  </tr>
+</table>
+
