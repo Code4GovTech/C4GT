@@ -908,3 +908,22 @@
       <td>SRCC</td>
   </tr>
 </table>
+
+<table>
+  <tr>
+      <td>Name</td>
+      <td>Shashidhar Hegde</td>
+  </tr>
+  <tr>
+      <td>GitHub</td>
+      <td>https://github.com/Shashidharahegde</td>
+  </tr>
+  <tr>
+      <td>LinkedIn</td>
+      <td>https://www.linkedin.com/in/shashidhar-hegde</td>
+  </tr>
+  <tr>
+      <td>College</td>
+      <td>Sir M Visvesvaraya Institute Of Technology, Banglore</td>
+  </tr>
+</table>
