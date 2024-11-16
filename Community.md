@@ -799,79 +799,79 @@
 </table>
 
  <table>
-      <tr>
-        <td>Name</td>
-        <td>Arman Kumar Jena</td>
-      </tr>
-      <tr>
-        <td>GitHub</td>
-        <td>https://github.com/Ajen07</td>
-      </tr>
-      <tr>
-        <td>LinkedIn</td>
-        <td>https://www.linkedin.com/in/arman-kumar-jena-9b6a9322a</td>
-      </tr>
-      <tr>
-        <td>College</td>
-        <td>National Institute of Technology , Rourkela</td>
-      </tr>
-    </table>
+  <tr>
+    <td>Name</td>
+    <td>Arman Kumar Jena</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/Ajen07</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>https://www.linkedin.com/in/arman-kumar-jena-9b6a9322a</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>National Institute of Technology , Rourkela</td>
+  </tr>
+</table>
 
-     <table>
-      <tr>
-        <td>Name</td>
-        <td>Zeel Rohit Darji</td>
-      </tr>
-      <tr>
-        <td>GitHub</td>
-        <td>https://github.com/zeel991</td>
-      </tr>
-      <tr>
-        <td>LinkedIn</td>
-        <td>https://www.linkedin.com/in/zeel-darji-25501927b/</td>
-      </tr>
-      <tr>
-        <td>College</td>
-        <td>Indian Institute of Information Technology Nagpur</td>
-      </tr>
-    </table>
+<table>
+<tr>
+  <td>Name</td>
+  <td>Zeel Rohit Darji</td>
+</tr>
+<tr>
+  <td>GitHub</td>
+  <td>https://github.com/zeel991</td>
+</tr>
+<tr>
+  <td>LinkedIn</td>
+  <td>https://www.linkedin.com/in/zeel-darji-25501927b/</td>
+</tr>
+<tr>
+  <td>College</td>
+  <td>Indian Institute of Information Technology Nagpur</td>
+</tr>
+</table>
 
-    <table>
-      <tr>
-        <td>Name</td>
-        <td>Riya Raj</td>
-      </tr>
-      <tr>
-        <td>GitHub</td>
-        <td>https://github.com/RiyaRaj28</td>
-      </tr>
-      <tr>
-        <td>LinkedIn</td>
-        <td>http://www.linkedin.com/in/riya-raj-799152281</td>
-      </tr>
-      <tr>
-        <td>College</td>
-        <td>NIT Kurukshetra</td>
-      </tr>
-    </table>
-    <table>
-      <tr>
-        <td>Name</td>
-        <td>Biswaprem Sahu</td>
-      </tr>
-      <tr>
-        <td>GitHub</td>
-        <td>https://github.com/Biswapremsahu77</td>
-      </tr>
-      <tr>
-        <td>LinkedIn</td>
-        <td>www.linkedin.com/in/biswaprem-sahu-4384702a1</td>
-      </tr>
-      <tr>
-        <td>College</td>
-        <td>NIT Rourkela</td>
-      </tr>
-    </table>
+<table>
+<tr>
+  <td>Name</td>
+  <td>Riya Raj</td>
+</tr>
+<tr>
+  <td>GitHub</td>
+  <td>https://github.com/RiyaRaj28</td>
+</tr>
+<tr>
+  <td>LinkedIn</td>
+  <td>http://www.linkedin.com/in/riya-raj-799152281</td>
+</tr>
+<tr>
+  <td>College</td>
+  <td>NIT Kurukshetra</td>
+</tr>
+</table>
+<table>
+<tr>
+  <td>Name</td>
+  <td>Biswaprem Sahu</td>
+</tr>
+<tr>
+  <td>GitHub</td>
+  <td>https://github.com/Biswapremsahu77</td>
+</tr>
+<tr>
+  <td>LinkedIn</td>
+  <td>www.linkedin.com/in/biswaprem-sahu-4384702a1</td>
+</tr>
+<tr>
+  <td>College</td>
+  <td>NIT Rourkela</td>
+</tr>
+</table>
     
 <table>
   <tr>
@@ -907,5 +907,24 @@
   <tr>
       <td>College</td>
       <td>SRCC</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>Name</td>
+    <td>Aman Ahmed</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/freeh0b0</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>https://www.linkedin.com/in/aman-ahmed-b723b9290/</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>Indian Institute of Information Technology, Nagpur</td>
   </tr>
 </table>
