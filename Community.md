@@ -322,7 +322,6 @@
   </tr>
 </table>
 
-
 <table>
   <tr>
     <td>Name</td>
@@ -798,7 +797,7 @@
       </tr>
 </table>
 
- <table>
+<table>
   <tr>
     <td>Name</td>
     <td>Arman Kumar Jena</td>
@@ -837,40 +836,41 @@
 </table>
 
 <table>
-<tr>
-  <td>Name</td>
-  <td>Riya Raj</td>
-</tr>
-<tr>
-  <td>GitHub</td>
-  <td>https://github.com/RiyaRaj28</td>
-</tr>
-<tr>
-  <td>LinkedIn</td>
-  <td>http://www.linkedin.com/in/riya-raj-799152281</td>
-</tr>
-<tr>
-  <td>College</td>
-  <td>NIT Kurukshetra</td>
-</tr>
+  <tr>
+    <td>Name</td>
+    <td>Riya Raj</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/RiyaRaj28</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>http://www.linkedin.com/in/riya-raj-799152281</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>NIT Kurukshetra</td>
+  </tr>
 </table>
+
 <table>
-<tr>
-  <td>Name</td>
-  <td>Biswaprem Sahu</td>
-</tr>
-<tr>
-  <td>GitHub</td>
-  <td>https://github.com/Biswapremsahu77</td>
-</tr>
-<tr>
-  <td>LinkedIn</td>
-  <td>www.linkedin.com/in/biswaprem-sahu-4384702a1</td>
-</tr>
-<tr>
-  <td>College</td>
-  <td>NIT Rourkela</td>
-</tr>
+  <tr>
+    <td>Name</td>
+    <td>Biswaprem Sahu</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/Biswapremsahu77</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>www.linkedin.com/in/biswaprem-sahu-4384702a1</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>NIT Rourkela</td>
+  </tr>
 </table>
     
 <table>
@@ -891,6 +891,7 @@
       <td>Maharaja Surajmal Institute of Technology</td>
   </tr>
 </table>
+
 <table>
   <tr>
       <td>Name</td>
