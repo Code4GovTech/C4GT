@@ -1,5 +1,23 @@
 ## Our Community
-
+<table>
+  <tr>
+    <td>Name</td>
+    <td>Fareed Sayed</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/Fareed95</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>https://www.linkedin.com/in/fareed-sayed-b39936280</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>Rizvi College of Engineering , Bandra</td>
+  </tr>
+</table>
+<table>
 <table>
   <tr>
     <td>Name</td>
@@ -760,7 +778,7 @@
       </tr>
     </table>
 
-    <table>
+  <table>
       <tr>
         <td>Name</td>
         <td>Shobita Bhardwaj</td>
@@ -777,7 +795,7 @@
         <td>College</td>
         <td>NIT Kurukshetra</td>
       </tr>
-    </table>
+  </table>
 
 <table>
       <tr>
@@ -817,7 +835,7 @@
       </tr>
     </table>
 
-     <table>
+  <table>
       <tr>
         <td>Name</td>
         <td>Zeel Rohit Darji</td>
@@ -836,7 +854,7 @@
       </tr>
     </table>
 
-    <table>
+  <table>
       <tr>
         <td>Name</td>
         <td>Riya Raj</td>
