@@ -18,8 +18,8 @@ Learn more about C4GT on our wiki page 👉🏻 https://github.com/Code4GovTech/
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
 
-<a href="admin@codeforgovtech.in" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+<a href="https://codeforgovtech.in/" target="_blank">
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcodeforgovtech.in%2F&psig=AOvVaw1I-V7wfUKNfjKvixqtL_9U&ust=1732121383150000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPiRopnt6IkDFQAAAAAdAAAAABAE" height="35" alt="gmail logo"  />
   </a>
 
 <a href="https://www.linkedin.com/company/code-for-govtech/" target="_blank">
