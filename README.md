@@ -13,7 +13,7 @@ C4GT is here to bridge that gap! We're bringing together organizations—both bu
 
 Learn more about C4GT on our wiki page 👉🏻 https://github.com/Code4GovTech/C4GT/wiki
 
-Checkout our DPG State of the Community Report (DPG SCoRe) 👉🏻 https://github.com/Code4GovTech/DPG-SCoRe
+Checkout DPG State of the Community Report (DPG SCoRe) 👉🏻 https://github.com/Code4GovTech/DPG-SCoRe
 
 
 
