@@ -13,10 +13,6 @@ C4GT is here to bridge that gap! We're bringing together organizations—both bu
 
 Learn more about C4GT on our wiki page 👉🏻 https://github.com/Code4GovTech/C4GT/wiki
 
-Checkout DPG State of the Community Report (DPG SCoRe) 👉🏻 https://github.com/Code4GovTech/DPG-SCoRe
-
-
-
 <div align="center">
   <a href="https://discord.com/invite/V3Aa9qk4Wt" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
