@@ -1,252 +1,417 @@
-name: C4GT Community Template
-description: Create a new Ticket for C4GT Community
-title: "[C4GT Community]: "
-labels: ["Please add the C4GT Community Label on all tickets that you will list. In addition to this, please add whichever labels best describe your project from this list: C4GT Community, C4GT Coding, C4GT Design, C4GT Mentorship, C4GT Bounty, C4GT Advisory"]
-body:
-  - type: textarea
-    id: ticket-description
-    validations:
-      required: true
-    attributes:
-      label: Ticket Contents
-      value: |
-        ## Description
-        [Provide a brief project description, outlining the need and measurable goals of the feature to be developed. Kindly, specify the number of users or scale of the product and feature, articulating its anticipated impact and intended use. Kindly also add the bounty amount you are willing to pay in case of this being a bounty ticket. For Design, Mentorship & Advisory tickets, we request you to make a copy of this google form (https://docs.google.com/forms/d/18EPdoqBUFS6lRoQQbRKKjTvzA711nNTdmU8jinKTXWs/edit) in your own drive and attach a link to it in the issue ticket for contributors to fill in. This way you will be able to see all the applications that come in and assign it to the selected contributor.]
+Description
 
-  - type: textarea
-    id: ticket-goals
-    validations:
-      required: true
-    attributes:
-      label: Goals
-      description: List the goals of the feature.
-      value: |
-        ## Goals
-        - [ ] [Goal 1]
-        - [ ] [Goal 2]
-        - [ ] [Goal 3]
-        - [ ] [Goal 4]
-        - [ ] [Goal 5]
-        [Kindly, state and link installation guide/ set-up steps (if any) in this section]
+Inji is a comprehensive digital Verifiable Credentials (VCs) stack, designed to foster a high-trust, low-cost ecosystem. The revocation of VCs is crucial to maintaining the integrity, security, and accuracy of this system, ensuring that the credentials in circulation are trustworthy and up-to-date.
 
-  - type: textarea
-    id: ticket-expected-outcome
-    validations:
-      required: true
-    attributes:
-      label: Expected Outcome
-      description: Describe in detail what the final product or result should look like and how it should behave.
+The goal of this user story is to implement a revocation mechanism for verifiable credentials issued by Inji Certify, ensuring that verifiers and holders can check the current status of a credential (e.g., whether it is revoked or suspended). The implementation must align with the W3C Verifiable Credentials Data Model 2.0, ensuring that privacy is preserved while allowing for the proper management of credential lifecycles.
 
-  - type: textarea
-    id: ticket-acceptance-criteria
-    attributes:
-      label: Acceptance Criteria
-      description: List the acceptance criteria for this feature.
+The revocation mechanism will allow issuers to invalidate credentials when they are no longer valid due to reasons such as expiry, compromise, or any other changes to the holder’s status (e.g., employment termination, address change, etc.). This will enhance the trustworthiness and integrity of the credentialing ecosystem by ensuring that only valid and active credentials are used for verification.
 
-  - type: textarea
-    id: ticket-implementation-details
-    validations:
-      required: true
-    attributes:
-      label: Implementation Details
-      description: List any technical details about the proposed implementation, including any specific technologies that will be used.
+The revocation feature will be implemented with privacy-preserving techniques, ensuring that the status check mechanism does not expose any unnecessary information about the holder and that there is no direct communication with the issuer during the verification process.
 
-  - type: textarea
-    id: ticket-mockups
-    attributes:
-      label: Mockups/Wireframes
-      description: Include links to any visual aids, mockups, wireframes, or diagrams that help illustrate what the final product should look like. This is not always necessary, but can be very helpful in many cases.
+Purpose:
+The purpose of this feature is to:
 
-  - type: input
-    id: ticket-product
-    attributes:
-      label: Product Name
-      placeholder: Enter Product Name
-    validations:
-      required: true
+Allow Issuers to revoke credentials (e.g., when compromised, expired, or invalid).
 
-  - type: dropdown
-    id: ticket-organisation
-    attributes:
-      label: Organisation Name
-      description: Enter Organisation Name
-      multiple: false
-      options:
-        - C4GT
-        - Dhiway
-        - FIDE
-        - SamagraX
-        - ShikshaLokam
-        - Tech4Dev
-        - Tibil
-    validations:
-      required: true
+Enable Verifiers to check the revocation status of credentials without knowing the specifics of the holder or the credential being verified.
 
-  - type: input
-    id: ticket-governance-domain
-    attributes:
-      label: Domain
-      placeholder: Enter Area of Governance
+Ensure Privacy of the holder by using decentralized, pseudonymous methods of status verification.
 
-  - type: dropdown
-    id: ticket-technical-skills-required
-    attributes:
-      label: Tech Skills Needed
-      description: Select the technologies needed for this ticket (use Ctrl or Command to select multiple)
-      multiple: true
-      options:
-        - .NET
-        - Agile
-        - Angular
-        - Artificial Intelligence
-        - ASP.NET
-        - AWS
-        - Babel
-        - Bootstrap
-        - C#
-        - Chart.js
-        - CI/CD
-        - Computer Vision
-        - CORS
-        - cURL
-        - Cypress
-        - D3.js
-        - Database
-        - Debugging
-        - Design
-        - DevOps
-        - Django
-        - Docker
-        - Electron
-        - ESLint
-        - Express.js
-        - Feature
-        - Flask
-        - Go
-        - GraphQL
-        - HTML
-        - Ionic
-        - Jest
-        - Java
-        - JavaScript
-        - Jenkins
-        - JWT
-        - Kubernetes
-        - Laravel
-        - Machine Learning
-        - Maintenance
-        - Markdown
-        - Material-UI
-        - Microservices
-        - MongoDB
-        - Mobile
-        - Mockups
-        - Mocha
-        - Natural Language Processing
-        - NestJS
-        - Node.js
-        - NUnit
-        - OAuth
-        - Performance Improvement
-        - Prettier
-        - Python
-        - Question
-        - React
-        - React Native
-        - Redux
-        - RESTful APIs
-        - Ruby
-        - Ruby on Rails
-        - Rust
-        - Scala
-        - Security
-        - Selenium
-        - SEO
-        - Serverless
-        - Solidity
-        - Spring Boot
-        - SQL
-        - Swagger
-        - Tailwind CSS
-        - Test
-        - Testing Library
-        - Three.js
-        - TypeScript
-        - UI/UX/Design
-        - Virtual Reality
-        - Vue.js
-        - WebSockets
-        - Webpack
-        - Other
-    validations:
-      required: true
+Maintain Integrity and Trust in the credentialing system by ensuring that only valid credentials are used in transactions.
 
-  - type: textarea
-    id: ticketorg-mentors
-    attributes:
-      label: Organizational Mentor
-      description: Please tag relevant mentors for the ticket
-    validations:
-      required: true
+Ensure Compliance with W3C Verifiable Credentials Data Model 2.0, particularly focusing on decentralized, secure, and privacy-preserving techniques for revocation.
 
-  - type: textarea
-    id: ticketangel-mentors
-    attributes:
-      label: Angel Mentor
-      description: Please tag relevant mentors for the ticket
-    validations:
-      required: false
+Pre-requisites:
+Setup Certify: mosip/inji-certify 
 
-  - type: dropdown
-    id: ticket-complexity
-    attributes: 
-      label: Complexity
-      description: Choose a complexity describing the complexity of your ticket
-      multiple: false
-      options:
-        - Low
-        - Medium
-        - High
-    validations:
-      required: true
+Clone the Inji Certify repository and ensure all required dependencies are installed - inji-certify: release-0.10.x 
 
-  - type: dropdown
-    id: ticket-category
-    attributes: 
-      label: Category
-      description: Choose the categories that best describe your ticket
-      multiple: true
-      options:
-        - API
-        - Analytics
-        - Accessibility
-        - Backend
-        - Breaking Change
-        - Beginner Friendly
-        - Configuration
-        - CI/CD
-        - Database
-        - Data Science
-        - Deprecation
-        - Documentation
-        - Delpoyment
-        - Frontend
-        - Internationalization
-        - Localization
-        - Machine Learning
-        - Maintenance
-        - Mobile
-        - Performance Improvement
-        - Question
-        - Refactoring
-        - Research
-        - Needs Reproduction
-        - SEO
-        - Security
-        - Testing
-        - Other
-    validations:
-      required: true
+Configure the Certify module with access to a database where credential information can be stored and queried.
+
+To implement revocation feature please follow below given standard documents:
+
+W3C Data Model 2.0 - Verifiable Credentials Data Model v2.0 
+
+Verifiable Credentials API v0.3 - Verifiable Credentials API v0.3 
+
+StatusList2021 - Status List 2021 
+
+Basic Flow:
+Issuer Initiates Revocation:
+
+The issuer determines that a credential needs to be revoked (e.g., due to expiry, a breach of terms, or any other reason).
+
+The issuer updates the credential status by adding the credential to a revocation registry.
+
+The issuer updates the credentialStatus field in the verifiable credential payload to reflect the revocation.
+
+Revocation Information in Credential:
+
+The credentialStatus property is added to the Verifiable Credential, containing necessary status information (e.g., type of status, list index, list URL, etc.).
+
+The credential can include multiple status entries if it has been revoked and later reinstated or suspended.
+
+Receive Revocation Request
+
+The Inji Certify module receives a request to revoke a specific Verifiable Credential (VC). This request will be triggered via an API call.
+
+Validate the Credential
+
+Inji Certify validates the incoming credential request by checking if the VC exists and is eligible for revocation (i.e., it has not already been revoked).
+
+Ensure that the status of the credential has not already been marked as "revoked" or is not in a state of suspension.
+
+Generate Revocation Bitstring
+
+Retrieve the list of all issued verifiable credentials (Vcs).
+
+Use the Bitstring Generation Algorithm to generate a compressed bitstring representing the current status of all issued credentials.
+
+The bitstring will reflect the status of each credential in terms of revocation or suspension.
+
+Update the Status of the Credential
+
+Inji Certify updates the revocation status for the specific credential in the list.
+
+The revocation bit for the revoked credential is set to 1 in the bitstring, while all other valid credentials are set to 0.
+
+Store the Updated Status List
+
+Update the StatusList2021Credential with the newly generated bitstring and the associated credentialStatus.
+
+Store this updated status information in the relevant storage (e.g., database or distributed ledger).
+
+Generate Proof for the Status Update
+
+Generate a proof for the updated StatusList2021Credential following the specified Proof Generation Algorithm.
+
+The proof serves to validate the integrity and authenticity of the revocation information.
+
+Expose Updated Status List via API
+
+Inji Certify exposes an endpoint that provides the StatusList2021Credential containing the updated revocation status as a compressed bitstring.
+
+Ensure the endpoint adheres to the W3C Status List 2021 specification, providing the status of each credential in the list.
+
+Respond to the Revocation Request
+
+Return a confirmation response (success or failure) to the requester indicating that the revocation has been successfully processed and the status has been updated.
+
+Ledger Issuance Table:
+
+The Ledger Issuance Table should store metadata for all issued credentials. Each entry will include the following fields:
+
+id: A unique identifier for the credential (e.g., https://example.com/credentials/status/3#94567).
+
+type: The type of status (must be StatusList2021Entry).
+
+statusPurpose: The purpose of the status entry, which could be either "revocation" or "suspension".
+
+statusListIndex: A string representing the index in the status list (e.g., "94567").
+
+statusListCredential: The URL to the status list credential (e.g., https://example.com/credentials/status/3).
+
+credentialIssuer: The issuer of the credential.
+
+issuedDate: The date the credential was issued.
+
+credentialData: The details of the credential itself.
+
+Ledger Issuance Table Schema
+Column Name
+
+Description
+
+credential_id
+
+Unique identifier for the verifiable credential (e.g., the credential’s URI).
+
+issuer_id
+
+The identifier of the issuer (e.g., URL or DID of the entity issuing the credential).
+
+status_list_index
+
+The index that identifies the status of the credential in the status list (e.g., for revocation).
+
+status_list_credential
+
+URL of the StatusList2021Credential, which includes status information for the credential.
+
+status_purpose
+
+The reason for status change (e.g., "revocation", "suspension").
+
+credential_status
+
+Status of the credential (e.g., "valid", "revoked", "suspended").
+
+issue_date
+
+The date when the credential was issued.
+
+expiration_date
+
+The date when the credential will expire (if applicable).
+
+holder_name
+
+The name of the credential holder (Personal Information).
+
+holder_email
+
+The email address of the credential holder (Personal Information).
+
+holder_address
+
+The address of the credential holder (Personal Information).
+
+credential_type
+
+The type of the credential (e.g., "Certificate", "Degree", etc.).
+
+revocation_timestamp
+
+The date and time when the credential was revoked (if applicable).
+
+revocation_reason
+
+The reason for revocation (e.g., "expired", "compromised", etc.).
+
+revocation_proof
+
+Cryptographic proof or hash representing the integrity of the revocation action (if needed).
+
+Fetch API:
+
+Purpose: To search the Ledger Issuance Table and retrieve the relevant metadata needed to revoke a credential.
+
+Inputs:
+
+credentialId: The ID of the credential to search for (e.g., https://example.com/credentials/status/3#94567).
+
+issuerId: The ID of the issuer of the credential.
+
+Outputs:
+
+The API will return the statusPurpose, statusListIndex, and statusListCredential associated with the credential.
+
+Flow:
+
+The Fetch API will query the Ledger Issuance Table using the credentialId and issuerId to fetch the relevant credential information.
+
+If the credential exists, it will return the metadata, including the statusPurpose, statusListIndex, and statusListCredential.
+
+Example Response:
+
+
+
+{
+  "statusPurpose": "revocation",
+  "statusListIndex": "94567",
+  "statusListCredential": "https://example.com/credentials/status/3"
+}
+Revocation API:
+
+Purpose: To mark a credential as revoked in the ledger system by updating its status.
+
+Inputs:
+
+statusPurpose: The purpose of the status entry (must be "revocation" for permanent revocation).
+
+statusListIndex: The index in the status list that identifies the credential.
+
+statusListCredential: The URL of the status list credential.
+
+Flow:
+
+The Revocation API will be called with the statusPurpose, statusListIndex, and statusListCredential obtained from the Fetch API.
+
+The API will update the status of the credential in the ledger by marking the statusListIndex as revoked.
+
+A successful revocation will update the status list and return a confirmation response.
+
+Example Request Body:
+
+
+
+{
+  "statusPurpose": "revocation",
+  "statusListIndex": "94567",
+  "statusListCredential": "https://example.com/credentials/status/3"
+}
+Example Response:  
+
+
+
+{
+  "status": "revoked",
+  "reason": "expired",
+  "timestamp": "2025-01-07T12:00:00Z"
+}
+Credential Status Update:
+
+When a credential is revoked, the statusListIndex is updated, and the credentialStatus property of the credential is updated with the revocation information.
+
+Example Credential with Updated Status:
+
+
+
+{
+  "credentialStatus": [
+    {
+      "id": "https://example.com/credentials/status/3#94567",
+      "type": "StatusList2021Entry",
+      "statusPurpose": "revocation",
+      "statusListIndex": "94567",
+      "statusListCredential": "https://example.com/credentials/status/3"
+    }
+  ]
+}
+Acceptance Criteria:
+Credential Status Property:
+
+MUST include the credentialStatus property in verifiable credentials.
+
+MUST support a single object or set of objects in the credentialStatus property.
+
+Credential Status Object:
+
+MUST include properties like:
+
+id: OPTIONAL, a unique identifier for the status object.
+
+type: REQUIRED, specifying the status type (e.g., "BitstringStatusListEntry").
+
+statusPurpose: REQUIRED, indicating the reason for status change (e.g., "revocation", "suspension").
+
+statusListIndex: REQUIRED, the index in the status list.
+
+statusListCredential: REQUIRED, the URL of the status list credential.
+
+Revocation List or Status Registry:
+
+MUST use a decentralized status registry (e.g., a Merkle tree, blockchain, or other privacy-preserving systems) to manage the revocation list.
+
+MUST ensure that status checks do not expose unnecessary information about holders or verifiers.
+
+MUST support pseudonymous status checking to prevent tracking.
+
+Verifier and Holder Privacy:
+
+The revocation check MUST not expose the holder’s identity or correlate their status with their other credentials.
+
+No direct communication should occur between the verifier and issuer during the status check.
+
+Status Integrity:
+
+The revocation process must be tamper-proof, ensuring that no unauthorized changes can be made to the revocation list.
+
+The integrity of the revocation list should be ensured through cryptographic proofs or other secure methods.
+
+Fetch API:
+
+The Fetch API must successfully return the metadata (statusPurpose, statusListIndex, statusListCredential) for an issued credential when queried with valid inputs.
+
+Revocation API:
+
+The Revocation API must update the credential’s status in the ledger when provided with valid inputs.
+
+The status of the credential must be marked as revoked and the corresponding statusListIndex must be updated.
+
+Status List Credential:
+
+The updated status list credential should reflect the current revocation status, and the URL must be available for querying by verifiers.
+
+Privacy Considerations:
+
+The revocation mechanism should not expose unnecessary information about the holder or the credential.
+
+Only the status (revoked or valid) should be accessible to the verifier via the status list API.
+
+Technical Tasks:
+Develop an API in Inji Certify to revoke a particular verifiable credential. The API should be designed based on the Verifiable Credentials API v0.3 standard.Develop the Revocation API to update the status of credentials in the ledger.
+
+Develop a mechanism to check the status of a credential in a privacypreserving way from verification tools like Inji verify. This mechanism should be based on W3C Status List 2021 specification and all the necessary APIs should be built into Inji Certify module. Enable status information by adding a credentialStatus property to the VC generated in the mock certify plugin. This should follow the data model described in this specification.
+
+Create endpoints in Inji Certify to expose the StatusList2021Credential verifiable credential which contains the latest status as bitstrings.Expose Status List URL to allow verifiers to check the revocation status.
+
+Create internal facing APIs in Inji Certify to revoke a credential based on this specification, which should update the bit string in the respective StatusListCredential.
+
+Create the Ledger Issuance Table to track metadata for all issued credentials.
+
+Develop the Fetch API to retrieve credential metadata from the ledger.
+
+Technical Implementation:
+Step 1: Set Up Database
+Choose Database: Relational (PostgreSQL) or NoSQL (MongoDB) based on requirements.
+
+Create Schema: Define columns for credential_id, issuer_id, status_list_index, holder_name, issue_date, etc.
+
+Encrypt Sensitive Data: Store personal info securely (e.g., holder_name, holder_email).
+
+Step 2: Develop Credential Issuance Logic
+Integrate Inji Certify: Ensure it supports credential issuance and status tracking.
+
+Create Issuance API: Design POST /issue-credential endpoint to store issued credential details.
+
+Input: credential_id, issuer_id, holder_info, issue_date, etc.
+
+Output: Success or failure response.
+
+Step 3: Implement Fetch API
+Create Fetch API: Implement GET /fetch-credential endpoint to fetch credentials based on filters like credential_id, issuer_id, etc.
+
+Return Results: Query Ledger Issuance Table and return filtered results in JSON format.
+
+Step 4: Develop Revocation API
+Create Revocation API: Implement POST /revoke-credential to mark credentials as revoked and log revocation_timestamp, reason, and proof.
+
+Input: credential_id, revocation_reason, revocation_proof.
+
+Output: Success or failure response.
+
+Revocation Logic:
+
+The issuer adds the credential to the revocation list using a cryptographic hash
+
+The revocation entry is then recorded and made available for querying via the status list URL.
+
+Error Scenarios:
+Credential Not Found: If the verifier cannot find the status list entry or URL, the API should return a 404 Not Found error.
+
+
+
+{
+  "error": "Credential status entry not found",
+  "code": 404
+}
+Revocation List Not Accessible: If the status list URL is unavailable or unreachable, the API should return a 503 Service Unavailable error.
+
+
+
+{
+  "error": "Status list unavailable",
+  "code": 503
+}
+Invalid Status Type: If the credentialStatus field contains an unsupported type or invalid data, the API should return a 400 Bad Request error.
+
+
+
+{
+  "error": "Invalid status type",
+  "code": 400
+}
+Open image-20250107-123851.png
+image-20250107-123851.png
+Privacy Considerations and Compliance with W3C VC 2.0:
+The revocation system must not expose unnecessary information about the holder. This is achieved by using pseudonymous identifiers and ensuring that only necessary data is stored in the revocation registry.
+
+Zero-Knowledge Proofs can be used to allow verifiers to confirm a credential’s status without revealing the actual status list entry or the holder’s identity.
+
+No Direct Communication: The verifier and issuer should never communicate directly when checking the status of a credential to maintain holder privacy.
+
+The system must ensure no metadata-based correlation between different credentials issued to the same holder.
 
   
   
