@@ -909,3 +909,21 @@
       <td>SRCC</td>
   </tr>
 </table>
+    <table>
+      <tr>
+        <td>Name</td>
+        <td>Saarthak Gupta</td>
+      </tr>
+      <tr>
+        <td>GitHub</td>
+        <td>https://github.com/sarthakg004</td>
+      </tr>
+      <tr>
+        <td>LinkedIn</td>
+        <td>https://www.linkedin.com/in/sarthakgupta14/</td>
+      </tr>
+      <tr>
+        <td>College</td>
+        <td>Indian Institute of Technology BHU</td>
+      </tr>
+    </table>
