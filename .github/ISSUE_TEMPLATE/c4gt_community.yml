@@ -79,6 +79,8 @@ body:
         - ShikshaLokam
         - Tech4Dev
         - Tibil
+        - ONDC
+        - ONEST
     validations:
       required: true
 
