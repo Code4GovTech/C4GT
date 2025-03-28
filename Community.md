@@ -909,3 +909,22 @@
       <td>SRCC</td>
   </tr>
 </table>
+
+<table>
+  <tr>
+      <td>Name</td>
+      <td>Tushal Pethani</td>
+  </tr>
+  <tr>
+      <td>GitHub</td>
+      <td>https://github.com/tushal-pethani</td>
+  </tr>
+  <tr>
+      <td>LinkedIn</td>
+      <td>https://www.linkedin.com/in/tushal-pethani-b50a7b262/</td>
+  </tr>
+  <tr>
+      <td>College</td>
+      <td>PDPM IIITDM JABALPUR</td>
+  </tr>
+</table>
