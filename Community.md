@@ -909,3 +909,22 @@
       <td>SRCC</td>
   </tr>
 </table>
+
+<table>
+  <tr>
+      <td>Name</td>
+      <td>Hritik Kumar</td>
+  </tr>
+  <tr>
+      <td>GitHub</td>
+      <td>https://github.com/ritik868</td>
+  </tr>
+  <tr>
+      <td>LinkedIn</td>
+      <td>https://www.linkedin.com/in/hritik-kumar-b766a5256?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app</td>
+  </tr>
+  <tr>
+      <td>College</td>
+      <td>MSIT</td>
+  </tr>
+</table>
