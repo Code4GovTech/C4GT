@@ -3,6 +3,25 @@
 <table>
   <tr>
     <td>Name</td>
+    <td>Jatin Jayadev B</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/JatinJayadev</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>https://www.linkedin.com/in/jatin-jayadev</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>Kalvium</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>Name</td>
     <td>Shruti Agarwal</td>
   </tr>
   <tr>
@@ -18,6 +37,7 @@
     <td>JSS Academy of Technical Education, Noida</td>
   </tr>
 </table>
+
 <table>
       <tr>
         <td>Name</td>
