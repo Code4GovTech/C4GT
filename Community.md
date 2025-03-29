@@ -108,6 +108,24 @@
     <td>National Institute of Technology , Rourkela</td>
   </tr>
 </table>
+ <table>
+      <tr>
+        <td>Name</td>
+        <td>Anshika Yadav</td>
+      </tr>
+      <tr>
+        <td>GitHub</td>
+        <td>https://github.com/anshikkay</td>
+      </tr>
+      <tr>
+        <td>LinkedIn</td>
+        <td>https://www.linkedin.com/in/anshika-yadav-2a052b24a/</td>
+      </tr>
+      <tr>
+        <td>College</td>
+        <td>IIIT Jabalpur</td>
+      </tr>
+    </table>
 
 <table>
   <tr>
