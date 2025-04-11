@@ -1,5 +1,22 @@
 ## Our Community
-
+<table>
+  <tr>
+    <td>Name</td>
+    <td>Ayush Divedi</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/Ayush-div</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>www.linkedin.com/in/ayush-divedi-6bb89628b</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>Indian Institute of Information Technology, Pune</td>
+  </tr>
+</table>
 <table>
   <tr>
     <td>Name</td>
