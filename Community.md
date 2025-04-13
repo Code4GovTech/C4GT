@@ -3,6 +3,24 @@
 <table>
   <tr>
     <td>Name</td>
+    <td>Vipul Singh</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/vipulsc</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>https://www.linkedin.com/in/vipulsingh14</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>Kalinga Institute Of Industrial Technology, Bhubaneswar</td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td>Name</td>
     <td>Shruti Agarwal</td>
   </tr>
   <tr>
