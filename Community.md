@@ -909,3 +909,22 @@
       <td>SRCC</td>
   </tr>
 </table>
+
+<table>
+  <tr>
+      <td>Name</td>
+      <td>Divyansh Verma</td>
+  </tr>
+  <tr>
+      <td>GitHub</td>
+      <td>https://github.com/Divyverma</td>
+  </tr>
+  <tr>
+      <td>LinkedIn</td>
+      <td>https://www.linkedin.com/in/divyansh-verma-a30953227/</td>
+  </tr>
+  <tr>
+      <td>College</td>
+      <td>Bundelkhand Institute of Engineering and Technology</td>
+  </tr>
+</table>
