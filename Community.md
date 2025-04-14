@@ -909,3 +909,22 @@
       <td>SRCC</td>
   </tr>
 </table>
+
+    <table>
+      <tr>
+        <td>Name</td>
+        <td>Rajat Yadav</td>
+      </tr>
+      <tr>
+        <td>GitHub</td>
+        <td>https://github.com/Rajat-Yd</td>
+      </tr>
+      <tr>
+        <td>LinkedIn</td>
+        <td>https://www.linkedin.com/in/rajat018/</td>
+      </tr>
+      <tr>
+        <td>College</td>
+        <td>Accurate institute of Management and Technology / Dr. APJ abdul kalam Technical university</td>
+      </tr>
+    </table>
