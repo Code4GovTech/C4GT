@@ -909,3 +909,21 @@
       <td>SRCC</td>
   </tr>
 </table>
+<table>
+  <tr>
+      <td>Name</td>
+      <td>Mehak</td>
+  </tr>
+  <tr>
+      <td>GitHub</td>
+      <td>https://github.com/mehak-1256765</td>
+  </tr>
+  <tr>
+      <td>LinkedIn</td>
+      <td>https://www.linkedin.com/in/mehak-thakur-8594791aa/</td>
+  </tr>
+  <tr>
+      <td>College</td>
+      <td>Guru Nanak Dev University, Amritsar</td>
+  </tr>
+</table>
