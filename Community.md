@@ -243,8 +243,8 @@
   </tr>
 </table>
 
-    
-    
+
+
 <table>
   <tr>
     <td>Name</td>
@@ -872,7 +872,7 @@
         <td>NIT Rourkela</td>
       </tr>
     </table>
-    
+
 <table>
   <tr>
       <td>Name</td>
@@ -907,5 +907,24 @@
   <tr>
       <td>College</td>
       <td>SRCC</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+      <td>Name</td>
+      <td>Rayyan Seliya</td>
+  </tr>
+  <tr>
+      <td>GitHub</td>
+      <td>https://github.com/RayyanSeliya</td>
+  </tr>
+  <tr>
+      <td>LinkedIn</td>
+      <td>https://www.linkedin.com/in/rayyan-seliya</td>
+  </tr>
+  <tr>
+      <td>College</td>
+      <td>IIIT Agartala</td>
   </tr>
 </table>
