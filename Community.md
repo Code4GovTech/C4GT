@@ -909,3 +909,22 @@
       <td>SRCC</td>
   </tr>
 </table>
+
+<table>
+  <tr>
+    <td>Name</td>
+    <td>Chandan Koranga</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/chandan9410</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>https://www.linkedin.com/in/chandan-koranga-98456a209/</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>National institute of technology Durgapur</td>
+  </tr>
+</table>
