@@ -166,7 +166,6 @@
       </tr>
     </table>
 
-
 <table>
       <tr>
         <td>Name</td>
@@ -243,8 +242,6 @@
   </tr>
 </table>
 
-    
-    
 <table>
   <tr>
     <td>Name</td>
@@ -320,7 +317,6 @@
         <td>National Institute Of Technology, Rourkela</td>
       </tr>
     </table>
-
 
 <table>
       <tr>
@@ -453,8 +449,6 @@
     <td>NIT Kurukshetra</td>
   </tr>
 </table>
-
-
 
 <table>
   <tr>
@@ -872,7 +866,7 @@
         <td>NIT Rourkela</td>
       </tr>
     </table>
-    
+
 <table>
   <tr>
       <td>Name</td>
@@ -909,3 +903,21 @@
       <td>SRCC</td>
   </tr>
 </table>
+    <table>
+      <tr>
+        <td>Name</td>
+        <td>Divyansh Swarnkar</td>
+      </tr>
+      <tr>
+        <td>GitHub</td>
+        <td>https://github.com/divv919</td>
+      </tr>
+      <tr>
+        <td>LinkedIn</td>
+        <td>www.linkedin.com/in/divyansh-swarnkar-87746a323</td>
+      </tr>
+      <tr>
+        <td>College</td>
+        <td>Manipal University</td>
+      </tr>
+    </table>
