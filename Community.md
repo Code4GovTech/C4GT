@@ -909,3 +909,22 @@
       <td>SRCC</td>
   </tr>
 </table>
+
+<table>
+  <tr>
+    <td>Name</td>
+    <td>Ritesh Thorve</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/Ritesh-Thorve</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>https://www.linkedin.com/in/ritesh-thorve</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>Kce's Institute of Managemant & Research, Maharashtra/td>
+  </tr>
+</table>
