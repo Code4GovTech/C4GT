@@ -910,21 +910,21 @@
   </tr>
 </table>
 
-    <table>
-      <tr>
-        <td>Name</td>
-        <td>Ansh Bansal</td>
-      </tr>
-      <tr>
-        <td>GitHub</td>
-        <td>https://github.com/AnshBansal18</td>
-      </tr>
-      <tr>
-        <td>LinkedIn</td>
-        <td>http://www.linkedin.com/in/ansh-bansal04</td>
-      </tr>
-      <tr>
-        <td>College</td>
-        <td>Guru Gobind Singh Inderprastha University</td>
-      </tr>
-    </table>
+<table>
+  <tr>
+      <td>Name</td>
+      <td>Ansh Bansal</td>
+  </tr>
+  <tr>
+      <td>GitHub</td>
+      <td>https://github.com/AnshBansal18</td>
+  </tr>
+  <tr>
+      <td>LinkedIn</td>
+      <td>http://www.linkedin.com/in/ansh-bansal04</td>
+  </tr>
+  <tr>
+      <td>College</td>
+      <td>Guru Gobind Singh Inderprastha University</td>
+  </tr>
+</table>
