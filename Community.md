@@ -909,3 +909,21 @@
       <td>SRCC</td>
   </tr>
 </table>
+<table>
+  <tr>
+    <td>Name</td>
+    <td>Srushti Patil</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/SrushtiPatil-tech</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>https://www.linkedin.com/in/srushti-patil28</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>Cummins College Of Engineering for Women</td>
+  </tr>
+</table>
