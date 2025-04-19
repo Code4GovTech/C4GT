@@ -166,7 +166,6 @@
       </tr>
     </table>
 
-
 <table>
       <tr>
         <td>Name</td>
@@ -243,8 +242,6 @@
   </tr>
 </table>
 
-    
-    
 <table>
   <tr>
     <td>Name</td>
@@ -320,7 +317,6 @@
         <td>National Institute Of Technology, Rourkela</td>
       </tr>
     </table>
-
 
 <table>
       <tr>
@@ -453,8 +449,6 @@
     <td>NIT Kurukshetra</td>
   </tr>
 </table>
-
-
 
 <table>
   <tr>
@@ -872,7 +866,7 @@
         <td>NIT Rourkela</td>
       </tr>
     </table>
-    
+
 <table>
   <tr>
       <td>Name</td>
@@ -908,4 +902,22 @@
       <td>College</td>
       <td>SRCC</td>
   </tr>
+</table>
+<table>
+    <tr>
+        <td>Name</td>
+        <td>Durgesh Kumar Nishad</td>
+    </tr>
+      </tr>
+         <td>Githu</td>
+         <td>https://github.com/durgesh4040</td>
+       </tr>
+       <tr>
+         <td>LinkedIn</td>
+         <td>https://www.linkedin.com/in/durgesh-kumar-nishad/</td>
+       </tr>
+       <tr>
+           <td>College</td>
+           <td>Galgotias College of Enginnering and Technology</td>
+       </tr>
 </table>
