@@ -21,7 +21,7 @@
 <table>
   <tr>
     <td>Name</td>
-    <td>Rohan Kumarl</td>
+    <td>Rohan Kumar</td>
   </tr>
   <tr>
     <td>GitHub</td>
