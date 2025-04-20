@@ -3,6 +3,24 @@
 <table>
   <tr>
     <td>Name</td>
+    <td>Mohnraj A</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/mohan-bee</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>http://linkedin.com/in/mohan-a-88b655318</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>Lovely Professional University</td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td>Name</td>
     <td>Shruti Agarwal</td>
   </tr>
   <tr>
