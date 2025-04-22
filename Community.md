@@ -909,3 +909,23 @@
       <td>SRCC</td>
   </tr>
 </table>
+<table>
+  <tr>
+      <td>Name</td>
+      <td>Aniket Dhingra</td>
+  </tr>
+  <tr>
+      <td>GitHub</td>
+      <td>https://github.com/GameDevAni</td>
+  </tr>
+  <tr>
+      <td>LinkedIn</td>
+      <td>https://www.linkedin.com/in/aniket-dhingra-52b949354/</td>
+  </tr>
+  <tr>
+      <td>College</td>
+      <td>Vishwakarma Institute of Technology(VIT)</td>
+  </tr>
+</table>
+
+
