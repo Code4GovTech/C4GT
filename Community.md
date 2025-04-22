@@ -909,3 +909,21 @@
       <td>SRCC</td>
   </tr>
 </table>
+<table>
+  <tr>
+      <td>Name</td>
+      <td>Himanshu Tamoli</td>
+  </tr>
+  <tr>
+      <td>GitHub</td>
+      <td>https://github.com/himanshutamoli24</td>
+  </tr>
+  <tr>
+      <td>LinkedIn</td>
+      <td>https://www.linkedin.com/in/himanshutamoli24/</td>
+  </tr>
+  <tr>
+      <td>College</td>
+      <td>KIHEAT affliated to guru govind singh university(IPU)</td>
+  </tr>
+</table>
