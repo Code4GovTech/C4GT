@@ -909,3 +909,21 @@
       <td>SRCC</td>
   </tr>
 </table>
+    <table>
+      <tr>
+        <td>Name</td>
+        <td>Mohammad Altamash</td>
+      </tr>
+      <tr>
+        <td>GitHub</td>
+        <td>https://github.com/Altamash20</td>
+      </tr>
+      <tr>
+        <td>LinkedIn</td>
+        <td>https://www.linkedin.com/in/altamash20</td>
+      </tr>
+      <tr>
+        <td>College</td>
+        <td>Institute of Engineering and Technology(IET),Lucknow</td>
+      </tr>
+    </table>
