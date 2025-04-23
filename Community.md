@@ -928,3 +928,22 @@
     <td>Kce's Institute of Managemant & Research, Maharashtra/td>
   </tr>
 </table>
+
+<table>
+  <tr>
+    <td>Name</td>
+    <td>Manohar Kale</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/manoharbari</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>https://www.linkedin.com/in/manoharkale</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>Kce's Institute of Managemant & Research, Maharashtra</td>
+  </tr>
+</table>
