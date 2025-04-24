@@ -924,6 +924,6 @@
       </tr>
       <tr>
         <td>College</td>
-        <td></td>
+        <td>Nielit (National Institute of Electronics & Information Technology)</td>
       </tr>
     </table>
