@@ -3,19 +3,19 @@
 <table>
   <tr>
     <td>Name</td>
-    <td>Shruti Agarwal</td>
+    <td>Moiz Shaikh</td>
   </tr>
   <tr>
     <td>GitHub</td>
-    <td>https://github.com/Shruti3004</td>
+    <td>https://github.com/Moiz-a11</td>
   </tr>
   <tr>
     <td>LinkedIn</td>
-    <td>https://www.linkedin.com/in/shruti-ag</td>
+    <td>www.linkedin.com/in/moiz-shaikh-999a03322</td>
   </tr>
   <tr>
     <td>College</td>
-    <td>JSS Academy of Technical Education, Noida</td>
+    <td>G.H. Raisoni college of engineering and management</td>
   </tr>
 </table>
 <table>
