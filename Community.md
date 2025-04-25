@@ -909,3 +909,21 @@
       <td>SRCC</td>
   </tr>
 </table>
+<table>
+  <tr>
+      <td>Name</td>
+      <td>Abhijeet</td>
+  </tr>
+  <tr>
+      <td>GitHub</td>
+      <td>https://github.com/Abhijeet-108</td>
+  </tr>
+  <tr>
+      <td>LinkedIn</td>
+      <td>https://www.linkedin.com/in/abhijeet-48ab351ab/</td>
+  </tr>
+  <tr>
+      <td>College</td>
+      <td>Techno Main Salt Lake</td>
+  </tr>
+</table>
