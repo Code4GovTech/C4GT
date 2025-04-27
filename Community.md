@@ -927,21 +927,3 @@
     <td>Truba Institute of Engineering & IT , Bhopal</td>
   </tr>
 </table>
-<table>
-  <tr>
-    <td>Name</td>
-    <td>Achutendra Singh</td>
-  </tr>
-  <tr>
-    <td>GitHub</td>
-    <td>https://github.com/achutendra</td>
-  </tr>
-  <tr>
-    <td>LinkedIn</td>
-    <td>https://www.linkedin.com/in/achutendra-singh-126315126</td>
-  </tr>
-  <tr>
-    <td>College</td>
-    <td>Truba Institute of Engineering & IT , Bhopal</td>
-  </tr>
-</table>
