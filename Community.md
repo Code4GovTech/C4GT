@@ -3,6 +3,24 @@
 <table>
   <tr>
     <td>Name</td>
+    <td>Abhishek Anand</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/forcedtomakeanaccounthere</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>https://www.linkedin.com/in/abhishek-anand-97529128a/</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>Indian Institute of Information Technology, Sri City, Chittoor</td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td>Name</td>
     <td>Shruti Agarwal</td>
   </tr>
   <tr>
