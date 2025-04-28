@@ -909,3 +909,22 @@
       <td>SRCC</td>
   </tr>
 </table>
+<table>
+  <tr>
+    <td>Name</td>
+    <td>Nikhil Kurane</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/nikhil25nik</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>https://www.linkedin.com/in/nikhil-kurane25/overlay/about-this-profile/</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>Shivaji University , Kolhapur</td>
+  </tr>
+</table>
+
