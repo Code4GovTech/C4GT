@@ -18,6 +18,26 @@
     <td>JSS Academy of Technical Education, Noida</td>
   </tr>
 </table>
+
+<table>
+  <tr>
+    <td>Name</td>
+    <td>Shashank Goel</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/Shashank-Ge</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>https://www.linkedin.com/in/shashank-goel-42834a31b/</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>Polaris School Of Technology,Bengaluru</td>
+  </tr>
+</table>
+
 <table>
       <tr>
         <td>Name</td>
