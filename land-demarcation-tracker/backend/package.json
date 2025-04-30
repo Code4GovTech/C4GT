@@ -1,0 +1,44 @@
+{
+  "name": "land-demarcation-tracker",
+  "version": "1.0.0",
+  "description": "C4GT DMP-2025 ADC ISSUE - 492",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon src/index.js",
+    "start": "node src/index.js",
+    "db:migrate": "sequelize-cli db:migrate --config src/database/config.js",
+    "db:migrate:undo": "sequelize-cli db:migrate:undo --config src/database/config.js",
+    "db:migrate:undo:all": "sequelize-cli db:migrate:undo:all --config src/database/config.js",
+    "db:seed": "sequelize-cli db:seed:all --config src/database/config.js",
+    "db:seed:undo": "sequelize-cli db:seed:undo --config src/database/config.js",
+    "db:seed:undo:all": "sequelize-cli db:seed:undo:all --config src/database/config.js",
+    "migration:create": "sequelize-cli migration:generate --name",
+    "seed:create": "sequelize-cli seed:generate --name",
+    "db:migrate:to": "sequelize-cli db:migrate --to --config src/database/config.js",
+    "db:seed:run": "sequelize-cli db:seed --seed --config src/database/config.js"
+  },
+  "keywords": [
+    "ADC",
+    "C4GT",
+    "DMP",
+    "2025"
+  ],
+  "author": "Divy Deshmukh",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^3.0.2",
+    "cookie-parser": "^1.4.7",
+    "cors": "^2.8.5",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "nodemon": "^3.1.10",
+    "pg": "^8.15.6",
+    "sequelize": "^6.37.7"
+  },
+  "devDependencies": {
+    "sequelize-cli": "^6.6.2"
+  }
+}
