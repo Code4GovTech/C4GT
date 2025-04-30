@@ -908,4 +908,22 @@
       <td>College</td>
       <td>SRCC</td>
   </tr>
+      <table>
+      <tr>
+        <td>Name</td>
+        <td>Pranjal Jain</td>
+      </tr>
+      <tr>
+        <td>GitHub</td>
+        <td>https://github.com/Yaha-Pranjhol-Hai</td>
+      </tr>
+      <tr>
+        <td>LinkedIn</td>
+        <td>https://www.linkedin.com/in/yaha-pranjhol-hai</td>
+      </tr>
+      <tr>
+        <td>College</td>
+        <td>M.L.V. Textile & Engineering College, Bhilwara</td>
+      </tr>
+    </table>
 </table>
