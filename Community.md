@@ -909,3 +909,22 @@
       <td>SRCC</td>
   </tr>
 </table>
+ <table>
+      <tr>
+        <td>Name</td>
+        <td>Rani Gulshan Nadaf</td>
+      </tr>
+      <tr>
+        <td>GitHub</td>
+        <td>https://github.com/Gulshannadaf</td>
+      </tr>
+      <tr>
+        <td>LinkedIn</td>
+        <td>https://www.linkedin.com/in/rani-gulshan-nadaf-176518268/</td>
+      </tr>
+      <tr>
+        <td>College</td>
+        <td>BLDEA'S V.P Dr PG Halakatti College of Engineering & Technology, Vijayapura</td>
+      </tr>
+    </table>
+
