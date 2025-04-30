@@ -3,6 +3,25 @@
 <table>
   <tr>
     <td>Name</td>
+    <td>Vaibhavi Pathak</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/vaibhavi2402</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>https://www.linkedin.com/in/vaibhavi-pathak-b68223164</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>Raja Balwant Singh Engineering Technical Campus, Bichpuri, Agra</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>Name</td>
     <td>Shruti Agarwal</td>
   </tr>
   <tr>
