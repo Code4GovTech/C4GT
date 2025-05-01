@@ -1,0 +1,3 @@
+Instead of fine-tuning an LLM, we can implement a Retrieval-Augmented Generation (RAG) system using existing open-source models like OpenAI’s GPT or Cohere via API and connect it with TAP’s structured data (like CSVs or Google Sheets). The system will convert natural language queries into structured SQL-like queries using LangChain or LlamaIndex, retrieve the relevant data from TAP’s internal dashboards, and return a summarized response.
+
+This method avoids the complexity and compute needs of model fine-tuning while delivering accurate and fast results. It also allows for easy scaling across new data sources and domains with minimal changes.
