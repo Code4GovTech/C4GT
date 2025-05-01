@@ -5,8 +5,8 @@ import { connectToDatabase } from './database/index.js';
 const startServer = async() => {
     try {
         await connectToDatabase();
-        app.listen(config.development.PORT, () =>  {
-            console.log(`Server is running on port ${config.development.PORT}`);
+        app.listen(config.PORT, () =>  {
+            console.log(`Server is running on port ${config.PORT}`);
         });
     } catch (error) {
         console.error(`Failed to start server: ${error}`);

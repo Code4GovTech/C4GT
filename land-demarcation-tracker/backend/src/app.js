@@ -22,7 +22,9 @@ app.use(express.urlencoded( {
 
 // Import routes
 import healthCheckRoutes from './routes/health_check.routes.js';
+import authRoutes from './routes/auth.routes.js';
 
 app.use('/api/v1', healthCheckRoutes);
+app.use('/api/v1/auth', authRoutes);
 
 export { app };
