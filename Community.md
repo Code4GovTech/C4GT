@@ -1,5 +1,22 @@
 ## Our Community
-
+    <table>
+      <tr>
+        <td>Name</td>
+        <td>Yashpalsingh Pawara</td>
+      </tr>
+      <tr>
+        <td>GitHub</td>
+        <td>https://github.com/yashu1412</td>
+      </tr>
+      <tr>
+        <td>LinkedIn</td>
+        <td>https://www.linkedin.com/in/yashpalsingh-pawara-46240b2b3/</td>
+      </tr>
+      <tr>
+        <td>College</td>
+        <td>PDPM IIITDM Jabalpur</td>
+      </tr>
+    </table>
 <table>
   <tr>
     <td>Name</td>
