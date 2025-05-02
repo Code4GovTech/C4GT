@@ -909,3 +909,21 @@
       <td>SRCC</td>
   </tr>
 </table>
+<table>
+<tr>
+      <td>Name</td>
+      <td>Siya Gour</td>
+  </tr>
+  <tr>
+      <td>GitHub</td>
+      <td>https://github.com/Siyagour26</td>
+  </tr>
+  <tr>
+      <td>LinkedIn</td>
+      <td>https://www.linkedin.com/in/siya-gour-343504325/</td>
+  </tr>
+  <tr>
+      <td>College</td>
+      <td>Softvision College, Indore </td>
+  </tr>
+</table>
