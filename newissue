@@ -1,0 +1,130 @@
+the goals of the AI-Enabled Dashboard Builder feature for the MEDPlat platform:
+
+Self-Service Dashboard Creation
+Enable users to design dashboards using a drag-and-drop interface without writing any code.
+
+Natural Language Query Support
+Allow users to ask questions in plain language (e.g., “Show weekly admissions in Ward A”) and receive relevant charts or KPIs.
+
+AI-Driven Insights
+Integrate capabilities like anomaly detection, forecasting, and auto-generated summaries directly within dashboards.
+
+Personalized KPI Recommendations
+Provide KPI suggestions tailored to each user’s role (e.g., doctor, administrator) and past usage patterns.
+
+Multi-Source Data Integration
+Ensure the dashboard can connect to various data sources—MEDPlat’s internal database, REST APIs, and user-uploaded CSV files.
+
+Role-Based Access Control (RBAC)
+Display only the data and dashboard elements a user is authorized to view, based on their role.
+
+Modular & Scalable Architecture
+Develop the backend and frontend as reusable components that can be extended across other MEDPlat modules.
+
+Responsive, Configurable UI
+Deliver a clean, responsive user interface embedded into the MEDPlat frontend, supporting layout configuration and visual theming.
+
+Here are the technical details of the proposed implementation for the AI-Enabled Dashboard Builder:
+
+Frontend
+Framework: React or Angular (depending on existing MEDPlat stack)
+
+Charting Libraries:
+
+Chart.js – for basic charts
+
+Plotly – for interactive and advanced visualizations
+
+UI Layer:
+
+Responsive design with drag-and-drop layout functionality
+
+Configurable filters, chart types, and dashboard sections
+
+Backend
+Framework:
+
+Node.js or Python (FastAPI/Flask) for API layer
+
+Responsibilities:
+
+Data fetching and transformation
+
+Handling user queries (via NLP)
+
+AI module orchestration (forecasting, summaries, anomaly detection)
+
+Role-based access control (RBAC)
+
+NLP/AI Modules
+Natural Language Processing (NLP):
+
+OpenAI API or Cohere for natural language understanding
+
+Open-source LLMs (e.g., LLama 2, GPT-J) as fallback/local option
+
+Forecasting & Anomaly Detection:
+
+Facebook Prophet or similar time-series forecasting models
+
+Statistical methods for anomaly detection
+
+Auto Summarization:
+
+LLMs generate narrative summaries (e.g., “Admissions increased by 15%”)
+
+Data Handling
+Dynamic Schema Ingestion:
+
+Read from structured sources like SQL DBs, REST APIs, or CSV uploads
+
+Metadata registry to map schema and allow visual selection of fields
+
+Local Analytics Engine (Optional):
+
+DuckDB for local in-memory OLAP-style analysis
+
+Role-Based Access Control (RBAC)
+Middleware-based control at:
+
+Dataset Level (who can access what data)
+
+Widget Level (which charts/filters a user can see)
+
+Integration with MEDPlat’s existing user management system
+
+Smart Recommendations
+Embedding Models (e.g., Sentence Transformers):
+
+Recommend KPIs, charts, and queries based on user role and historical behavior
+
+LangChain (Optional):
+
+For chaining LLM-based actions like query interpretation → data fetching → visualization rendering
+
+Architecture Style
+Modular, Microservice-Friendly design
+
+Separation of concerns: UI / Data Layer / AI Engine
+
+Scalable and maintainable for use across other healthcare modules.
+
+@kunjan8794, tagging you as the mentor for this project ticket titled "AI-Enabled Dashboard Builder" under the MEDPlat platform.
+
+This initiative aims to empower public health professionals with a self-service, intelligent dashboard creation tool that eliminates dependency on technical teams. With embedded AI capabilities like natural language query handling, anomaly detection, and personalized KPI recommendations, this feature aligns directly with MEDPlat’s goals for scalable, role-specific analytics.
+
+The project will involve:
+
+A drag-and-drop dashboard UI for non-technical users
+
+NLP-driven insights via LLMs
+
+Dynamic data integration from SQL, APIs, and CSVs
+
+Role-based access control at widget and dataset levels
+
+A modular backend architecture with AI/ML pipelines for forecasting and summaries
+
+We’re confident this tool will significantly enhance data accessibility and decision-making for MEDPlat users. Requesting your approval to proceed with detailed planning and implementation.
+
+Looking forward to your guidance and feedback!
