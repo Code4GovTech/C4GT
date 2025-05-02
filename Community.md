@@ -909,3 +909,21 @@
       <td>SRCC</td>
   </tr>
 </table>
+<table>
+  <tr>
+    <td>Name</td>
+    <td>Dinesh Saini</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>http://github.com/Dinesh5aini</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>https://www.linkedin.com/in/dinesh5aini/</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>Arya Institute of Engineering and Technology</td>
+  </tr>
+</table>
