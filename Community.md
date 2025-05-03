@@ -3,6 +3,26 @@
 <table>
   <tr>
     <td>Name</td>
+    <td>Sushant Bansal</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/SushantBansal-tech</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>https://www.linkedin.com/in/sushant-bansal-a4719525a/</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>Dr B R Ambedkar National Institute of Technology, Jalandhar</td>
+  </tr>
+</table>
+
+
+<table>
+  <tr>
+    <td>Name</td>
     <td>Shruti Agarwal</td>
   </tr>
   <tr>
