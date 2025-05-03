@@ -909,3 +909,21 @@
       <td>SRCC</td>
   </tr>
 </table>
+<table>
+  <tr>
+    <td>Name</td>
+    <td>Soni Jay Gaurang</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/JaySoni1</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>https://www.linkedin.com/in/sonigjay/</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>Polaris School Of Technology</td>
+  </tr>
+</table>
