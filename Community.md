@@ -1,5 +1,24 @@
 ## Our Community
 
+
+<table>
+  <tr>
+    <td>Name</td>
+    <td>Akshat Kashwani</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/Akshatcodegenics</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>https://www.linkedin.com/in/akshat-kashwani-9582b3306</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>Gautam Buddha University, Greater Noida</td>
+  </tr>
+</table>
 <table>
   <tr>
     <td>Name</td>
