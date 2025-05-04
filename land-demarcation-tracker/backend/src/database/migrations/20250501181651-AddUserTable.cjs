@@ -1,5 +1,7 @@
 'use strict';
 
+const { DataTypes } = require('sequelize');
+
 /** @type {import('sequelize-cli').Migration} */
 module.exports = {
   async up(queryInterface, Sequelize) {
@@ -28,8 +30,8 @@ module.exports = {
         allowNull: false,
         defaultValue: 'officer'
       },
-      circle: {
-        type: Sequelize.STRING,
+      circle_ids: {
+        type: DataTypes.ARRAY(DataTypes.INTEGER), // PostgreSQL only
         allowNull: false
       },
       refresh_token: {
