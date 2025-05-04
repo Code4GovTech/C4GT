@@ -909,3 +909,22 @@
       <td>SRCC</td>
   </tr>
 </table>
+
+<table>
+  <tr>
+    <td>Name</td>
+    <td>Prashant Singh</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/prashant-80</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>https://www.linkedin.com/in/prashant-singh-1a089824a/</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>DJ Sanghvi College of Engineering</td>
+  </tr>
+</table>
