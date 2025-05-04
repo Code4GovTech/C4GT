@@ -33,7 +33,7 @@ const registerUser = asyncHandler(async (req, res) => {
     console.log(req.body);
     const { name, email, password, role, circle } = req.body;
 
-    if([ name, email, password, role, circle].some((field) => field.trim() === "")) {
+    if([ name, email, password, role, circle.join(',')].some((field) => field.trim() === "")) {
         throw new ApiError(400, "All fields are required");
     }
 
@@ -52,7 +52,7 @@ const registerUser = asyncHandler(async (req, res) => {
         email,
         password,
         role,
-        circle,
+        circle_ids: circle,
     });
 
     if (!createUser) {
@@ -127,5 +127,29 @@ const logoutUser = asyncHandler(async (req, res) => {
       .status(200)
       .json({ success: true, message: "User logged out successfully" });
 });
+
+const getUser = asyncHandler(async (req, res) => {
+    // Re‑load the user instance with sensitive fields included
+  const user = await User.findByPk(req.user.id, {
+    attributes: {
+      include: ['password', 'refresh_token'],   // bring back those two columns
+      // you can also exclude other sensitive columns here
+    }
+  })
+
+  if (!user) {
+    throw new ApiError(404, 'User not found')
+  }
+
+  // toJSON() gives you a plain object you can mutate
+  const payload = user.toJSON()
+
+  // If you want to send the raw refreshToken cookie value (not recommended):
+  // payload.rawRefreshToken = req.cookies.refreshToken
+
+  return res
+    .status(200)
+    .json(new ApiResponse(200, payload, 'User fetched successfully'))
+});
   
-export { registerUser, loginUser, logoutUser };
+export { registerUser, loginUser, logoutUser, getUser };

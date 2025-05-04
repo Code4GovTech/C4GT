@@ -1,29 +1,29 @@
-// src/pages/Register.jsx
-import React, { useState } from 'react'
+import React, { useEffect, useState } from 'react'
 import { Link, useNavigate } from 'react-router-dom'
+import { useDispatch, useSelector } from 'react-redux'
 import { toast } from 'react-toastify'
 import api from '../api/api'
-import { registerUserUrl } from '../api/url'
+import { getCircles, getOfficers, registerUserUrl } from '../api/url'
+import { setCirclesAndOfficers } from '../store/slices/authSlice'
 
 export default function RegisterPage() {
   const navigate = useNavigate()
-  const [fullName, setFullName]         = useState('')
-  const [email, setEmail]               = useState('')
-  const [password, setPassword]         = useState('')
+  const circles = useSelector(state => state.user.circles) || [];
+  
+  const [fullName, setFullName]             = useState('')
+  const [email, setEmail]                   = useState('')
+  const [password, setPassword]             = useState('')
   const [confirmPassword, setConfirmPassword] = useState('')
-  const [role, setRole]                 = useState('officer') // default role
-  const [circle, setCircle]             = useState('')        // e.g. circle ID or name
-  const [loading, setLoading]           = useState(false)
+  const [role, setRole]                     = useState('officer')
+  const [circle, setCircle]                 = useState('')  // now an ID from the dropdown
+  const [loading, setLoading]               = useState(false)
 
   const handleSubmit = async (e) => {
     e.preventDefault()
-
     if (password !== confirmPassword) {
       toast.error('Passwords do not match')
       return
     }
-
-    // all fields are required by your controller
     if ([ fullName, email, password, role, circle ].some(f => f.trim() === '')) {
       toast.error('Please fill out all fields')
       return
@@ -36,18 +36,30 @@ export default function RegisterPage() {
         email,
         password,
         role,
-        circle,
+        circle: [circle], // send circle as an array of IDs
       })
       toast.success(data?.message || 'User registered successfully')
       navigate('/login')
     } catch (err) {
-      // show API error message (ApiError.message) or generic fallback
       const msg = err.response?.data?.message || 'Registration failed'
       toast.error(msg)
     } finally {
       setLoading(false)
     }
   }
+
+  const dispatch = useDispatch();
+
+  useEffect(() => {
+    (async function () {
+      const circles = await api.get(getCircles());
+      const officers = await api.get(getOfficers());
+      console.log(`Officers: ${(officers.data)}`);
+      console.log(`Circles: ${circles.data}`);
+      dispatch(setCirclesAndOfficers({ circles: circles.data.data, officers: officers.data.data }));
+    })();
+    
+  }, [dispatch]);
 
   return (
     <div className="min-h-screen flex items-center justify-center bg-slate-50">
@@ -118,16 +130,21 @@ export default function RegisterPage() {
             </select>
           </div>
 
-          {/* Circle */}
+          {/* Circle (dropdown from state.common.circles) */}
           <div>
             <label className="block text-sm font-medium mb-1">Circle</label>
-            <input
-              type="text"
+            <select
               value={circle}
               onChange={e => setCircle(e.target.value)}
-              placeholder="Circle name or ID"
               className="w-full border border-gray-300 rounded px-4 py-2 focus:outline-none focus:ring-2 focus:ring-indigo-500"
-            />
+            >
+              <option value="">Select circle</option>
+              {circles.map(c => (
+                <option key={c.id} value={c.id}>
+                  {c.name}
+                </option>
+              ))}
+            </select>
           </div>
 
           {/* Submit */}

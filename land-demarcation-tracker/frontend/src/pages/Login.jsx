@@ -4,12 +4,15 @@ import { Link, useNavigate } from 'react-router-dom'
 import { toast } from 'react-toastify'
 import api from '../api/api'
 import { loginUserUrl } from '../api/url'
+import { useDispatch } from 'react-redux'
+import { login } from '../store/slices/authSlice'
 
 export default function LoginPage() {
   const navigate = useNavigate()
   const [email, setEmail]       = useState('')
   const [password, setPassword] = useState('')
   const [loading, setLoading]   = useState(false)
+  const dispatch = useDispatch();
 
   const handleSubmit = async (e) => {
     e.preventDefault()
@@ -21,9 +24,11 @@ export default function LoginPage() {
 
     setLoading(true)
     try {
-      const { data } = await api.post(loginUserUrl(), { email, password })
-      toast.success(data?.message || 'Logged in successfully')
-      navigate('/dashboard')
+      const { data } = await api.post(loginUserUrl(), { email, password });
+      toast.success(data?.message || 'Logged in successfully');
+      dispatch(login(data.data));
+
+      navigate('/dashboard');
     } catch (err) {
       const msg = err.response?.data?.message || 'Login failed'
       toast.error(msg)

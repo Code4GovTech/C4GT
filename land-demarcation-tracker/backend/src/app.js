@@ -5,7 +5,7 @@ import cookieParser from 'cookie-parser';
 const app = express();
 
 app.use(cors({
-    origin: process.env.CORS_ORIGIN || '*',
+    origin: config.CORS_ORIGIN || '*',
     credentials: true,
 }));
 
@@ -25,6 +25,7 @@ import healthCheckRoutes from './routes/health_check.routes.js';
 import authRoutes from './routes/auth.routes.js';
 import plotRoutes from './routes/plot.routes.js';
 import demarcationRoutes from './routes/demarcation.routes.js';
+import config from './common/config.js';
 
 app.use('/api/v1', healthCheckRoutes);
 app.use('/api/v1/auth', authRoutes);

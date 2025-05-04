@@ -2,7 +2,9 @@ import { createSlice } from "@reduxjs/toolkit";
 
 const initialState = {
     user: null,
-    isAuthenticated: false
+    isAuthenticated: false,
+    circles: [],
+    officers: [],
 };
   
 // Load initial state from localStorage if available
@@ -20,6 +22,11 @@ const authSlice = createSlice({
         state.isAuthenticated = true;
         state.user = action.payload;
       },
+      setCirclesAndOfficers: (state, action) => {
+        const { circles, officers } = action.payload;
+        state.circles = circles;
+        state.officers = officers;
+      },
       logout: (state) => {
         state.user = null;
         state.isAuthenticated = false;
@@ -28,5 +35,5 @@ const authSlice = createSlice({
     },
 });
   
-export const { login, logout } = authSlice.actions;
+export const { login, logout, setCirclesAndOfficers } = authSlice.actions;
 export default authSlice.reducer;

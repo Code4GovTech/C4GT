@@ -1,34 +1,41 @@
-// src/api/api.js
 import axios from 'axios'
 import { toast } from 'react-toastify'
+import { getUserUrl } from './url'
 
 const api = axios.create({
   baseURL: import.meta.env.VITE_API_BASE_URL || 'http://localhost:5000/api',
-  withCredentials: true, // ⚠️ important for cookies
+  withCredentials: true,
 })
 
-// Global error handler
 api.interceptors.response.use(
   response => response,
   error => {
-    const { response } = error
-    if (response) {
-      const { status, data } = response
 
-      // 401 / 403 → session expired
-      if (status === 401 || status === 403) {
-        toast.error('Session expired. Please log in again.')
-        // Redirect to login (cookies will be ignored afterward)
+    const { response, config } = error
+
+    // 1) Server responded with a status outside 2xx
+    if (error.response) {
+      const { status, data } = response
+      const url = config.url || ''
+
+      if ((status === 401 || status === 403) && !url.endsWith(getUserUrl())) {
         window.location.href = '/login'
       } else {
-        // other API errors
-        const msg = data?.message || response.statusText
+        const msg = data?.message || data?.error || error.response.statusText
         toast.error(msg)
       }
+
+    // 2) Request was sent but no response received
+    } else if (error.request) {
+      console.error('No response received:', error.request)
+      toast.error('No response from server. Please check your network or try again later.')
+
+    // 3) Something went wrong setting up the request
     } else {
-      // network / CORS / timeout
-      toast.error('Network error. Check your connection.')
+      console.error('Axios error:', error.message)
+      toast.error(`Error: ${error.message}`)
     }
+
     return Promise.reject(error)
   }
 )

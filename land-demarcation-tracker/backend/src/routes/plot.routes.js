@@ -11,7 +11,7 @@ router.route('/dashboard-summary').get(verifyJwt, getDashboardSummary);
 router.route('/get-plots').get(verifyJwt, getAllPlots);
 router.route('/update-plot').patch(verifyJwt, requireRole('officer'), updatePlot);
 router.route('/get-duplicates-unresolved').get(verifyJwt, getDuplicatesUnsresolved);
-router.route('/get-circles').get(verifyJwt, requireRole('admin'), getAllCircles);
-router.route('/get-officers').get(verifyJwt, requireRole('admin'), getAllOfficers);
+router.route('/get-circles').get(getAllCircles);
+router.route('/get-officers').get(getAllOfficers);
 
 export default router;

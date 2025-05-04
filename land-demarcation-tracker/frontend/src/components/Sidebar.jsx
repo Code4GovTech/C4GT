@@ -1,5 +1,5 @@
 import React from 'react'
-import { NavLink } from 'react-router-dom'
+import { NavLink, useNavigate } from 'react-router-dom'
 import {
   HomeIcon,
   MapIcon,
@@ -7,16 +7,38 @@ import {
   ExclamationTriangleIcon,
   ArrowRightOnRectangleIcon,
   XMarkIcon,
+  ViewColumnsIcon,
 } from '@heroicons/react/24/outline'
+import { useDispatch } from 'react-redux'
+import { logoutUserUrl } from '../api/url'
+import { logout } from '../store/slices/authSlice'
+import { toast } from 'react-toastify'
+import api from '../api/api'
 
 const navItems = [
-  { name: 'Home',                   to: '/dashboard', icon: HomeIcon },
+  { name: 'Dashboard',                   to: '/dashboard', icon: ViewColumnsIcon },
   { name: 'Plot Management',        to: '/plots',     icon: MapIcon },
   { name: 'Demarcation Logs',       to: '/logs',      icon: ClipboardDocumentListIcon },
   { name: 'Duplication & Unresolved', to: '/disputes', icon: ExclamationTriangleIcon },
 ]
 
 export default function Sidebar({ isOpen, onClose }) {
+
+  const dispatch = useDispatch()
+  const navigate = useNavigate()
+
+  const handleLogout = async () => {
+    try {
+      await api.post(logoutUserUrl())
+      dispatch(logout())
+      toast.success('Logged out successfully')
+      navigate('/login', { replace: true })
+    } catch (err) {
+      const msg = err.response?.data?.message || 'Logout failed'
+      toast.error(msg)
+    }
+  }
+
   return (
     // off-canvas responsive
     <aside
@@ -68,7 +90,7 @@ export default function Sidebar({ isOpen, onClose }) {
       {/* Logout */}
       <div className="px-4 py-6 border-t">
         <button
-          onClick={() => {/* logout */}}
+          onClick={handleLogout}
           className="flex items-center w-full px-3 py-2 text-sm font-medium text-red-600 rounded-md hover:bg-red-50 transition-colors"
         >
           <ArrowRightOnRectangleIcon className="w-5 h-5 mr-3 flex-shrink-0" />

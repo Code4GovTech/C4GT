@@ -346,14 +346,13 @@ const getAllCircles = asyncHandler(async (req, res) => {
 const getAllOfficers = asyncHandler(async (req, res) => {
   const officers = await User.findAll({
     where: { role: 'officer' },
-    attributes: {
-      exclude: ['password', 'refresh_token']  // strip sensitive fields
-    },
-    order: [['name', 'ASC']],                // sort alphabetically
+    attributes: ['id', 'name', 'circle_ids'],   // only these columns
+    order: [['name', 'ASC']],
   });
-  return res.status(200).json(
-    new ApiResponse(200, officers, 'Officers fetched successfully')
-  );
+
+  return res
+    .status(200)
+    .json(new ApiResponse(200, officers, 'Officers fetched successfully'));
 });
 
 export { registerPlot, getDashboardSummary, getAllPlots, updatePlot, getDuplicatesUnsresolved, getAllCircles, getAllOfficers };
