@@ -333,4 +333,27 @@ const getDuplicatesUnsresolved = asyncHandler(async (req, res) => {
   return res.status(200).json(new ApiResponse(200, {duplicates, disputedPlots}, 'Unresolved duplicates fetched'));
 });
 
-export { registerPlot, getDashboardSummary, getAllPlots, updatePlot, getDuplicatesUnsresolved };
+const getAllCircles = asyncHandler(async (req, res) => {
+  const circles = await Circle.findAll({
+    attributes: ['id','name'],         // only return the fields you need
+    order: [['name', 'ASC']],          // sort alphabetically
+  });
+  return res.status(200).json(
+    new ApiResponse(200, circles, 'Circles fetched successfully')
+  );
+});
+
+const getAllOfficers = asyncHandler(async (req, res) => {
+  const officers = await User.findAll({
+    where: { role: 'officer' },
+    attributes: {
+      exclude: ['password', 'refresh_token']  // strip sensitive fields
+    },
+    order: [['name', 'ASC']],                // sort alphabetically
+  });
+  return res.status(200).json(
+    new ApiResponse(200, officers, 'Officers fetched successfully')
+  );
+});
+
+export { registerPlot, getDashboardSummary, getAllPlots, updatePlot, getDuplicatesUnsresolved, getAllCircles, getAllOfficers };
