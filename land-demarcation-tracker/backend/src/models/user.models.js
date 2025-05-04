@@ -50,7 +50,7 @@ User.beforeCreate(async (user) => {
     if (user.password) {
         user.password = await bcrypt.hash(user.password, 10);
     } else {
-        throw new ApiError(409, "Password is required");
+        throw new ApiError(401, "Password is required");
     }
 });
 

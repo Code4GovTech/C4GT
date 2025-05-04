@@ -44,7 +44,7 @@ const registerUser = asyncHandler(async (req, res) => {
     console.log("User Exists: ", isUserExists);
 
     if(isUserExists) {
-        throw new ApiError(409, "User with this email already exists");
+        throw new ApiError(401, "User with this email already exists");
     }
 
     const createUser = await User.create({
@@ -79,7 +79,7 @@ const loginUser = asyncHandler(async (req, res) => {
     console.log("User: ", user);
     
     if(!user) {
-        throw new ApiError(409, "User with this email does not exist");
+        throw new ApiError(401, "User with this email does not exist");
     }
 
     const isPasswordCorrect = await user.isPasswordCorrect(password);

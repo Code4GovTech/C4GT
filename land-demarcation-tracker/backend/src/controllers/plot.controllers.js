@@ -49,7 +49,7 @@ const registerPlot = asyncHandler(async (req, res) => {
       return res.status(500).json({ message: 'Failed to register plot' });
     }
     
-    return res.status(200).json(new ApiResponse(409, { ...isPlotExists.toJSON(), no_of_duplicates, is_duplicate: true }, 'Duplicate plot detected and updated successfully'));
+    return res.status(200).json(new ApiResponse(401, { ...isPlotExists.toJSON(), no_of_duplicates, is_duplicate: true }, 'Duplicate plot detected and updated successfully'));
   }
 
   const plot = await Plot.create({
