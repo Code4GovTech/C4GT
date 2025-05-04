@@ -31,10 +31,10 @@ const User = sequelize.define("User", {
         defaultValue: USER_ROLES.OFFICER,
         allowNull: false,
     },
-    circle: {
-        type: DataTypes.STRING,
-        allowNull: false,
-    },   
+    circle_ids: {
+        type: DataTypes.ARRAY(DataTypes.INTEGER), // PostgreSQL only
+        allowNull: false
+    },
     refresh_token: {
         type: DataTypes.STRING,
         allowNull: true,

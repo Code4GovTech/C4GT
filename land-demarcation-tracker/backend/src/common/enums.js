@@ -3,3 +3,8 @@ export const USER_ROLES = {
     OFFICER: 'officer',
 }
 
+export const PLOT_STATUS = {
+    PENDING: 'pending',
+    RESOLVED: 'resolved',
+    DISPUTED: 'disputed',
+}

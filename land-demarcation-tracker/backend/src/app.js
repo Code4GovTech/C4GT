@@ -23,8 +23,12 @@ app.use(express.urlencoded( {
 // Import routes
 import healthCheckRoutes from './routes/health_check.routes.js';
 import authRoutes from './routes/auth.routes.js';
+import plotRoutes from './routes/plot.routes.js';
+import demarcationRoutes from './routes/demarcation.routes.js';
 
 app.use('/api/v1', healthCheckRoutes);
 app.use('/api/v1/auth', authRoutes);
+app.use('/api/v1/plots', plotRoutes);
+app.use('/api/v1/demarcation', demarcationRoutes);
 
 export { app };
