@@ -1,0 +1,12 @@
+# Python core
+python-dotenv>=1.0.0
+requests>=2.31.0
+
+# MCP SDK (assuming from OpenAI or similar package)
+openai-mcp-sdk>=0.1.0  # Replace with the actual package name if different
+
+# Optional for development and testing
+unittest2>=1.1.0
+
+# Linting (optional)
+flake8>=6.0.0
