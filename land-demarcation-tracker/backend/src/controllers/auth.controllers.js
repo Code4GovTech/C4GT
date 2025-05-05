@@ -100,9 +100,9 @@ const loginUser = asyncHandler(async (req, res) => {
     console.log("Logged In User: ", loggedInUser);
 
     const options = {
-        httpOnly: true,
-        secure: config.NODE_ENV === "production",
-        sameSite: config.NODE_ENV === "production" ? "strict" : "lax",
+        httpOnly: true,    // not accessible to JS
+        secure: true,      // cookie only over HTTPS
+        sameSite: 'none',  // allow in cross‑site contexts
     }
 
     return res
@@ -116,9 +116,9 @@ const loginUser = asyncHandler(async (req, res) => {
 
 const logoutUser = asyncHandler(async (req, res) => {
     const options = {
-      httpOnly: true,
-      secure: process.env.NODE_ENV === "production",
-      sameSite: process.env.NODE_ENV === "production" ? "strict" : "lax",
+        httpOnly: true,    // not accessible to JS
+        secure: true,      // cookie only over HTTPS
+        sameSite: 'none',  // allow in cross‑site contexts
     };
   
     res
