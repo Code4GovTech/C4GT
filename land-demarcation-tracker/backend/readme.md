@@ -1,18 +1,40 @@
 # 🗺️ Land Demarcation Tracker (Backend)
 
-A backend service to support digitization of land demarcation processes in Mahendragarh (Haryana), helping revenue officers and administrators log, track, and manage demarcation reports, duplicate entries, and unresolved cases.
+A backend service to support digitization of land demarcation processes in Mahendragarh (Haryana), helping revenue officers and administrators log, track, and manage demarcation reports.
 
-This project is developed as part of **DMP 2025 (Dedicated Mentorship Program)** under the **Code4GovTech (C4GT)** initiative.
+## 🚀 Getting Started
 
----
+1. Navigate to the backend folder:
+   ```
+   cd land-demarcation-tracker/backend
+   ```
+
+2. Install dependencies:
+   ```
+   npm install
+   ```
+
+3. Set up environment variables:
+   ```
+   cp .env.example .env
+   ```
+   Then edit the `.env` file with your database credentials.
+
+4. Start the development server:
+   ```
+   npm run dev
+   ```
 
 ## 📦 Tech Stack
 
-- **Node.js** + **Express**
-- **Sequelize ORM** (with PostgreSQL)
-- **JWT Auth** (with role-based access: Officer/Admin)
-- **Environment-based config via `dotenv`**
-- **MVC architecture**
-- **Monorepo-ready** (frontend & backend separated)
+- **Node.js** + **Express** - Server framework
+- **Sequelize ORM** - Database ORM with PostgreSQL
+- **JWT Auth** - Authentication with role-based access
+- **MVC architecture** - For clean code organization
 
----
+## 📋 Available Scripts
+
+- `npm run dev` - Start development server with hot-reload
+- `npm start` - Start production server
+- `npm run test` - Run tests
+- `npm run migrate` - Run database migrations
