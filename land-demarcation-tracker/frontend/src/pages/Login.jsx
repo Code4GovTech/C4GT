@@ -3,9 +3,9 @@ import React, { useState } from 'react'
 import { Link, useNavigate } from 'react-router-dom'
 import { toast } from 'react-toastify'
 import api from '../api/api'
-import { loginUserUrl } from '../api/url'
+import { getCircles, getOfficers, loginUserUrl } from '../api/url'
 import { useDispatch } from 'react-redux'
-import { login } from '../store/slices/authSlice'
+import { login, setCirclesAndOfficers } from '../store/slices/authSlice'
 
 export default function LoginPage() {
   const navigate = useNavigate()
@@ -27,7 +27,17 @@ export default function LoginPage() {
       const { data } = await api.post(loginUserUrl(), { email, password });
       toast.success(data?.message || 'Logged in successfully');
       dispatch(login(data.data));
-
+      (async function () {
+        try {
+          const circles = await api.get(getCircles());
+          const officers = await api.get(getOfficers());
+          console.log(`Officers: ${(officers.data)}`);
+          console.log(`Circles: ${circles.data}`);
+          dispatch(setCirclesAndOfficers({ circles: circles.data.data, officers: officers.data.data }));
+        } catch (error) {
+          console.log(`Error fetching circles and officers: ${error}`);
+        }
+      })();   
       navigate('/dashboard');
     } catch (err) {
       const msg = err.response?.data?.message || 'Login failed'
