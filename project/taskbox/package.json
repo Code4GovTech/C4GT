@@ -1,0 +1,60 @@
+{
+  "name": "taskbox",
+  "version": "0.2.0",
+  "description": "Starter template to get up and running quickly with Angular and Storybook",
+  "author": "Chromatic <https://chromatic.com/>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chromaui/intro-storybook-angular-template"
+  },
+  "bugs": {
+    "url": "https://github.com/chromaui/intro-storybook-angular-template/issues"
+  },
+  "license": "MIT",
+  "scripts": {
+    "ng": "ng",
+    "start": "ng serve",
+    "build": "ng build",
+    "watch": "ng build --watch --configuration development",
+    "storybook": "ng run taskbox:storybook",
+    "build-storybook": "ng run taskbox:build-storybook",
+    "init-msw": "msw init src/"
+  },
+  "private": true,
+  "dependencies": {
+    "@angular/animations": "^19.0.6",
+    "@angular/common": "^19.0.6",
+    "@angular/compiler": "^19.0.6",
+    "@angular/core": "^19.0.6",
+    "@angular/forms": "^19.0.6",
+    "@angular/platform-browser": "^19.0.6",
+    "@angular/platform-browser-dynamic": "^19.0.6",
+    "@angular/router": "^19.0.6",
+    "rxjs": "~7.8.0",
+    "tslib": "^2.3.0",
+    "zone.js": "~0.15.0"
+  },
+  "devDependencies": {
+    "@angular-devkit/build-angular": "^19.0.7",
+    "@angular/cli": "^19.0.7",
+    "@angular/compiler-cli": "^19.0.6",
+    "@compodoc/compodoc": "^1.1.23",
+    "@storybook/addon-essentials": "^8.3.3",
+    "@storybook/addon-interactions": "^8.3.3",
+    "@storybook/addon-links": "^8.3.3",
+    "@storybook/angular": "^8.3.3",
+    "@storybook/blocks": "^8.3.3",
+    "@storybook/test": "^8.3.3",
+    "@types/jasmine": "~4.3.0",
+    "jasmine-core": "~4.5.0",
+    "karma": "~6.4.0",
+    "karma-chrome-launcher": "~3.1.0",
+    "karma-coverage": "~2.2.0",
+    "karma-jasmine": "~5.1.0",
+    "karma-jasmine-html-reporter": "~2.0.0",
+    "msw": "^2.3.0",
+    "msw-storybook-addon": "^2.0.3",
+    "storybook": "^8.3.3",
+    "typescript": "^5.6.3"
+  }
+}
