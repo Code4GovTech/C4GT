@@ -589,6 +589,25 @@
       </tr>
     </table>
 
+    <table>
+  <tr>
+    <td>Name</td>
+    <td>Manish Rathaur</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/ItsVicky25</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>https://www.linkedin.com/in/manish-rathaur-80b40b24a/</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>Graphic Era Hill University, Bhimtal</td>
+  </tr>
+</table>
+
 <table>
   <tr>
     <td>Name</td>
