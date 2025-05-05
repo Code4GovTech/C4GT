@@ -2,12 +2,18 @@
 import { configureStore, combineReducers } from '@reduxjs/toolkit'
 import authReducer from './slices/authSlice'
 import dashboardReducer from './slices/dashboardSlice'
+import plotsReducer from './slices/plotSlice'
+import demarcationReducer from './slices/demarcationSlice'
+import disputesReducer  from './slices/disputesSlice'
 import { logout } from './slices/authSlice'
 
 // 1️⃣ Combine all your slice reducers
 const appReducer = combineReducers({
   auth:      authReducer,
   dashboard:     dashboardReducer,
+  plots: plotsReducer,
+  demarcation: demarcationReducer,
+  disputes:    disputesReducer,
 })
 
 // 2️⃣ Create a root reducer that wipes state on logout

@@ -8,7 +8,7 @@ import { setCirclesAndOfficers } from '../store/slices/authSlice'
 
 export default function RegisterPage() {
   const navigate = useNavigate()
-  const circles = useSelector(state => state.user.circles) || [];
+  const circles = useSelector(state => state.auth.circles) || [];
   
   const [fullName, setFullName]             = useState('')
   const [email, setEmail]                   = useState('')

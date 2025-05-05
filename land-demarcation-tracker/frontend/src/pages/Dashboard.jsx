@@ -21,6 +21,7 @@ export default function Dashboard() {
 
   const [circleFilter, setCircleFilter]   = useState('all')
   const [officerFilter, setOfficerFilter] = useState('all')
+  const user = useAppSelector(s => s.auth.user);
 
   useEffect(() => {
     if (!summary && !loading) dispatch(fetchDashboardSummary())
@@ -44,7 +45,7 @@ export default function Dashboard() {
   const globalStatusData = [
     { name: 'Resolved',   value: resolved,       color: '#4C9935' },
     { name: 'Pending',    value: pending,        color: '#F59E0B' },
-    { name: 'Disputed',   value: disputed,       color: '#FBBF33' },
+    { name: 'Disputed',   value: disputed,       color: 'red' },
     { name: 'Duplicates', value: duplicateCount, color: '#3B82F6' },
   ]
 
@@ -64,7 +65,7 @@ export default function Dashboard() {
           { title: 'Total Plots', value: totalPlots },
           { title: 'Resolved',    value: resolved,  color: 'text-green-600' },
           { title: 'Pending',     value: pending,   color: 'text-yellow-600' },
-          { title: 'Disputed',    value: disputed,  color: 'text-amber-400' },
+          { title: 'Disputed',    value: disputed,  color: 'text-red-600' },
           { title: 'Duplicates',  value: duplicateCount },
         ].map(({ title, value, color = '' }, idx) => (
           <Card key={idx}>
@@ -119,19 +120,23 @@ export default function Dashboard() {
             <CardTitle>Circle Breakdown</CardTitle>
             <CardDescription>Plots by circle</CardDescription>
           </div>
-          <div className="w-full sm:w-48 mt-4 sm:mt-0">
-            <Select value={circleFilter} onValueChange={setCircleFilter}>
-              <SelectTrigger><SelectValue placeholder="Filter circle" /></SelectTrigger>
-              <SelectContent>
-                <SelectItem value="all">All Circles</SelectItem>
-                {allCircles.map(c => (
-                  <SelectItem key={c.id} value={String(c.id)}>
-                    {c.name}
-                  </SelectItem>
-                ))}
-              </SelectContent>
-            </Select>
-          </div>
+          {
+            user.user.role === 'admin' && (
+              <div className="w-full sm:w-48 mt-4 sm:mt-0">
+                <Select value={circleFilter} onValueChange={setCircleFilter}>
+                  <SelectTrigger><SelectValue placeholder="Filter circle" /></SelectTrigger>
+                  <SelectContent>
+                    <SelectItem value="all">All Circles</SelectItem>
+                    {allCircles.map(c => (
+                      <SelectItem key={c.id} value={String(c.id)}>
+                        {c.name}
+                      </SelectItem>
+                    ))}
+                  </SelectContent>
+                </Select>
+              </div>
+            )
+          }
         </CardHeader>
         <CardContent>
           <Table>
@@ -168,19 +173,23 @@ export default function Dashboard() {
             <CardTitle>Officer Breakdown</CardTitle>
             <CardDescription>Plots by officer</CardDescription>
           </div>
-          <div className="w-full sm:w-48 mt-4 sm:mt-0">
-            <Select value={officerFilter} onValueChange={setOfficerFilter}>
-              <SelectTrigger><SelectValue placeholder="Filter officer" /></SelectTrigger>
-              <SelectContent>
-                <SelectItem value="all">All Officers</SelectItem>
-                {allOfficers.map(o => (
-                  <SelectItem key={o.id} value={String(o.id)}>
-                    {o.name}
-                  </SelectItem>
-                ))}
-              </SelectContent>
-            </Select>
-          </div>
+          {
+            user.user.role === 'admin' && (
+              <div className="w-full sm:w-48 mt-4 sm:mt-0">
+                <Select value={officerFilter} onValueChange={setOfficerFilter}>
+                  <SelectTrigger><SelectValue placeholder="Filter officer" /></SelectTrigger>
+                  <SelectContent>
+                    <SelectItem value="all">All Officers</SelectItem>
+                    {allOfficers.map(o => (
+                      <SelectItem key={o.id} value={String(o.id)}>
+                        {o.name}
+                      </SelectItem>
+                    ))}
+                  </SelectContent>
+                </Select>
+              </div>
+            )
+          }
         </CardHeader>
         <CardContent>
           <Table>

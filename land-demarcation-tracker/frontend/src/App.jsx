@@ -19,6 +19,9 @@ import { login, logout, setCirclesAndOfficers } from "./store/slices/authSlice";
 import { getCircles, getOfficers, getUserUrl } from "./api/url";
 import api from "./api/api";
 import Dashboard from "./pages/Dashboard";
+import PlotManagement from "./pages/PlotManagement";
+import DemarcationLogs from "./pages/DemarcationLogs";
+import DuplicationUnresolved from "./pages/DuplicationUnresolved";
 
 function AuthLoader({ children }) {
   const dispatch = useDispatch();
@@ -134,6 +137,33 @@ export default function App() {
                     : <Navigate to="/login" replace />
                 }
               />
+
+              <Route
+                path="/plots"
+                element={
+                  isAuthenticated
+                    ? <PlotManagement />
+                    : <Navigate to="/login" replace />
+                }
+              />  
+
+              <Route
+                path="/logs"
+                element={
+                  isAuthenticated
+                    ? <DemarcationLogs />
+                    : <Navigate to="/login" replace />
+                }
+              />  
+
+              <Route
+                path="/disputes"
+                element={
+                  isAuthenticated
+                    ? <DuplicationUnresolved />
+                    : <Navigate to="/login" replace />
+                }
+              />  
 
                 {/* Fallback */}
                 <Route
