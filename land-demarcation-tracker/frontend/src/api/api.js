@@ -19,8 +19,10 @@ api.interceptors.response.use(
       const url = config.url || ''
 
       if ((status === 401 || status === 403) && !url.endsWith(getUserUrl())) {
-        window.location.href = '/login'
-      } else {
+        setTimeout(() => {
+          window.location.href = '/login' // Redirect to login page
+        }, 1000);
+      } else if (!url.includes(getUserUrl())) {
         const msg = data?.message || data?.error || error.response.statusText
         toast.error(msg)
       }
