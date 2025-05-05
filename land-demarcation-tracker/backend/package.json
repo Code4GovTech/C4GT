@@ -8,6 +8,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "nodemon src/index.js",
     "start": "node src/index.js",
+    "build": "esbuild src/index.js --bundle --platform=node --target=node18 --outdir=dist",
     "migration:create": "sequelize-cli migration:generate --name",
     "seed:create": "sequelize-cli seed:generate --name",
     "db:migrate": "sequelize-cli db:migrate",
