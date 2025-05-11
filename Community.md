@@ -909,3 +909,21 @@
       <td>SRCC</td>
   </tr>
 </table>
+<table>
+  <tr>
+    <td>Name</td>
+    <td>Shubham Kandpall</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/Subham799</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>https://[www.linkedin.com/in/shruti-ag](https://www.linkedin.com/in/shubham-kandpal-170ab0235?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app )</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>GBPUAT</td>
+  </tr>
+</table>
