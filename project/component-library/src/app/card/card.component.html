@@ -1,36 +1,38 @@
 <div class="card clean">
   <div class="card-image-container">
-    <div class="card-badge-wrapper">
-      <span class="feature-badge">Famous</span>
+    <div *ngIf="showBadge && badgeText" class="card-badge-wrapper">
+      <span class="feature-badge">{{ badgeText }}</span>
     </div>
+
+    <img *ngIf="imageSrc" [src]="imageSrc" alt="Card image" />
 
     <div class="card-overlay-caption">
       <div class="caption-content">
         <div>
-          <h5 class="card-title">Smooth caption</h5>
-          <h6 class="card-subtitle">Alternative caption</h6>
+          <h5 class="card-title">{{ title }}</h5>
+          <h6 *ngIf="subtitle" class="card-subtitle">{{ subtitle }}</h6>
         </div>
       </div>
     </div>
   </div>
 
   <div class="card-body">
-    <p class="card-text">Minim dolor in amet nulla laboris enim dolore consequat proident fugiat culpa eiusmod
-      proident sed excepteur excepteur magna irure ex officia ea sunt in incididunt.</p>
+    <p class="card-text">
+      {{ bodyText }}
+    </p>
   </div>
 
   <div class="card-footer">
     <div class="footer-content">
       <div class="footer-left">
-        <a class="read-more-link" href="javascript://">Read More</a>
+        <app-button [label]="'Read More'" [variant]="'primary'" [size]="'small'" (onClick)="onReadMoreClick()">
+        </app-button>
       </div>
       <div class="footer-actions">
-        <div class="action-button">
-          <i class="fas fa-heart" aria-hidden="true"></i>
-        </div>
-        <div class="action-button">
-          <i class="fas fa-share-nodes" aria-hidden="true"></i>
-        </div>
+        <app-button [label]="'Like'" [variant]="'primary'" [size]="'small'" (onClick)="onLikeClick()">
+        </app-button>
+        <app-button [label]="'Share'" [variant]="'primary'" [size]="'small'" (onClick)="onShareClick()">
+        </app-button>
       </div>
     </div>
   </div>

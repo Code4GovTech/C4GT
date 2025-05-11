@@ -2,7 +2,6 @@
 $primary-color: #4f46e5;
 $primary-darker: #4338ca;
 $text-color: #4b5563;
-$text-muted: #6b7280;
 $light-bg: #f9fafb;
 $white: #fff;
 $gradient-start: #6366f1;
@@ -25,7 +24,7 @@ $transition-standard: 0.3s ease;
 
     &:hover {
         transform: translateY(-4px);
-        box-shadow: 0 12px 28px rgba(0, 0, 0, 0.12);
+        box-shadow: 0 12px 28px rgba(0, 0, 0, 0.048);
 
         .card-image-container img {
             transform: scale(1.05);
@@ -80,9 +79,9 @@ $transition-standard: 0.3s ease;
     bottom: 0;
     left: 0;
     right: 0;
-    background: linear-gradient(0deg, rgba(0, 0, 0, 0.85) 0%, rgba(0, 0, 0, 0) 100%);
+    background: linear-gradient(0deg, rgba(255, 255, 255, 0.8) 0%, rgba(240, 240, 240, 0.6) 100%);
     padding: 2rem 1.5rem 1.25rem;
-    transform: translateY(30%);
+    transform: translateY(34%);
     opacity: 0.9;
     transition:
         transform $transition-standard,
@@ -180,14 +179,12 @@ $transition-standard: 0.3s ease;
     height: 2rem;
     border-radius: 50%;
     background-color: $white;
-    color: $text-muted;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.08);
     transition: all 0.2s ease;
     cursor: pointer;
 
     &:hover {
         background-color: $primary-color;
-        color: $white;
         transform: translateY(-2px);
         box-shadow: 0 4px 8px rgba($primary-color, 0.25);
     }

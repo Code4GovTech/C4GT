@@ -6,11 +6,6 @@ const meta: Meta<CardComponent> = {
   title: 'Components/Card',
   component: CardComponent,
   tags: ['autodocs'],
-  render: (args: CardComponent) => ({
-    props: {
-      ...args,
-    },
-  }),
   argTypes: {
     title: {
       control: 'text',
@@ -36,6 +31,14 @@ const meta: Meta<CardComponent> = {
       control: 'boolean',
       description: 'Whether to show the feature badge',
     },
+    showLikeBtn: {
+      control: 'boolean',
+      description: 'Whether to show the like button',
+    },
+    showShareBtn: {
+      control: 'boolean',
+      description: 'Whether to show the like button'
+    }
   },
   args: {
     // Default values for the stories
@@ -43,15 +46,17 @@ const meta: Meta<CardComponent> = {
     subtitle: 'Card Subtitle',
     badgeText: 'Featured',
     bodyText: 'This is the main content of the card. It provides information related to the card title and subtitle.',
-    imageSrc: 'https://source.unsplash.com/random/400x220/?nature',
+    imageSrc: 'https://picsum.photos/500/400.webp',
     showBadge: true,
+    showLikeBtn: true,
+    showShareBtn: true,
   },
 };
 
 export default meta;
 
-export const Default = {
-  args: {
-    // Using default args from meta
-  },
+type Story = StoryObj<CardComponent>;
+
+export const Default: Story = {
+  args: {},
 };
