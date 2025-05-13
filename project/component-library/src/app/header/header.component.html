@@ -1,0 +1,35 @@
+<div class="header">
+  <div class="logo">
+    <img src="https://img.icons8.com/?size=100&id=71256&format=png&color=000000" alt="logo" />
+    <span>{{ title }}</span>
+  </div>
+  <div class="nav-links">
+    <div class="link-item" *ngFor="let nav of navLinks | keyvalue">
+      <a
+        class="link"
+        [routerLink]="nav.value"
+        routerLinkActive="active-link"
+        [routerLinkActiveOptions]="{ exact: true }"
+      >
+        {{ nav.key }}
+      </a>
+    </div>
+  </div>
+  <div class="nav-buttons">
+    <ng-container *ngIf="showAuthButton; else avatarBlock">
+      <button class="signup-btn">
+        Sign up
+        <div class="arrow-wrapper">
+          <div class="arrow"></div>
+        </div>
+      </button>
+    </ng-container>
+    <ng-template #avatarBlock>
+      <label class="avatar">
+        <div tabindex="0" class="user">
+          <img src="{{ userAvatarUrl }}" alt="user-profile" />
+        </div>
+      </label>
+    </ng-template>
+  </div>
+</div>

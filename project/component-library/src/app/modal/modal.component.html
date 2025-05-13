@@ -1,0 +1,32 @@
+<div *ngIf="isOpen" class="modal-card">
+    <p class="modal-heading">{{ title }}</p>
+    <p class="modal-para">
+        {{ content }}
+    </p>
+    <div *ngIf="showFooter" class="button-wrapper">
+      <app-button *ngIf="confirmText" [label]="confirmText" [variant]="'primary'" [size]="'medium'" (click)="onConfirm()"></app-button>
+      <app-button *ngIf="cancelText" [label]="cancelText" [variant]="'secondary'" [size]="'medium'" (click)="onCancel()"></app-button>
+    </div>
+    <button *ngIf="showCloseBtn" class="exit-button" (click)="onClose()">
+      <svg
+        xmlns="http://www.w3.org/2000/svg"
+        fill="none"
+        viewBox="0 0 162 162"
+        class="svgIconCross"
+      >
+        <path
+          stroke-linecap="round"
+          stroke-width="17"
+          stroke="black"
+          d="M9.01074 8.98926L153.021 153"
+        ></path>
+        <path
+          stroke-linecap="round"
+          stroke-width="17"
+          stroke="black"
+          d="M9.01074 153L153.021 8.98926"
+        ></path>
+      </svg>
+    </button>
+  </div>
+  

@@ -1,0 +1,141 @@
+.header {
+  display: flex;
+  width: 100%;
+  padding: 8px;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 0.7px solid rgba(122, 122, 122, 0.2);
+
+  .logo {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+
+    img {
+      width: 35px;
+      height: 35px;
+      margin: 5px;
+    }
+
+    span {
+      font-weight: bold;
+      font-size: large;
+    }
+  }
+
+  .nav-links {
+    display: flex;
+    gap: 2.6rem;
+    color: rgba(65, 63, 63, 0.84);
+    font-size: 0.9rem;
+
+    .link-item {
+      .link {
+        position: relative;
+        cursor: pointer;
+      }
+    }
+  }
+
+  .nav-buttons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+
+    .signup-btn {
+      $primary-color: #fff;
+      $secondary-color: #002152;
+      $hover-color: #eceff2;
+      $arrow-stroke: 2px; // Example value
+      $arrow-width: 16px; // Example value
+
+      box-sizing: border-box;
+      border: 0;
+      border-radius: 50px;
+      color: $secondary-color;
+      padding: 1em 1.8em;
+      background: $primary-color;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      gap: 0.6em;
+      font-weight: bold;
+      transition: background 0.2s;
+
+      .arrow-wrapper {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      }
+
+      .arrow {
+        margin-top: 1px;
+        width: $arrow-width;
+        height: $arrow-stroke;
+        background: $primary-color;
+        position: relative;
+        transition: 0.2s;
+
+        &::before {
+          content: '';
+          position: absolute;
+          top: -3px;
+          right: 3px;
+          padding: 3px;
+          transform: rotate(-45deg);
+          border: solid $secondary-color;
+          border-width: 0 $arrow-stroke $arrow-stroke 0;
+          transition: 0.2s;
+        }
+      }
+
+      &:hover {
+        background-color: $hover-color;
+
+        .arrow {
+          background: $secondary-color;
+
+          &::before {
+            right: 0;
+          }
+        }
+      }
+    }
+  }
+
+  .avatar {
+    $diameter: 2.5rem;
+    $nav-bg: #ffffff;
+    $nav-shadow: rgba(0, 0, 0, 0.1);
+    $nav-gray: #e0e0e0;
+    $font-family-main: 'Inter', sans-serif;
+
+    display: inline-block;
+    position: relative;
+    text-rendering: optimizeLegibility;
+
+    .user {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      width: $diameter;
+      height: $diameter;
+      background: black;
+      border: 1px solid black;
+      border-radius: 50%; // Circular shape
+      cursor: pointer;
+      overflow: hidden; // Ensures image stays within circle
+      transition: all 0.1s ease-in-out;
+      outline: 0.125em solid transparent;
+
+      img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        display: block;
+      }
+    }
+  }
+}
