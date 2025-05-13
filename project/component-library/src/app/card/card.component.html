@@ -4,19 +4,19 @@
       <span class="feature-badge">{{ badgeText }}</span>
     </div>
 
-    <img *ngIf="imageSrc" [src]="imageSrc" alt="Card image" />
+    <img *ngIf="imageSrc" [src]="imageSrc" alt="" />
 
-    <div class="card-overlay-caption">
+    <div *ngIf="title && subtitle" class="card-overlay-caption">
       <div class="caption-content">
         <div>
-          <h5 class="card-title">{{ title }}</h5>
+          <h5 *ngIf="title" class="card-title">{{ title }}</h5>
           <h6 *ngIf="subtitle" class="card-subtitle">{{ subtitle }}</h6>
         </div>
       </div>
     </div>
   </div>
 
-  <div class="card-body">
+  <div *ngIf="bodyText" class="card-body">
     <p class="card-text">
       {{ bodyText }}
     </p>
@@ -29,8 +29,8 @@
         </app-button>
       </div>
       <div class="footer-actions">
-        <app-button [label]="'Like'" [variant]="'primary'" [size]="'small'" (onClick)="onLikeClick()"> </app-button>
-        <app-button [label]="'Share'" [variant]="'primary'" [size]="'small'" (onClick)="onShareClick()"> </app-button>
+        <app-button *ngIf="showLikeBtn" [label]="'Like'" [variant]="'primary'" [size]="'small'" (onClick)="onLikeClick()"> </app-button>
+        <app-button *ngIf="showShareBtn" [label]="'Share'" [variant]="'primary'" [size]="'small'" (onClick)="onShareClick()"> </app-button>
       </div>
     </div>
   </div>

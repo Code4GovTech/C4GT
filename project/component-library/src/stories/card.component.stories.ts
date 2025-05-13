@@ -1,7 +1,6 @@
 import type { Meta, StoryObj } from '@storybook/angular';
 import { CardComponent } from '../app/card/card.component';
 
-// Define metadata for the component
 const meta: Meta<CardComponent> = {
   title: 'Components/Card',
   component: CardComponent,
@@ -9,7 +8,7 @@ const meta: Meta<CardComponent> = {
   parameters: {
     docs: {
       description: {
-        component: 'Interactive card component.',
+        component: 'Interactive card component with customizable image, title, body, and optional buttons or badges.',
       },
     },
   },
@@ -44,11 +43,10 @@ const meta: Meta<CardComponent> = {
     },
     showShareBtn: {
       control: 'boolean',
-      description: 'Whether to show the like button',
+      description: 'Whether to show the share button',
     },
   },
   args: {
-    // Default values for the stories
     title: 'Card Title',
     subtitle: 'Card Subtitle',
     badgeText: 'Featured',
@@ -61,9 +59,47 @@ const meta: Meta<CardComponent> = {
 };
 
 export default meta;
-
 type Story = StoryObj<CardComponent>;
 
-export const Default: Story = {
-  args: {},
+export const Default: Story = {};
+
+export const NoBadge: Story = {
+  args: {
+    showBadge: false,
+  },
 };
+
+export const Minimal: Story = {
+  args: {
+    showBadge: false,
+    showLikeBtn: false,
+    showShareBtn: false,
+  },
+};
+
+export const LongText: Story = {
+  args: {
+    bodyText: `Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut elit ut mauris fermentum imperdiet. 
+               Quisque sit amet luctus justo. Vivamus efficitur urna nec urna tincidunt, vitae tempor nisl porta.`,
+  },
+};
+
+export const NoImage: Story = {
+  args: {
+    imageSrc: '',
+  },
+};
+
+export const BadgeHighlight: Story = {
+  args: {
+    title: '',
+    subtitle: '',
+    bodyText: '',
+    showLikeBtn: true,
+    showShareBtn: true,
+    showBadge: true,
+    badgeText: 'New!',
+    imageSrc: 'https://fastly.picsum.photos/id/152/500/400.webp?hmac=MjztqHCLWbwBDYk9VHKPUe_aDUlVgoH4qWdWd1CAuko',
+  },
+};
+
