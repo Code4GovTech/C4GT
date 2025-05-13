@@ -8,8 +8,8 @@ const meta: Meta<ButtonComponent> = {
   parameters: {
     docs: {
       description: {
-        component: 'Interactive button component with multiple variants, sizes, and states.'
-      }
+        component: 'Interactive button component with multiple variants, sizes, and states.',
+      },
     },
   },
   argTypes: {
@@ -23,16 +23,16 @@ const meta: Meta<ButtonComponent> = {
       options: ['small', 'medium', 'large'],
       description: 'Controls the size of the button',
     },
-    label: { 
+    label: {
       control: 'text',
       description: 'Text displayed inside the button',
     },
-    buttonClick: { 
+    buttonClick: {
       action: 'clicked',
       description: 'Event emitted when the button is clicked',
       table: {
         category: 'Events',
-      }
+      },
     },
   },
 };
@@ -61,4 +61,3 @@ export const Secondary: Story = {
     label: 'Secondary Action',
   },
 };
-

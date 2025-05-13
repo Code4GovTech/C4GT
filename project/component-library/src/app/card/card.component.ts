@@ -7,18 +7,18 @@ import { ButtonComponent } from '../button/button.component';
   standalone: true,
   imports: [CommonModule, ButtonComponent],
   templateUrl: './card.component.html',
-  styleUrl: './card.component.scss'
+  styleUrl: './card.component.scss',
 })
 export class CardComponent {
-  @Input() title: string = "";
-  @Input() subtitle?: string = "";
-  @Input() badgeText?: string = "";
-  @Input() bodyText: string = "";
-  @Input() imageSrc: string = "";
+  @Input() title: string = '';
+  @Input() subtitle?: string = '';
+  @Input() badgeText?: string = '';
+  @Input() bodyText: string = '';
+  @Input() imageSrc: string = '';
   @Input() showBadge: boolean = true;
   @Input() showLikeBtn: boolean = true;
   @Input() showShareBtn: boolean = true;
-  
+
   @Output() readMoreClick = new EventEmitter<void>();
   @Output() likeClick = new EventEmitter<void>();
   @Output() shareClick = new EventEmitter<void>();

@@ -9,7 +9,7 @@
     "test": "ng test",
     "storybook": "ng run component-library:storybook",
     "build-storybook": "ng run component-library:build-storybook",
-    "format:check": "prettier --config ./.prettierrc --list-different \"src/{app,environments,assets}/**/*{.ts,.js,.json,.html,.css,.scss}\""
+    "format": "prettier --config ./.prettierrc --write \"src/{app,environments,assets}/**/*.{ts,js,json,html,css,scss}\""
   },
   "private": true,
   "dependencies": {

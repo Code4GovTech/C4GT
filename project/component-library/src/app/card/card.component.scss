@@ -11,193 +11,193 @@ $transition-standard: 0.3s ease;
 
 // Base Card Styling
 .card.clean {
-    border-radius: $border-radius;
-    overflow: hidden;
-    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.05);
-    transition:
-        transform $transition-standard,
-        box-shadow $transition-standard;
-    margin-bottom: 1.5rem;
-    background-color: $white;
-    max-width: 400px;
-    animation: cardFadeIn 0.5s ease-out forwards;
+  border-radius: $border-radius;
+  overflow: hidden;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.05);
+  transition:
+    transform $transition-standard,
+    box-shadow $transition-standard;
+  margin-bottom: 1.5rem;
+  background-color: $white;
+  max-width: 400px;
+  animation: cardFadeIn 0.5s ease-out forwards;
 
-    &:hover {
-        transform: translateY(-4px);
-        box-shadow: 0 12px 28px rgba(0, 0, 0, 0.048);
+  &:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 12px 28px rgba(0, 0, 0, 0.048);
 
-        .card-image-container img {
-            transform: scale(1.05);
-        }
-
-        .card-overlay-caption {
-            transform: translateY(0);
-            opacity: 1;
-        }
+    .card-image-container img {
+      transform: scale(1.05);
     }
+
+    .card-overlay-caption {
+      transform: translateY(0);
+      opacity: 1;
+    }
+  }
 }
 
 // Image Container
 .card-image-container {
-    position: relative;
-    height: 220px;
-    background: linear-gradient(45deg, $gradient-start, $gradient-end);
-    overflow: hidden;
+  position: relative;
+  height: 220px;
+  background: linear-gradient(45deg, $gradient-start, $gradient-end);
+  overflow: hidden;
 
-    img {
-        width: 100%;
-        height: 100%;
-        object-fit: cover;
-        transition: transform 0.5s ease;
-    }
+  img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform 0.5s ease;
+  }
 }
 
 // Badge Styling
 .card-badge-wrapper {
-    position: absolute;
-    top: 1rem;
-    left: 1rem;
-    z-index: 10;
+  position: absolute;
+  top: 1rem;
+  left: 1rem;
+  z-index: 10;
 }
 
 .feature-badge {
-    background-color: rgba($white, 0.85);
-    color: $primary-color;
-    font-size: 0.7rem;
-    font-weight: 600;
-    letter-spacing: 0.5px;
-    text-transform: uppercase;
-    padding: 0.35rem 0.8rem;
-    border-radius: 20px;
-    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
-    backdrop-filter: blur(4px);
+  background-color: rgba($white, 0.85);
+  color: $primary-color;
+  font-size: 0.7rem;
+  font-weight: 600;
+  letter-spacing: 0.5px;
+  text-transform: uppercase;
+  padding: 0.35rem 0.8rem;
+  border-radius: 20px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(4px);
 }
 
 // Caption Overlay
 .card-overlay-caption {
-    position: absolute;
-    bottom: 0;
-    left: 0;
-    right: 0;
-    background: linear-gradient(0deg, rgba(255, 255, 255, 0.8) 0%, rgba(240, 240, 240, 0.6) 100%);
-    padding: 2rem 1.5rem 1.25rem;
-    transform: translateY(34%);
-    opacity: 0.9;
-    transition:
-        transform $transition-standard,
-        opacity $transition-standard;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: linear-gradient(0deg, rgba(255, 255, 255, 0.8) 0%, rgba(240, 240, 240, 0.6) 100%);
+  padding: 2rem 1.5rem 1.25rem;
+  transform: translateY(35%);
+  opacity: 0.9;
+  transition:
+    transform $transition-standard,
+    opacity $transition-standard;
 }
 
 .caption-content {
-    display: flex;
-    justify-content: space-between;
-    align-items: flex-end;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
 }
 
 // Card Title and Subtitle
 .card-title {
-    margin-bottom: 0.3rem;
-    font-size: 1.25rem;
-    font-weight: 600;
-    text-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
+  margin-bottom: 0.3rem;
+  font-size: 1.25rem;
+  font-weight: 600;
+  text-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
 }
 
 .card-subtitle {
-    font-size: 0.85rem;
-    font-weight: 400;
-    opacity: 0.9;
-    margin-bottom: 0;
-    text-shadow: 0 1px 2px rgba(0, 0, 0, 0.3);
+  font-size: 0.85rem;
+  font-weight: 400;
+  opacity: 0.9;
+  margin-bottom: 0;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.3);
 }
 
 // Card Body
 .card-body {
-    padding: 1.5rem;
+  padding: 1.5rem;
 
-    .card-text {
-        color: $text-color;
-        font-size: 0.925rem;
-        line-height: 1.6;
-        margin-bottom: 0;
-    }
+  .card-text {
+    color: $text-color;
+    font-size: 0.925rem;
+    line-height: 1.6;
+    margin-bottom: 0;
+  }
 }
 
 // Card Footer
 .card-footer {
-    padding: 1rem 1.5rem;
-    background-color: $light-bg;
-    border-top: 1px solid rgba(0, 0, 0, 0.05);
+  padding: 1rem 1.5rem;
+  background-color: $light-bg;
+  border-top: 1px solid rgba(0, 0, 0, 0.05);
 
-    .footer-content {
-        display: flex;
-        align-items: center;
-        justify-content: space-between;
-    }
+  .footer-content {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
 }
 
 // Read More Link
 .read-more-link {
-    color: $primary-color;
-    font-weight: 600;
-    font-size: 0.875rem;
-    text-decoration: none;
-    position: relative;
-    transition: color 0.2s ease;
+  color: $primary-color;
+  font-weight: 600;
+  font-size: 0.875rem;
+  text-decoration: none;
+  position: relative;
+  transition: color 0.2s ease;
+
+  &:after {
+    content: '';
+    position: absolute;
+    bottom: -2px;
+    left: 0;
+    width: 0;
+    height: 2px;
+    background-color: $primary-color;
+    transition: width $transition-standard;
+  }
+
+  &:hover {
+    color: $primary-darker;
 
     &:after {
-        content: "";
-        position: absolute;
-        bottom: -2px;
-        left: 0;
-        width: 0;
-        height: 2px;
-        background-color: $primary-color;
-        transition: width $transition-standard;
+      width: 100%;
     }
-
-    &:hover {
-        color: $primary-darker;
-
-        &:after {
-            width: 100%;
-        }
-    }
+  }
 }
 
 // Footer Actions
 .footer-actions {
-    display: flex;
-    align-items: center;
-    gap: 0.75rem;
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
 }
 
 .action-button {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    width: 2rem;
-    height: 2rem;
-    border-radius: 50%;
-    background-color: $white;
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.08);
-    transition: all 0.2s ease;
-    cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 2rem;
+  height: 2rem;
+  border-radius: 50%;
+  background-color: $white;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.08);
+  transition: all 0.2s ease;
+  cursor: pointer;
 
-    &:hover {
-        background-color: $primary-color;
-        transform: translateY(-2px);
-        box-shadow: 0 4px 8px rgba($primary-color, 0.25);
-    }
+  &:hover {
+    background-color: $primary-color;
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba($primary-color, 0.25);
+  }
 }
 
 // Animation
 @keyframes cardFadeIn {
-    from {
-        opacity: 0;
-        transform: translateY(20px);
-    }
-    to {
-        opacity: 1;
-        transform: translateY(0);
-    }
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
 }

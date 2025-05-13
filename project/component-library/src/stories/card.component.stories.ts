@@ -6,6 +6,13 @@ const meta: Meta<CardComponent> = {
   title: 'Components/Card',
   component: CardComponent,
   tags: ['autodocs'],
+  parameters: {
+    docs: {
+      description: {
+        component: 'Interactive card component.',
+      },
+    },
+  },
   argTypes: {
     title: {
       control: 'text',
@@ -37,8 +44,8 @@ const meta: Meta<CardComponent> = {
     },
     showShareBtn: {
       control: 'boolean',
-      description: 'Whether to show the like button'
-    }
+      description: 'Whether to show the like button',
+    },
   },
   args: {
     // Default values for the stories
@@ -46,7 +53,7 @@ const meta: Meta<CardComponent> = {
     subtitle: 'Card Subtitle',
     badgeText: 'Featured',
     bodyText: 'This is the main content of the card. It provides information related to the card title and subtitle.',
-    imageSrc: 'https://picsum.photos/500/400.webp',
+    imageSrc: 'https://fastly.picsum.photos/id/152/500/400.webp?hmac=MjztqHCLWbwBDYk9VHKPUe_aDUlVgoH4qWdWd1CAuko',
     showBadge: true,
     showLikeBtn: true,
     showShareBtn: true,

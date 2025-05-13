@@ -4,8 +4,6 @@ import { Component } from '@angular/core';
   selector: 'app-modal',
   imports: [],
   templateUrl: './modal.component.html',
-  styleUrl: './modal.component.scss'
+  styleUrl: './modal.component.scss',
 })
-export class ModalComponent {
-
-}
+export class ModalComponent {}
