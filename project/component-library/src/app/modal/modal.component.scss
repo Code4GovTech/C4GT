@@ -5,7 +5,7 @@ $text-light: rgb(51, 51, 51);
 $hover-bg-light: #ddd;
 
 .modal-card {
-  width: 280px;
+  width: 420px;
   height: fit-content;
   background-color: $modal-bg;
   border-radius: 10px;
@@ -21,12 +21,13 @@ $hover-bg-light: #ddd;
   box-shadow: 0px 10px 10px rgba(0, 0, 0, 0.066);
 
   .modal-heading {
+    font-size: 1.3rem;
     color: $text-color;
     font-weight: 800;
   }
 
   .modal-para {
-    font-size: 11px;
+    font-size: 1rem;
     font-weight: 400;
     color: $text-light;
   }
@@ -37,32 +38,6 @@ $hover-bg-light: #ddd;
     align-items: center;
     justify-content: space-between;
     gap: 20px;
-
-    .modal-button {
-      width: 50%;
-      padding: 8px 0;
-      border: none;
-      border-radius: 5px;
-      cursor: pointer;
-
-      &.accept {
-        background-color: $text-color;
-        color: white;
-
-        &:hover {
-          background-color: black;
-        }
-      }
-
-      &.reject {
-        background-color: #ececec;
-        color: $text-color;
-
-        &:hover {
-          background-color: $hover-bg-light;
-        }
-      }
-    }
   }
 
   .exit-button {

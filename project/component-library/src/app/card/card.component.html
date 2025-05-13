@@ -25,12 +25,12 @@
   <div class="card-footer">
     <div class="footer-content">
       <div class="footer-left">
-        <app-button [label]="'Read More'" [variant]="'primary'" [size]="'small'" (onClick)="onReadMoreClick()">
+        <app-button [label]="'Read More'" [variant]="'primary'" [size]="'small'" (click)="onReadMoreClick()">
         </app-button>
       </div>
       <div class="footer-actions">
-        <app-button *ngIf="showLikeBtn" [label]="'Like'" [variant]="'primary'" [size]="'small'" (onClick)="onLikeClick()"> </app-button>
-        <app-button *ngIf="showShareBtn" [label]="'Share'" [variant]="'primary'" [size]="'small'" (onClick)="onShareClick()"> </app-button>
+        <app-button *ngIf="showLikeBtn" [label]="'Like'" [variant]="'primary'" [size]="'small'" (click)="onLikeClick()"> </app-button>
+        <app-button *ngIf="showShareBtn" [label]="'Share'" [variant]="'primary'" [size]="'small'" (click)="onShareClick()"> </app-button>
       </div>
     </div>
   </div>

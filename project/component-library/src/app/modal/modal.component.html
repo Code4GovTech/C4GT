@@ -4,8 +4,8 @@
         {{ content }}
     </p>
     <div *ngIf="showFooter" class="button-wrapper">
-      <button *ngIf="confirmText" class="accept modal-button" (click)="onConfirm()">{{ confirmText }}</button>
-      <button *ngIf="cancelText" class="reject modal-button" (click)="onCancel()">{{ cancelText }}</button>
+      <app-button *ngIf="confirmText" [label]="confirmText" [variant]="'primary'" [size]="'medium'" (click)="onConfirm()"></app-button>
+      <app-button *ngIf="cancelText" [label]="cancelText" [variant]="'secondary'" [size]="'medium'" (click)="onCancel()"></app-button>
     </div>
     <button *ngIf="showCloseBtn" class="exit-button" (click)="onClose()">
       <svg
