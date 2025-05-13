@@ -1,0 +1,88 @@
+.input-group {
+  max-width: 190px;
+  display: flex;
+  flex-direction: column;
+
+  &.full-width {
+    max-width: 100%;
+    width: 100%;
+  }
+
+  .label {
+    margin-bottom: 0.3rem;
+    font-size: 0.9rem;
+    font-weight: bold;
+    color: #05060f99;
+    transition: color 0.3s cubic-bezier(0.25, 0.01, 0.25, 1);
+  }
+
+  .input {
+    width: 100%;
+    height: 44px;
+    background-color: #05060f0a;
+    border-radius: 0.5rem;
+    padding: 0 1rem;
+    border: 2px solid transparent;
+    font-size: 1rem;
+    transition: border-color 0.3s cubic-bezier(0.25, 0.01, 0.25, 1),
+                color 0.3s cubic-bezier(0.25, 0.01, 0.25, 1),
+                background 0.2s cubic-bezier(0.25, 0.01, 0.25, 1);
+           
+    &:hover,
+    &:focus {
+      outline: none;
+      border-color: #05060f;
+    }
+
+    &:hover ~ .label,
+    &:focus ~ .label {
+      color: #05060fc2;
+    }
+
+    &.outline {
+      background-color: white;
+      border: 2px solid #ccc;
+    }
+
+    &.filled {
+      background-color: #f2f2f2;
+      border: none;
+    }
+
+    &.small {
+      height: 30px;
+      font-size: 0.8rem;
+    }
+
+    &.medium {
+      height: 38px;
+      font-size: 1rem;
+    }
+
+    &.large {
+      height: 46px;
+      font-size: 1.2rem;
+    }
+
+    &.outline {
+      border: 2px solid #d1d5db;
+      background-color: white;
+    }
+  
+    &.filled {
+      border: none;
+      background-color: #f3f4f6;
+    }
+  
+    &.outline:hover,
+    &.filled:hover {
+      border-color: #9ca3af;
+    }
+  
+    &.outline:focus,
+    &.filled:focus {
+      border-color: #2563eb;
+    }
+  
+  }
+}

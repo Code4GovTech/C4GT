@@ -1,1 +1,15 @@
-<p>input works!</p>
+<div class="input-group" [ngClass]="{ 'full-width': fullWidth }">
+    <label *ngIf="label" class="label">{{ label }}</label>
+    <input
+      [type]="type"
+      [value]="value"
+      [placeholder]="placeholder"
+      [disabled]="disabled"
+      [readonly]="readonly"
+      [required]="required"
+      [attr.autocomplete]="autocomplete ? 'on' : 'off'"
+      [ngClass]="[variant, size, 'input']"
+      class="input"
+    />
+  </div>
+  
