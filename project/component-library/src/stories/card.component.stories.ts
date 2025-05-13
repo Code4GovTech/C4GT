@@ -45,6 +45,27 @@ const meta: Meta<CardComponent> = {
       control: 'boolean',
       description: 'Whether to show the share button',
     },
+    readMoreClick: {
+      action: 'clicked',
+      description: 'Event emitted when Read More button is clicked',
+      table: {
+        category: 'Events',
+      }
+    },
+    likeClick: {
+      action: 'clicked',
+      description: 'Event emitted when Like button is clicked',
+      table: {
+        category: 'Events',
+      }
+    },
+    shareClick: {
+      action: 'clicked',
+      description: 'Event emitted when Share button is clicked',
+      table: {
+        category: 'Events',
+      }
+    }
   },
   args: {
     title: 'Card Title',

@@ -18,19 +18,19 @@ export class ModalComponent {
   @Input() isOpen: boolean = false;
   @Input() showFooter: boolean = false;
 
-  @Output() close = new EventEmitter<void>();
-  @Output() confirm = new EventEmitter<void>();
-  @Output() cancel = new EventEmitter<void>();
+  @Output() closeClick = new EventEmitter<void>();
+  @Output() confirmClick = new EventEmitter<void>();
+  @Output() cancelClick = new EventEmitter<void>();
 
   onClose() {
-    this.close.emit();
+    this.closeClick.emit();
   }
 
   onConfirm() {
-    this.confirm.emit();
+    this.confirmClick.emit();
   }
 
   onCancel() {
-    this.cancel.emit();
+    this.cancelClick.emit();
   }
 }

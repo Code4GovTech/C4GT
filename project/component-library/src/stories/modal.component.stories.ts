@@ -41,6 +41,27 @@ const meta: Meta<ModalComponent> = {
       control: 'boolean',
       description: 'Whether to show the footer with action buttons.',
     },
+    closeClick: {
+      action: 'clicked',
+      description: 'Event emitted when Close button is clicked.',
+      table: {
+        category: 'Events',
+      }
+    },
+    confirmClick: {
+      action: 'clicked',
+      description: 'Event emitted when Confirm button is clicked.',
+      table: {
+        category: 'Events'
+      }
+    },
+    cancelClick: {
+      action: 'clicked',
+      description: 'Event emitted when Cancel button is clicked.',
+      table: {
+        category: 'Events'
+      }
+    }
   },
   args: {
     title: 'Modal Title',

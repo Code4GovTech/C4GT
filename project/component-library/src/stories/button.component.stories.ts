@@ -35,6 +35,11 @@ const meta: Meta<ButtonComponent> = {
       },
     },
   },
+  args: {
+    variant: 'primary',
+    size: 'medium',
+    label: 'Button',
+  }
 };
 
 export default meta;
