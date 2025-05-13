@@ -1,1 +1,32 @@
-<p>modal works!</p>
+<div *ngIf="isOpen" class="modal-card">
+    <p class="modal-heading">{{ title }}</p>
+    <p class="modal-para">
+        {{ content }}
+    </p>
+    <div *ngIf="showFooter" class="button-wrapper">
+      <button *ngIf="confirmText" class="accept modal-button" (click)="onConfirm()">{{ confirmText }}</button>
+      <button *ngIf="cancelText" class="reject modal-button" (click)="onCancel()">{{ cancelText }}</button>
+    </div>
+    <button *ngIf="showCloseBtn" class="exit-button" (click)="onClose()">
+      <svg
+        xmlns="http://www.w3.org/2000/svg"
+        fill="none"
+        viewBox="0 0 162 162"
+        class="svgIconCross"
+      >
+        <path
+          stroke-linecap="round"
+          stroke-width="17"
+          stroke="black"
+          d="M9.01074 8.98926L153.021 153"
+        ></path>
+        <path
+          stroke-linecap="round"
+          stroke-width="17"
+          stroke="black"
+          d="M9.01074 153L153.021 8.98926"
+        ></path>
+      </svg>
+    </button>
+  </div>
+  
