@@ -909,3 +909,21 @@
       <td>SRCC</td>
   </tr>
 </table>
+<table>
+  <tr>
+    <td>Name</td>
+    <td>Ayushi Mishra</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/ayushi361</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>https://www.linkedin.com/in/ayushi-mishra-</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>National Institute of Technology , Rourkela</td>
+  </tr>
+</table>
