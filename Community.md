@@ -29,12 +29,12 @@
     <td>https://github.com/CoderNasim2023</td>
   </tr>
   <tr>
-    <td>LinkedIn</td>
+    <td>Linkedin</td>
     <td>https://www.linkedin.com/in/mdnasimakhtar/</td>
   </tr>
   <tr>
     <td>College</td>
-    <td>Maulana Abul Kalam Azad Univeristy of technology, Noida</td>
+    <td>Maulana Abul Kalam Azad Univeristy of technology, Kolkata</td>
   </tr>
 </table>
 
