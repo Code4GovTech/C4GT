@@ -909,3 +909,21 @@
       <td>SRCC</td>
   </tr>
 </table>
+<table>
+  <tr>
+      <td>Name</td>
+      <td>Ritik Mahaur</td>
+  </tr>
+  <tr>
+      <td>GitHub</td>
+      <td>https://https://github.com/RitikMahaur-ui</td>
+  </tr>
+  <tr>
+      <td>LinkedIn</td>
+      <td>https://https://www.linkedin.com/in/ritik-mahaur-2323471b9//</td>
+  </tr>
+  <tr>
+      <td>College</td>
+      <td>NIT SRINAGAR(J&k)</td>
+  </tr>
+</table>
