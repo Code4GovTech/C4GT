@@ -19,6 +19,24 @@
   </tr>
 </table>
 <table>
+  <tr>
+    <td>Name</td>
+    <td>Tanmay Bansal</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/TanmayBansa1</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>https://www.linkedin.com/in/tanmay-bansal-40bb44199/</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>Delhi Technological University</td>
+  </tr>
+</table>
+<table>
       <tr>
         <td>Name</td>
         <td>Arnav Goel</td>
