@@ -108,6 +108,24 @@
     <td>National Institute of Technology , Rourkela</td>
   </tr>
 </table>
+<table>
+  <tr>
+    <td>Name</td>
+    <td>Swastik Bhowmick</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/Swastik19Nit</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>https://www.linkedin.com/in/swastik-bhowmik-24169b224/</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>NIT Kurukshetra</td>
+  </tr>
+</table>
 
 <table>
   <tr>
