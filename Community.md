@@ -909,3 +909,21 @@
       <td>SRCC</td>
   </tr>
 </table>
+<table>
+  <tr>
+      <td>Name</td>
+      <td>G Naga Vamshi</td>
+  </tr>
+  <tr>
+      <td>GitHub</td>
+      <td>https://github.com/Ace91Ace</td>
+  </tr>
+  <tr>
+      <td>LinkedIn</td>
+      <td>https://www.linkedin.com/in/nagavamshi91/</td>
+  </tr>
+  <tr>
+      <td>College</td>
+      <td>AMRITA VISHWA VIDYAPEETHAM</td>
+  </tr>
+</table>
