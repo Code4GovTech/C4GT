@@ -1,0 +1,79 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom animations */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes scaleIn {
+  from {
+    transform: scale(0.95);
+    opacity: 0;
+  }
+  to {
+    transform: scale(1);
+    opacity: 1;
+  }
+}
+
+@keyframes slideInFromRight {
+  from {
+    transform: translateX(20px);
+    opacity: 0;
+  }
+  to {
+    transform: translateX(0);
+    opacity: 1;
+  }
+}
+
+@keyframes slideInFromLeft {
+  from {
+    transform: translateX(-20px);
+    opacity: 0;
+  }
+  to {
+    transform: translateX(0);
+    opacity: 1;
+  }
+}
+
+.animate-fadeIn {
+  animation: fadeIn 0.3s ease-in-out;
+}
+
+.animate-scaleIn {
+  animation: scaleIn 0.3s ease-in-out;
+}
+
+.animate-slideInRight {
+  animation: slideInFromRight 0.3s ease-in-out;
+}
+
+.animate-slideInLeft {
+  animation: slideInFromLeft 0.3s ease-in-out;
+}
+
+.animate-enter {
+  animation: scaleIn 0.2s ease-out;
+}
+
+.animate-leave {
+  animation: fadeIn 0.2s ease-in reverse;
+}
+
+/* Additional global styles */
+body {
+  @apply bg-gray-50;
+}
+
+#root {
+  @apply min-h-screen;
+}

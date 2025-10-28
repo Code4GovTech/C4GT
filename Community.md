@@ -760,7 +760,7 @@
       </tr>
     </table>
 
-    <table>
+  <table>
       <tr>
         <td>Name</td>
         <td>Shobita Bhardwaj</td>
