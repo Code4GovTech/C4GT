@@ -1,0 +1,66 @@
+$modal-bg: rgb(255, 250, 250);
+$modal-border: rgb(206, 206, 206);
+$text-color: rgb(34, 34, 34);
+$text-light: rgb(51, 51, 51);
+$hover-bg-light: #ddd;
+
+.modal-card {
+  width: 420px;
+  height: fit-content;
+  background-color: $modal-bg;
+  border-radius: 10px;
+  border: 1px solid $modal-border;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 20px;
+  gap: 15px;
+  position: relative;
+  font-family: Arial, Helvetica, sans-serif;
+  box-shadow: 0px 10px 10px rgba(0, 0, 0, 0.066);
+
+  .modal-heading {
+    font-size: 1.3rem;
+    color: $text-color;
+    font-weight: 800;
+  }
+
+  .modal-para {
+    font-size: 1rem;
+    font-weight: 400;
+    color: $text-light;
+  }
+
+  .button-wrapper {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 20px;
+  }
+
+  .exit-button {
+    position: absolute;
+    top: 17px;
+    right: 17px;
+    width: 20px;
+    height: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: transparent;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+
+    &:hover {
+      background-color: $hover-bg-light;
+      color: white;
+    }
+
+    .svgIconCross {
+      height: 10px;
+    }
+  }
+}
