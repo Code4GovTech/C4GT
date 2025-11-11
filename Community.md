@@ -108,6 +108,24 @@
     <td>National Institute of Technology , Rourkela</td>
   </tr>
 </table>
+<table>
+  <tr>
+    <td>Name</td>
+    <td>Bhanu Venkat</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/Bhanu725</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>https://https://www.linkedin.com/in/bhanuvenkat-guntupalli-2359b8258//</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>IIIT Jabalpur </td>
+  </tr>
+</table>
 
 <table>
   <tr>
