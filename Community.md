@@ -208,19 +208,19 @@
 <table>
   <tr>
     <td>Name</td>
-    <td>Abhilasha supe</td>
+    <td>Piyush Bihani</td>
   </tr>
   <tr>
     <td>GitHub</td>
-    <td>https://github.com/abhilashasupe</td>
+    <td>https://github.com/piyushbih86</td>
   </tr>
   <tr>
     <td>LinkedIn</td>
-    <td>https://www.linkedin.com/in/abhilasha-supe-b6129424b/</td>
+    <td>https://www.linkedin.com/in/piyush-bihani-122488250?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app</td>
   </tr>
   <tr>
     <td>College</td>
-    <td>IIIT SURAT</td>
+    <td>IIIT Jabalpur</td>
   </tr>
 </table>
 
