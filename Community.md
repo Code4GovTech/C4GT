@@ -394,7 +394,7 @@
   </tr>
   <tr>
     <td>College</td>
-    <td>INdian Institute of Information Technology, Lucknow</td>
+    <td>Indian Institute of Information Technology, Lucknow</td>
   </tr>
 </table>
 <table>
