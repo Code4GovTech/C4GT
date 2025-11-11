@@ -223,6 +223,24 @@
     <td>IIIT SURAT</td>
   </tr>
 </table>
+<table>
+  <tr>
+    <td>Name</td>
+    <td>Riya Sharma</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/riasharmma</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>https://www.linkedin.com/in/riya-sharma-b15611244/</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>ITER ,Bhubaneshwar</td>
+  </tr>
+</table>
 
 <table>
     <tr>
