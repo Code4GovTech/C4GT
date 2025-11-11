@@ -108,6 +108,26 @@
     <td>National Institute of Technology , Rourkela</td>
   </tr>
 </table>
+    
+  
+  <table>
+      <tr>
+        <td>Name</td>
+        <td>Lakshay Singla</td>
+      </tr>
+      <tr>
+        <td>GitHub</td>
+        <td>(https://github.com/Lakshaysingla13)</td>
+      </tr>
+      <tr>
+        <td>LinkedIn</td>
+        <td>(https://www.linkedin.com/in/lakshay-singla-17644826b/)</td>
+      </tr>
+      <tr>
+        <td>College</td>
+        <td>Dr. B.R. Ambedkar National Institute of Technology, Jalandhar</td>
+      </tr>
+    </table>
 
 <table>
   <tr>
