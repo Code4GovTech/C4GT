@@ -891,6 +891,28 @@
       <td>Maharaja Surajmal Institute of Technology</td>
   </tr>
 </table>
+
+
+<table>
+  <tr>
+    <td>Name</td>
+    <td>Vivek Kumar Tiwari</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/VivekTiwari-1</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>www.linkedin.com/in/vivek-tiwari-b929a822b</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>Birsa Institute of Technology Sindri</td>
+     </tr>
+</table>
+
+
 <table>
   <tr>
       <td>Name</td>
