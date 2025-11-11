@@ -816,7 +816,6 @@
         <td>National Institute of Technology , Rourkela</td>
       </tr>
     </table>
-
      <table>
       <tr>
         <td>Name</td>
@@ -891,6 +890,7 @@
       <td>Maharaja Surajmal Institute of Technology</td>
   </tr>
 </table>
+
 <table>
   <tr>
       <td>Name</td>
@@ -909,3 +909,20 @@
       <td>SRCC</td>
   </tr>
 </table>
+<table>
+  <tr>
+    <td>Name</td>
+    <td>Ved Mohan</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/ivedmohan</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>https://www.linkedin.com/in/ivedmohan/</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>Maharaja Surajmal Institute of Technology</td>
+ </tr>
