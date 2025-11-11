@@ -29,7 +29,7 @@
       </tr>
       <tr>
         <td>LinkedIn</td>
-        <td>https://www.linkedin.com/in/arnav-goel-861a2b118?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app</td>
+        <td>https://www.linkedin.com/in/arnav-goel-861a2b118</td>
       </tr>
       <tr>
         <td>College</td>
@@ -759,8 +759,7 @@
         <td>NIT Kurukshetra</td>
       </tr>
     </table>
-
-    <table>
+<table>
       <tr>
         <td>Name</td>
         <td>Shobita Bhardwaj</td>
@@ -771,7 +770,7 @@
       </tr>
       <tr>
         <td>LinkedIn</td>
-        <td>https://www.linkedin.com/in/shobita-bhardwaj-327745264/</td>
+        <td>https://www.linkedin.com/in/shobita-bhardwaj-327745264</td>
       </tr>
       <tr>
         <td>College</td>
@@ -817,7 +816,7 @@
       </tr>
     </table>
 
-     <table>
+<table>
       <tr>
         <td>Name</td>
         <td>Zeel Rohit Darji</td>
@@ -836,7 +835,7 @@
       </tr>
     </table>
 
-    <table>
+<table>
       <tr>
         <td>Name</td>
         <td>Riya Raj</td>
@@ -907,5 +906,24 @@
   <tr>
       <td>College</td>
       <td>SRCC</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+      <td>Name</td>
+      <td>Shashidhar Hegde</td>
+  </tr>
+  <tr>
+      <td>GitHub</td>
+      <td>https://github.com/Shashidharahegde</td>
+  </tr>
+  <tr>
+      <td>LinkedIn</td>
+      <td>https://www.linkedin.com/in/shashidhar-hegde</td>
+  </tr>
+  <tr>
+      <td>College</td>
+      <td>Sir M Visvesvaraya Institute Of Technology, Banglore</td>
   </tr>
 </table>
