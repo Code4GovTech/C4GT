@@ -909,3 +909,23 @@
       <td>SRCC</td>
   </tr>
 </table>
+
+<table>
+  <tr>
+      <td>Name</td>
+      <td>Ansh Garg</td>
+  </tr>
+  <tr>
+      <td>GitHub</td>
+      <td>https://github.com/anshgarg030404</td>
+  </tr>
+  <tr>
+      <td>LinkedIn</td>
+      <td>https://www.linkedin.com/in/ansh-garg-777ab7258/</td>
+  </tr>
+  <tr>
+      <td>College</td>
+      <td>USAR</td>
+  </tr>
+</table>
+
