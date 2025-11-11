@@ -909,3 +909,21 @@
       <td>SRCC</td>
   </tr>
 </table>
+<table>
+  <tr>
+      <td>Name</td>
+      <td>Deepshikha Varshney</td>
+  </tr>
+  <tr>
+      <td>GitHub</td>
+      <td>https://github.com/Deep5Varshney</td>
+  </tr>
+  <tr>
+      <td>LinkedIn</td>
+      <td>www.linkedin.com/in/deepshikha0512</td>
+  </tr>
+  <tr>
+      <td>College</td>
+      <td>Maharaja Surajmal Institute of Technology</td>
+  </tr>
+</table>
