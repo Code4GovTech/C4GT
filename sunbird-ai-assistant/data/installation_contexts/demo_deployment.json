@@ -1,0 +1,18 @@
+[
+  {
+    "org_name": "Sunbird EDU West",
+    "courses": [
+      {"id": "c101", "title": "Python Basics"},
+      {"id": "c102", "title": "AI for Beginners"}
+    ],
+    "support_contacts": ["help@sunbird.edu"]
+  },
+  {
+    "org_name": "Sunbird EDU East",
+    "courses": [
+      {"id": "c201", "title": "Java Basics"},
+      {"id": "c202", "title": "Data Science with R"}
+    ],
+    "support_contacts": ["help@sunbird.edu"]
+  }
+]
