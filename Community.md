@@ -909,3 +909,21 @@
       <td>SRCC</td>
   </tr>
 </table>
+<table>
+      <tr>
+        <td>Name</td>
+        <td>Utkarsh Sonawane</td>
+      </tr>
+      <tr>
+        <td>GitHub</td>
+        <td>https://github.com/utkarshqz</td>
+      </tr>
+      <tr>
+        <td>LinkedIn</td>
+        <td>https://www.linkedin.com/in/utkarshsonawane25/</td>
+      </tr>
+      <tr>
+        <td>College</td>
+        <td>SVKM's NMIMS Shirpur Campus</td>
+      </tr>
+    </table>
