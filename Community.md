@@ -909,3 +909,21 @@
       <td>SRCC</td>
   </tr>
 </table>
+    <table>
+      <tr>
+        <td>Name</td>
+        <td>Arpit tripathi</td>
+      </tr>
+      <tr>
+        <td>GitHub</td>
+        <td>https://github.com/nexpectArpit</td>
+      </tr>
+      <tr>
+        <td>LinkedIn</td>
+        <td>https://www.linkedin.com/in/arpit-tripathi-36a86b325/</td>
+      </tr>
+      <tr>
+        <td>College</td>
+        <td>Polaris School of Technology</td>
+      </tr>
+    </table>
