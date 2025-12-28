@@ -909,3 +909,22 @@
       <td>SRCC</td>
   </tr>
 </table>
+
+   <table>
+      <tr>
+        <td>Name</td>
+        <td>K Vijay</td>
+      </tr>
+      <tr>
+        <td>GitHub</td>
+        <td>https://github.com/k-vijay-05</td>
+      </tr>
+      <tr>
+        <td>LinkedIn</td>
+        <td>https://www.linkedin.com/in/k-vijay-39baa5257</td>
+      </tr>
+      <tr>
+        <td>College</td>
+        <td>BMS College of Engineering</td>
+      </tr>
+    </table>
