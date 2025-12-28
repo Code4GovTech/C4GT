@@ -109,6 +109,27 @@
   </tr>
 </table>
 
+
+</table>
+    <table>
+      <tr>
+        <td>Name</td>
+        <td>Rahul Rajesh Kumar</td>
+      </tr>
+      <tr>
+        <td>GitHub</td>
+        <td>https://github.com/rahulr2101</td>
+      </tr>
+      <tr>
+        <td>LinkedIn</td>
+        <td>www.linkedin.com/in/rahulr2101</td>
+      </tr>
+      <tr>
+        <td>College</td>
+        <td>Amrita Vishwa Vidyapeetham</td>
+      </tr>
+    </table>
+
 <table>
   <tr>
     <td>Name</td>
