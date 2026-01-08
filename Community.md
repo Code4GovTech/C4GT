@@ -909,3 +909,21 @@
       <td>SRCC</td>
   </tr>
 </table>
+<table>
+  <tr>
+    <td>Name</td>
+    <td>Omkar Gandhi</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/gandhiomkar</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>https://www.linkedin.com/in/omkar-gandhi-054978188</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>BVCOEK</td>
+  </tr>
+</table>
