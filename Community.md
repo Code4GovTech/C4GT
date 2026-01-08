@@ -1,4 +1,22 @@
 ## Our Community
+<table>
+  <tr>
+    <td>Name</td>
+    <td>Krishna Kaushal</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/Krishna-Kaushal</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>https://www.linkedin.com/in/krishnakaushal/</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>MNNIT Allahabad</td>
+  </tr>
+</table>
 
 <table>
   <tr>
