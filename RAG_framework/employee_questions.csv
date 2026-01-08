@@ -1,0 +1,39 @@
+question,query,description
+How many total employees are there?,SELECT COUNT(*) FROM Employee;,Counts the total number of employees in the Employee table.
+List all employee names.,SELECT name FROM Employee;,Fetches the names of all employees.
+Get the average age of employees.,SELECT AVG(age) FROM Employee;,Calculates the average age of all employees.
+How many male employees are there?,SELECT COUNT(*) FROM Employee WHERE gender = 'Male';,Counts the number of male employees.
+How many female employees are there?,SELECT COUNT(*) FROM Employee WHERE gender = 'Female';,Counts the number of female employees.
+List employees with more than 10 years of experience.,SELECT * FROM Employee WHERE total_experience > 10;,Fetches employees whose total experience is greater than 10 years.
+List employees whose blood group is 'O+'.,SELECT * FROM Employee WHERE blood_group = 'O+';,Fetches employees with blood group 'O+'.
+Get employee count in each city.,"SELECT city, COUNT(*) FROM Employee GROUP BY city;",Counts the number of employees grouped by their city.
+Find the youngest employee.,SELECT * FROM Employee ORDER BY age ASC LIMIT 1;,Fetches the details of the youngest employee.
+Find the oldest employee.,SELECT * FROM Employee ORDER BY age DESC LIMIT 1;,Fetches the details of the oldest employee.
+List employees ordered by experience (highest first).,SELECT * FROM Employee ORDER BY total_experience DESC;,Lists employees starting from the highest total experience.
+Get a list of unique blood groups in the company.,SELECT DISTINCT blood_group FROM Employee;,Fetches the unique blood groups present among employees.
+Get employees older than 40 years.,SELECT * FROM Employee WHERE age > 40;,Fetches employees whose age is greater than 40.
+Find employees located in 'New York'.,SELECT * FROM Employee WHERE city = 'New York';,Fetches all employees located in New York.
+Find employees who have less than 5 years of experience.,SELECT * FROM Employee WHERE total_experience < 5;,Fetches employees with less than 5 years of total experience.
+Get employee details whose name starts with 'A'.,SELECT * FROM Employee WHERE name LIKE 'A%';,Fetches employees whose names start with the letter 'A'.
+Get employee details ordered by name alphabetically.,SELECT * FROM Employee ORDER BY name ASC;,Lists employees ordered alphabetically by their names.
+Get employee count for each blood group.,"SELECT blood_group, COUNT(*) FROM Employee GROUP BY blood_group;",Counts the number of employees grouped by blood group.
+How many employees have more than 20 years of experience?,SELECT COUNT(*) FROM Employee WHERE total_experience > 20;,Counts employees with more than 20 years total experience.
+List all employees with experience between 5 and 10 years.,SELECT * FROM Employee WHERE total_experience BETWEEN 5 AND 10;,Fetches employees with experience between 5 and 10 years.
+Get average experience of employees in Dallas.,SELECT AVG(total_experience) FROM Employee WHERE city = 'Dallas';,Calculates average total experience for employees in Dallas.
+List employees aged below 25.,SELECT * FROM Employee WHERE age < 25;,Fetches employees whose age is less than 25.
+How many employees have blood group A+?,SELECT COUNT(*) FROM Employee WHERE blood_group = 'A+';,Counts employees with blood group A+.
+Find the employee with the maximum total experience.,SELECT * FROM Employee ORDER BY total_experience DESC LIMIT 1;,Fetches the employee with the highest total experience.
+Find the employee with the minimum total experience.,SELECT * FROM Employee ORDER BY total_experience ASC LIMIT 1;,Fetches the employee with the lowest total experience.
+List all employees who live in New York or Los Angeles.,"SELECT * FROM Employee WHERE city IN ('New York', 'Los Angeles');",Fetches employees from either New York or Los Angeles.
+List employees with names starting with letter 'S'.,SELECT * FROM Employee WHERE name LIKE 'S%';,Fetches employees whose names start with 'S'.
+Find the total number of cities represented by employees.,SELECT COUNT(DISTINCT city) FROM Employee;,Counts how many unique cities employees belong to.
+List employees sorted by age descending.,SELECT * FROM Employee ORDER BY age DESC;,Lists employees from oldest to youngest.
+List employees sorted by total experience ascending.,SELECT * FROM Employee ORDER BY total_experience ASC;,Lists employees starting from the least experience.
+How many male and female employees are there?,"SELECT gender, COUNT(*) FROM Employee GROUP BY gender;",Counts employees grouped by gender.
+Get average age of female employees.,SELECT AVG(age) FROM Employee WHERE gender = 'Female';,Calculates average age of all female employees.
+List employees whose name contains 'an'.,SELECT * FROM Employee WHERE name LIKE '%an%';,Fetches employees whose name contains 'an'.
+Find all employees with experience less than 2 years.,SELECT * FROM Employee WHERE total_experience < 2;,Fetches employees with less than 2 years experience.
+Get total number of employees in Phoenix.,SELECT COUNT(*) FROM Employee WHERE city = 'Phoenix';,Counts number of employees located in Phoenix.
+Find employees aged between 30 and 40.,SELECT * FROM Employee WHERE age BETWEEN 30 AND 40;,Fetches employees aged between 30 and 40 years.
+List employees ordered alphabetically by city.,SELECT * FROM Employee ORDER BY city ASC;,Lists employees sorted alphabetically by city name.
+Find the distinct blood groups available.,SELECT DISTINCT blood_group FROM Employee;,Lists all distinct blood groups among employees.
