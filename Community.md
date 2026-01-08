@@ -166,7 +166,6 @@
       </tr>
     </table>
 
-
 <table>
       <tr>
         <td>Name</td>
@@ -243,8 +242,6 @@
   </tr>
 </table>
 
-    
-    
 <table>
   <tr>
     <td>Name</td>
@@ -320,7 +317,6 @@
         <td>National Institute Of Technology, Rourkela</td>
       </tr>
     </table>
-
 
 <table>
       <tr>
@@ -453,8 +449,6 @@
     <td>NIT Kurukshetra</td>
   </tr>
 </table>
-
-
 
 <table>
   <tr>
@@ -872,7 +866,7 @@
         <td>NIT Rourkela</td>
       </tr>
     </table>
-    
+
 <table>
   <tr>
       <td>Name</td>
@@ -907,5 +901,23 @@
   <tr>
       <td>College</td>
       <td>SRCC</td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td>Name</td>
+    <td>Roopa Dharshini</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/Rupa-Rd</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>https://www.linkedin.com/in/roopa-dharshini-104526239/</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>SRM Institute of Science and Technology, Chennai</td>
   </tr>
 </table>
