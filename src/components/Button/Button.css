@@ -1,0 +1,109 @@
+.button {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 0.5rem;
+    transition: all 0.3s ease-in-out;
+    font-weight: 600;
+    font-family: 'Segoe UI', sans-serif;
+    cursor: pointer;
+    border: none;
+    outline: none;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+    position: relative;
+    overflow: hidden;
+  }
+  
+  .button::after {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background: rgba(255, 255, 255, 0.1);
+    opacity: 0;
+    transition: opacity 0.2s ease-in-out;
+  }
+  
+  .button:hover::after {
+    opacity: 1;
+  }
+  
+  .button:focus-visible {
+    outline: 3px solid rgba(59, 130, 246, 0.5); /* blue-500 */
+    outline-offset: 2px;
+  }
+  
+  .button-small {
+    padding: 0.5rem 1.2rem;
+    font-size: 0.85rem;
+  }
+  
+  .button-medium {
+    padding: 0.75rem 1.75rem;
+    font-size: 1rem;
+  }
+  
+  .button-large {
+    padding: 1rem 2.25rem;
+    font-size: 1.125rem;
+  }
+  
+  /* Primary */
+  .button-primary {
+    background: linear-gradient(to right, #3b82f6, #2563eb); /* blue gradient */
+    color: #fff;
+  }
+  
+  .button-primary:hover {
+    background: linear-gradient(to right, #2563eb, #1d4ed8);
+  }
+  
+  /* Secondary */
+  .button-secondary {
+    background: linear-gradient(to right, #6b7280, #4b5563);
+    color: #fff;
+  }
+  
+  .button-secondary:hover {
+    background: linear-gradient(to right, #4b5563, #374151);
+  }
+  
+  /* Danger */
+  .button-danger {
+    background: linear-gradient(to right, #ef4444, #dc2626);
+    color: #fff;
+  }
+  
+  .button-danger:hover {
+    background: linear-gradient(to right, #dc2626, #b91c1c);
+  }
+  
+  /* Success */
+  .button-success {
+    background: linear-gradient(to right, #22c55e, #16a34a);
+    color: #fff;
+  }
+  
+  .button-success:hover {
+    background: linear-gradient(to right, #16a34a, #15803d);
+  }
+  
+  /* Outline */
+  .button-outline {
+    border: 2px solid #2563eb;
+    color: #2563eb;
+    background-color: transparent;
+  }
+  
+  .button-outline:hover {
+    background-color: rgba(37, 99, 235, 0.05);
+  }
+  
+  /* Disabled */
+  .button-disabled {
+    background-color: #e5e7eb;
+    color: #9ca3af;
+    cursor: not-allowed;
+    box-shadow: none;
+    pointer-events: none;
+  }
+  
