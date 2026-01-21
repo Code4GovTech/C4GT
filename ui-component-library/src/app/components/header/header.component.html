@@ -1,0 +1,7 @@
+<header class="header">
+    <h1>{{ title }}</h1>
+    <nav *ngIf="navLinks?.length">
+      <a *ngFor="let link of navLinks" [href]="link.href">{{ link.label }}</a>
+    </nav>
+  </header>
+  

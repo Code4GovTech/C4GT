@@ -1,0 +1,73 @@
+/* You can add global styles to this file, and also import other style files */
+/* ======= CSS Reset ======= */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  html, body {
+    font-family: 'Segoe UI', sans-serif;
+    font-size: 16px;
+    background-color: #f9f9f9;
+    color: #333;
+    line-height: 1.5;
+  }
+  
+  /* ======= Buttons ======= */
+  .btn {
+    display: inline-block;
+    padding: 0.5rem 1rem;
+    font-weight: 600;
+    border-radius: 8px;
+    border: none;
+    cursor: pointer;
+    transition: background 0.3s;
+  }
+  
+  .btn-primary {
+    background-color: #3f51b5;
+    color: white;
+  }
+  
+  .btn-primary:hover {
+    background-color: #303f9f;
+  }
+  
+  .btn-secondary {
+    background-color: #f50057;
+    color: white;
+  }
+  
+  .btn-secondary:hover {
+    background-color: #c51162;
+  }
+  
+  /* ======= Card ======= */
+  .card {
+    padding: 1rem;
+    background: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    margin: 1rem 0;
+  }
+  
+  /* ======= Input ======= */
+  .input {
+    padding: 0.5rem;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    width: 100%;
+    margin-bottom: 1rem;
+  }
+  
+  /* ======= Modal ======= */
+  .modal {
+    background: white;
+    padding: 2rem;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+    max-width: 500px;
+    margin: 0 auto;
+  }
+  
