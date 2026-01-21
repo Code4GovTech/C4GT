@@ -909,3 +909,30 @@
       <td>SRCC</td>
   </tr>
 </table>
+
+ <table>
+      <tr>
+        <td>Name</td>
+        <td>Vaibhavi Khalangre</td>
+      </tr>
+      <tr>
+        <td>GitHub</td>
+        <td>https://github.com/VaibhaviKhalangre</td>
+      </tr>
+      <tr>
+        <td>LinkedIn</td>
+        <td>https://www.linkedin.com/in/vaibhavi-khalangre-1a274b23b/</td>
+      </tr>
+      <tr>
+        <td>College</td>
+        <td>JSPM Imperial College Of Engineering And Research Wagholi,Pune</td>
+      </tr>
+    </table>
+
+
+
+
+
+
+
+
