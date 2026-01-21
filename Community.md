@@ -909,3 +909,22 @@
       <td>SRCC</td>
   </tr>
 </table>
+<table>
+  <tr>
+      <td>Name</td>
+      <td>Samruddhi Tiwari</td>
+  </tr>
+  <tr>
+      <td>GitHub</td>
+      <td>https://github.com/samruddhitiwari</td>
+  </tr>
+  <tr>
+      <td>LinkedIn</td>
+      <td>https://www.linkedin.com/in/samruddhitiwari/</td>
+  </tr>
+  <tr>
+      <td>College</td>
+      <td>Institute of Engineering and Technology, DAVV</td>
+  </tr>
+</table>
+
