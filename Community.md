@@ -19,6 +19,24 @@
   </tr>
 </table>
 <table>
+  <tr>
+    <td>Name</td>
+    <td>Anshika Pandey</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/Anshika-019</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>https://www.linkedin.com/in/anshika-pandey-a9ab9218a/</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>Harcourt Butler Technical University, Kanpur</td>
+  </tr>
+</table>
+<table>
       <tr>
         <td>Name</td>
         <td>Arnav Goel</td>
