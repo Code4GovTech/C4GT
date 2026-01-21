@@ -909,3 +909,21 @@
       <td>SRCC</td>
   </tr>
 </table>
+<table>
+  <tr>
+    <td>Name</td>
+    <td>Shivam Pal</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/Shivampal157</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>https://www.linkedin.com/in/shivam-pal-677777301</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>IIIT Agartala</td>
+  </tr>
+</table>
