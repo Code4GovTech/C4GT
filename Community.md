@@ -909,3 +909,22 @@
       <td>SRCC</td>
   </tr>
 </table>
+
+<table>
+  <tr>
+    <td>Name</td>
+    <td>Divy Deshmukh</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/DivyDeshmukh</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>https://www.linkedin.com/in/divy-deshmukh-035763235</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>RGPV, Bhopal</td>
+  </tr>
+</table>
