@@ -909,3 +909,21 @@
       <td>SRCC</td>
   </tr>
 </table>
+<table>
+  <tr>
+      <td>Name</td>
+      <td>Kushagra Kumar</td>
+  </tr>
+  <tr>
+      <td>GitHub</td>
+      <td>https://github.com/krAtOsnana</td>
+  </tr>
+  <tr>
+      <td>LinkedIn</td>
+      <td>https://www.linkedin.com/in/kushagra-kumar-7192a7221/</td>
+  </tr>
+  <tr>
+      <td>College</td>
+</td>
+  </tr>
+</table>
