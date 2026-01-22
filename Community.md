@@ -909,3 +909,22 @@
       <td>SRCC</td>
   </tr>
 </table>
+<table>
+  <tr>
+    <td>Name</td>
+    <td>Naidu Yaswanth Reddy</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/naiduyaswanthreddy</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>https://www.linkedin.com/in/naidu-yaswanth-reddy/</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>Amrita Vishwa Vidyapeetham</td>
+  </tr>
+</table>
+
