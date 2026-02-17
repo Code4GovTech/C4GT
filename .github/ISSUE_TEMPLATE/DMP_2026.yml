@@ -101,6 +101,7 @@ body:
         - Arghyam
         - Piramal Swasthya Management Research Institute
         - Belongg AI
+        - Finternetlab
     validations:
       required: true
 
