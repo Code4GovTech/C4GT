@@ -18,6 +18,26 @@
     <td>JSS Academy of Technical Education, Noida</td>
   </tr>
 </table>
+
+<table>
+  <tr>
+    <td>Name</td>
+    <td>Md Nasim Akhtar</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/CoderNasim2023</td>
+  </tr>
+  <tr>
+    <td>Linkedin</td>
+    <td>https://www.linkedin.com/in/mdnasimakhtar/</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>Maulana Abul Kalam Azad Univeristy of technology, Kolkata</td>
+  </tr>
+</table>
+
 <table>
       <tr>
         <td>Name</td>
