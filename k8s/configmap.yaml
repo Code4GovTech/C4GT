@@ -1,0 +1,12 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: schemeskill-config
+  namespace: schemeskill
+data:
+  MONGODB_URI: "mongodb://mongodb:27017/schemeskill"
+  REDIS_HOST: "redis"
+  REDIS_PORT: "6379"
+  CORS_ORIGIN: "*"
+  LOG_LEVEL: "info"
+  LOG_FORMAT: "combined" 

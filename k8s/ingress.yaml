@@ -1,0 +1,36 @@
+apiVersion: networking.k8s.io/v1
+kind: Ingress
+metadata:
+  name: schemeskill-ingress
+  namespace: schemeskill
+  annotations:
+    nginx.ingress.kubernetes.io/rewrite-target: /
+    nginx.ingress.kubernetes.io/ssl-redirect: "true"
+    cert-manager.io/cluster-issuer: "letsencrypt-prod"
+spec:
+  tls:
+  - hosts:
+    - api.schemeskill.com
+    - app.schemeskill.com
+    secretName: schemeskill-tls
+  rules:
+  - host: api.schemeskill.com
+    http:
+      paths:
+      - path: /
+        pathType: Prefix
+        backend:
+          service:
+            name: schemeskill-server
+            port:
+              number: 3000
+  - host: app.schemeskill.com
+    http:
+      paths:
+      - path: /
+        pathType: Prefix
+        backend:
+          service:
+            name: schemeskill-client
+            port:
+              number: 80 

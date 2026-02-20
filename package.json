@@ -1,0 +1,21 @@
+{
+  "name": "schemeskill-connect",
+  "version": "1.0.0",
+  "description": "A comprehensive open network platform for Haqdarshak's scheme training discovery using the MERN stack (MongoDB, Express, React, Node.js). This system enables scalable discovery of scheme training programs across multiple languages and integration points through ONDC/ONEST networks.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HerambInamke/SchemeSkill-Connect.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/HerambInamke/SchemeSkill-Connect/issues"
+  },
+  "homepage": "https://github.com/HerambInamke/SchemeSkill-Connect#readme"
+}
