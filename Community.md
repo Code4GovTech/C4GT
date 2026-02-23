@@ -909,3 +909,21 @@
       <td>SRCC</td>
   </tr>
 </table>
+<table>
+  <tr>
+      <td>Name</td>
+      <td>Aayushi Singh</td>
+  </tr>
+  <tr>
+      <td>GitHub</td>
+      <td>https://github.com/aayushi-singhhh</td>
+  </tr>
+  <tr>
+      <td>LinkedIn</td>
+      <td>https://www.linkedin.com/in/aayushi-singhhh/</td>
+  </tr>
+  <tr>
+      <td>College</td>
+      <td>Indira Gandhi Delhi Technical Univerity for women</td>
+  </tr>
+</table>
