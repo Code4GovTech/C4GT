@@ -909,3 +909,21 @@
       <td>SRCC</td>
   </tr>
 </table>
+<table>
+  <tr>
+      <td>Name</td>
+      <td>Shaik Sameer Ahamad</td>
+  </tr>
+  <tr>
+      <td>GitHub</td>
+      <td>https://github.com/SameerAha-007</td>
+  </tr>
+  <tr>
+      <td>LinkedIn</td>
+      <td>https://www.linkedin.com/in/sameer-ahamad-shaik-0a4600268/</td>
+  </tr>
+  <tr>
+      <td>College</td>
+      <td>QIS college of engineering and technology</td>
+  </tr>
+</table>
