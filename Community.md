@@ -1,5 +1,22 @@
 ## Our Community
-
+    <table>
+      <tr>
+        <td>Name</td>
+        <td>Lakshay</td>
+      </tr>
+      <tr>
+        <td>GitHub</td>
+        <td>https://github.com/lakshaydahiya67</td>
+      </tr>
+      <tr>
+        <td>LinkedIn</td>
+        <td>https://www.linkedin.com/in/lakshay-dahiya-010296199/</td>
+      </tr>
+      <tr>
+        <td>College</td>
+        <td>SGT University</td>
+      </tr>
+    </table>
 <table>
   <tr>
     <td>Name</td>
