@@ -909,3 +909,22 @@
       <td>SRCC</td>
   </tr>
 </table>
+
+    <table>
+      <tr>
+        <td>Name</td>
+        <td>Ajay Kumar Kapruwan</td>
+      </tr>
+      <tr>
+        <td>GitHub</td>
+        <td>https://github.com/ajaycode265</td>
+      </tr>
+      <tr>
+        <td>LinkedIn</td>
+        <td>https://www.linkedin.com/in/ajaykapruwan/</td>
+      </tr>
+      <tr>
+        <td>College</td>
+        <td>Graphic Era Hill University Dehradun</td>
+      </tr>
+    </table>
