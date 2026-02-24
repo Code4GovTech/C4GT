@@ -909,3 +909,21 @@
       <td>SRCC</td>
   </tr>
 </table>
+<table>
+  <tr>
+      <td>Name</td>
+      <td>Shyam Ganesh</td>
+  </tr>
+  <tr>
+      <td>GitHub</td>
+      <td>https://github.com/Shyam-7</td>
+  </tr>
+  <tr>
+      <td>LinkedIn</td>
+      <td>https://www.linkedin.com/in/shyam0710/</td>
+  </tr>
+  <tr>
+      <td>College</td>
+      <td>Amrita Vishwa Vidyapeetham</td>
+  </tr>
+</table>
