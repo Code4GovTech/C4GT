@@ -3,19 +3,19 @@
 <table>
   <tr>
     <td>Name</td>
-    <td>Shruti Agarwal</td>
+    <td>Sunny Jorasiya</td>
   </tr>
   <tr>
     <td>GitHub</td>
-    <td>https://github.com/Shruti3004</td>
+    <td>https://github.com/sunnyjorasiya665/</td>
   </tr>
   <tr>
     <td>LinkedIn</td>
-    <td>https://www.linkedin.com/in/shruti-ag</td>
+    <td>https://www.linkedin.com/in/sunny-jorasiya</td>
   </tr>
   <tr>
     <td>College</td>
-    <td>JSS Academy of Technical Education, Noida</td>
+    <td>Ch Ranbir Singh State institute of Engineering and Technology, Jhajjar</td>
   </tr>
 </table>
 <table>
@@ -166,7 +166,6 @@
       </tr>
     </table>
 
-
 <table>
       <tr>
         <td>Name</td>
@@ -243,8 +242,6 @@
   </tr>
 </table>
 
-    
-    
 <table>
   <tr>
     <td>Name</td>
@@ -320,7 +317,6 @@
         <td>National Institute Of Technology, Rourkela</td>
       </tr>
     </table>
-
 
 <table>
       <tr>
@@ -453,8 +449,6 @@
     <td>NIT Kurukshetra</td>
   </tr>
 </table>
-
-
 
 <table>
   <tr>
@@ -872,7 +866,7 @@
         <td>NIT Rourkela</td>
       </tr>
     </table>
-    
+
 <table>
   <tr>
       <td>Name</td>
