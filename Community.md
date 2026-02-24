@@ -909,3 +909,21 @@
       <td>SRCC</td>
   </tr>
 </table>
+    <table>
+      <tr>
+        <td>Name</td>
+        <td>Mrudul Sharad Ahirrao</td>
+      </tr>
+      <tr>
+        <td>GitHub</td>
+        <td>https://github.com/MrudulAhirrao</td>
+      </tr>
+      <tr>
+        <td>LinkedIn</td>
+        <td>https://www.linkedin.com/in/mrudul-ahirrao/</td>
+      </tr>
+      <tr>
+        <td>College</td>
+        <td>Pimpri Chinchwad College of Engineering</td>
+      </tr>
+    </table>
