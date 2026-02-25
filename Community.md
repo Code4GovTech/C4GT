@@ -166,7 +166,6 @@
       </tr>
     </table>
 
-
 <table>
       <tr>
         <td>Name</td>
@@ -243,8 +242,6 @@
   </tr>
 </table>
 
-    
-    
 <table>
   <tr>
     <td>Name</td>
@@ -320,7 +317,6 @@
         <td>National Institute Of Technology, Rourkela</td>
       </tr>
     </table>
-
 
 <table>
       <tr>
@@ -453,8 +449,6 @@
     <td>NIT Kurukshetra</td>
   </tr>
 </table>
-
-
 
 <table>
   <tr>
@@ -872,7 +866,7 @@
         <td>NIT Rourkela</td>
       </tr>
     </table>
-    
+
 <table>
   <tr>
       <td>Name</td>
@@ -907,5 +901,23 @@
   <tr>
       <td>College</td>
       <td>SRCC</td>
+  </tr>
+</table>
+<table>
+  <tr>
+      <td>Name</td>
+      <td>Durgesh Gupta</td>
+  </tr>
+  <tr>
+      <td>GitHub</td>
+      <td>https://github.com/Durgesh-Gupta</td>
+  </tr>
+  <tr>
+      <td>LinkedIn</td>
+      <td>https://www.linkedin.com/in/durgesh10gupta/</td>
+  </tr>
+  <tr>
+      <td>College</td>
+      <td>Mumbai University</td>
   </tr>
 </table>
