@@ -909,3 +909,21 @@
       <td>SRCC</td>
   </tr>
 </table>
+    <table>
+      <tr>
+        <td>Name</td>
+        <td>Ayush Barnwal</td>
+      </tr>
+      <tr>
+        <td>GitHub</td>
+        <td>https://github.com/techyorzl</td>
+      </tr>
+      <tr>
+        <td>LinkedIn</td>
+        <td>https://www.linkedin.com/in/ayusbarn</td>
+      </tr>
+      <tr>
+        <td>College</td>
+        <td>Poornima University</td>
+      </tr>
+    </table>
