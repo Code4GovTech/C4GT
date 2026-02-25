@@ -909,3 +909,21 @@
       <td>SRCC</td>
   </tr>
 </table>
+<table>
+      <tr>
+        <td>Name</td>
+        <td>Manisha</td>
+      </tr>
+      <tr>
+        <td>GitHub</td>
+        <td>https://github.com/Manisha0207</td>
+      </tr>
+      <tr>
+        <td>LinkedIn</td>
+        <td>https://www.linkedin.com/in/manisha-jangra-82a3a6259/</td>
+      </tr>
+      <tr>
+        <td>College</td>
+        <td>Indira Gandhi Delhi Technical University For Women, New Delhi</td>
+      </tr>
+    </table>
