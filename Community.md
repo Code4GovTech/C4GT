@@ -909,3 +909,21 @@
       <td>SRCC</td>
   </tr>
 </table>
+<table>
+  <tr>
+      <td>Name</td>
+      <td>Piyush Gupta</td>
+  </tr>
+  <tr>
+      <td>GitHub</td>
+      <td>https://github.com/Piyush-t24</td>
+  </tr>
+  <tr>
+      <td>LinkedIn</td>
+      <td>www.linkedin.com/in/piyush-gupta-rgipt</td>
+  </tr>
+  <tr>
+      <td>College</td>
+      <td>Rajiv Gandhi Institute of Petroleum Technology (RGIPT)</td>
+  </tr>
+</table>
