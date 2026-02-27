@@ -909,3 +909,23 @@
       <td>SRCC</td>
   </tr>
 </table>
+<table>
+  <tr>
+    <td>Name</td>
+    <td>Aryan Khandelwal</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/ak-khandelwal</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>
+    https://www.linkedin.com/in/aryan-khandelwal-779b5723a/
+    </td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>Jodhpur Institute Of Engineering and Technology</td>
+  </tr>
+</table>
