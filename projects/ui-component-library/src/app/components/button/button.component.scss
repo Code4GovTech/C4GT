@@ -1,0 +1,25 @@
+:host {
+  display: block;
+  margin: 1rem;
+}
+
+button {
+  padding: 10px 20px;
+  border-radius: 4px;
+  color: white;
+  font-size: 1rem;
+
+  &.primary {
+    background-color: #007bff;
+  }
+
+  &.secondary {
+    background-color: #6c757d;
+  }
+
+  &:disabled {
+    background-color: #ccc;
+    color: #666;
+    cursor: not-allowed;
+  }
+}
