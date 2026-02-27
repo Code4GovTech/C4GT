@@ -909,3 +909,21 @@
       <td>SRCC</td>
   </tr>
 </table>
+    <table>
+      <tr>
+        <td>Name</td>
+        <td>Irfan Hussain</td>
+      </tr>
+      <tr>
+        <td>GitHub</td>
+        <td>https://github.com/Irfan-Hussain107</td>
+      </tr>
+      <tr>
+        <td>LinkedIn</td>
+        <td>https://www.linkedin.com/in/irfan-hussain-78537027a/</td>
+      </tr>
+      <tr>
+        <td>College</td>
+        <td>Delhi Technological University</td>
+      </tr>
+    </table>
