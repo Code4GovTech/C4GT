@@ -909,3 +909,27 @@
       <td>SRCC</td>
   </tr>
 </table>
+
+
+    <table>
+      <tr>
+        <td>Name</td>
+        <td>Aditya raj</td>
+      </tr>
+      <tr>
+        <td>GitHub</td>
+        <td>https://github.com/Aditya987456</td>
+      </tr>
+      <tr>
+        <td>LinkedIn</td>
+        <td>https://www.linkedin.com/in/aditya-raj-006978250/</td>
+      </tr>
+        <tr>
+        <td>Twitter(X)</td>
+        <td>https://x.com/AdityaRaj_x</td>
+      </tr>
+       <tr>
+        <td>College</td>
+        <td>Institute of Engineering and rural technology, Prayagraj</td>
+      </tr>
+    </table>
