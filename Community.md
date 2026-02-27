@@ -909,3 +909,21 @@
       <td>SRCC</td>
   </tr>
 </table>
+  <table>
+      <tr>
+        <td>Name</td>
+        <td>HAMZA AHMAD</td>
+      </tr>
+      <tr>
+        <td>GitHub</td>
+        <td>https://github.com/Hamza20203064</td>
+      </tr>
+      <tr>
+        <td>LinkedIn</td>
+        <td>https://www.linkedin.com/in/hamzaahmad9</td>
+      </tr>
+      <tr>
+        <td>College</td>
+        <td>Motilal Nehru National Institute of Technology, Allahabad (MNNIT)</td>
+      </tr>
+    </table>
