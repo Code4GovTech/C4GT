@@ -909,3 +909,22 @@
       <td>SRCC</td>
   </tr>
 </table>
+
+<table>
+  <tr>
+    <td>Name</td>
+    <td>Arbaz Khan</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/arbazkhan-cs</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>https://www.linkedin.com/in/arbazkhan-cs</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>Maharaja Surajmal Institute MSI</td>
+  </tr>
+</table>
