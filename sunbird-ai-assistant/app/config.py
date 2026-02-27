@@ -1,0 +1,9 @@
+import os
+
+OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
+OPENAI_MODEL = os.getenv("OPENAI_MODEL", "gpt-3.5-turbo")
+OPENAI_TEMPERATURE = float(os.getenv("OPENAI_TEMPERATURE", 0.7))
+OPENAI_MAX_TOKENS = int(os.getenv("OPENAI_MAX_TOKENS", 4096))
+OPENAI_TOP_P = float(os.getenv("OPENAI_TOP_P", 1.0))
+OPENAI_FREQUENCY_PENALTY = float(os.getenv("OPENAI_FREQUENCY_PENALTY", 0.0))
+OPENAI_PRESENCE_PENALTY = float(os.getenv("OPENAI_PRESENCE_PENALTY", 0.0))
