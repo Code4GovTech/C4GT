@@ -923,7 +923,7 @@
   </tr>
   <tr>
     <td>LinkedIn</td>
-    <td>https://www.linkedin.com/in/ojas-kasana/</td>
+    <td>https://in.linkedin.com/in/ojas-kasana-96895a216</td>
   </tr>
   <tr>
     <td>College</td>
