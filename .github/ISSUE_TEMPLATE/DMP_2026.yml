@@ -75,33 +75,116 @@ body:
       description: Enter Organisation Name
       multiple: false
       options:
-        - RCTS-IIITH
+        - Agami
+        - Argusoft
+        - ARMMAN
+        - Avanti Fellows
         - Bandhu
+        - Beckn
         - Belongg
         - Blockster Global (CREDBEL)
+        - Blockster Labs / AyanWorks
+        - CBoard
+        - CHAOSS
+        - CHAOSS Africa + GWU
         - Civis
-        - Dhwani
+        - ConveGenius
+        - Consul Democracy
+        - COSS
+        - CranberryFit
+        - Development Gateway
+        - DHIS2
         - Dhiway
+        - Dhwani
+        - Digital Green
+        - Digital India
+        - Dimagi
+        - Drupal
+        - Education Initiative
+        - eGov
         - EGov
         - EkShop Marketplace
         - FIDE
+        - FinternetLabs
+        - Finternetlab
+        - Flywheel
+        - GovDirectory
+        - Haqdarshak
+        - Healthsites.io
+        - IDinsight
         - If Me
+        - IIIT Delhi
+        - IIT Bombay
+        - IIT Delhi
+        - Impactyaan
+        - Indus Action
+        - Intel Health
         - Key Education Foundation
+        - Khushi Baby
+        - Learning Economy
+        - Linux Foundation
+        - Mecha Systems
+        - Medic Mobile
+        - Medtronic Labs
+        - MetaBrainz
+        - Mifos
+        - Mojaloop
+        - MOSIP
+        - NASSCOM Foundation
+        - NHA
+        - NIUA
         - Norwegian Meteorological Institute
+        - NSUT x SEETA x AIC
+        - ONDC
+        - ONEST
+        - Open Healthcare Network
+        - OpenCRVS
+        - OpenFn
+        - OpenIMIS
+        - OpenMRS
+        - OpenSPP
+        - Piramal Swasthya
         - Planet Read
+        - Policy Engine
+        - Pratham Books
         - Project Second Chance
+        - Project Tech4Dev
+        - Protean
+        - RCTS-IIITH
         - Reap Benefit
+        - Resolve to Save Lives
+        - Rocket Learning
+        - Rumsan
+        - Sahamati
         - SamagraX
+        - Samanvay Foundation
+        - Sampatti Card
+        - Sanketika
         - ShikshaLokam
+        - SimPPL
+        - Sugar Labs
+        - Swasth Alliance
+        - Swecha
+        - Tarento
+        - Tattle
         - Tech4Dev
         - Tekdi
+        - The Apprentice Project
         - The Mifos Initiative
+        - Thoughtworks
         - Tibil
+        - TinkerHub
+        - Trustin
+        - Tuner Labs
+        - TYCIA
+        - UNICEF
+        - United Nations
         - Ushahidi
+        - Win Over Cancer
+        - WRI
+        - Zendalona
+        - Zenysis
         - Arghyam
-        - Piramal Swasthya Management Research Institute
-        - Belongg AI
-        - Finternetlab
     validations:
       required: true
 
@@ -262,5 +345,3 @@ body:
         - Other
     validations:
       required: true
-
-  
