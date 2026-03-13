@@ -909,3 +909,22 @@
       <td>SRCC</td>
   </tr>
 </table>
+<table>
+  <tr>
+    <td>Name</td>
+    <td>Mahi Raj</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/23bsm038-Mahi</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>https://www.linkedin.com/in/mahi-raj-07aa62354</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>Indian Institute of Information Technology, Design and Manufacturing, Jabalpur</td>
+  </tr>
+</table>
+
