@@ -551,6 +551,8 @@
   </tr>
 </table>
 
+
+
 <table>
   <tr>
     <td>Name</td>
@@ -907,5 +909,24 @@
   <tr>
       <td>College</td>
       <td>SRCC</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>Name</td>
+    <td>Ojas Kasana</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/ojask3150</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>https://in.linkedin.com/in/ojas-kasana-96895a216</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>IIITDM JABALPUR</td>
   </tr>
 </table>
