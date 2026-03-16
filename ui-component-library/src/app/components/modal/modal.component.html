@@ -1,0 +1,8 @@
+<div class="modal-overlay" *ngIf="isOpen">
+    <div class="modal">
+      <h2>{{ title }}</h2>
+      <p>{{ content }}</p>
+      <button class="btn btn-secondary" (click)="close()">Close</button>
+    </div>
+  </div>
+  
