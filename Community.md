@@ -3,6 +3,25 @@
 <table>
   <tr>
     <td>Name</td>
+    <td>Ayush Nagar</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/Ayushdk</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>https://www.linkedin.com/in/ayush-nagar-2a6311289/</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>IIITM Gwalior , Madhya Pradesh</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>Name</td>
     <td>Shruti Agarwal</td>
   </tr>
   <tr>
