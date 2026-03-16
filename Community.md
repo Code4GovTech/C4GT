@@ -799,21 +799,24 @@
 </table>
 
  <table>
+
+
+ <table>
       <tr>
         <td>Name</td>
-        <td>Arman Kumar Jena</td>
+        <td>Aditya Lad</td>
       </tr>
       <tr>
         <td>GitHub</td>
-        <td>https://github.com/Ajen07</td>
+        <td>https://github.com/adityalad-25</td>
       </tr>
       <tr>
         <td>LinkedIn</td>
-        <td>https://www.linkedin.com/in/arman-kumar-jena-9b6a9322a</td>
+        <td>https://www.linkedin.com/in/adityalad2003/</td>
       </tr>
       <tr>
         <td>College</td>
-        <td>National Institute of Technology , Rourkela</td>
+        <td>Pimpri Chinchwad College Of Engineering , Pune</td>
       </tr>
     </table>
 
