@@ -909,3 +909,21 @@
       <td>SRCC</td>
   </tr>
 </table>
+    <table>
+      <tr>
+        <td>Vikas</td>
+        <td>Vikas Kumar</td>
+      </tr>
+      <tr>
+        <td>W3cdpass</td>
+        <td>https://github.com/w3cdpass</td>
+      </tr>
+      <tr>
+        <td>LinkedIn</td>
+        <td>https://www.linkedin.com/in/vikas-kumar-493325352</td>
+      </tr>
+      <tr>
+        <td>College</td>
+        <td>Nielit (National Institute of Electronics & Information Technology)</td>
+      </tr>
+    </table>
