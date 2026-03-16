@@ -909,3 +909,30 @@
       <td>SRCC</td>
   </tr>
 </table>
+<table>
+  <tr>
+    <td>Name</td>
+    <td>Paroksh Vashistha</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/Paroksh1</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>https://www.linkedin.com/in/paroksh-vashistha-6a53691b2/</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>Manav Rachna International Institute of Research and Studies</td>
+  </tr>
+</table>
+
+<p><b>Additional Information:</b><br>
+I’m passionate about solving real-world problems using technology and currently working on AI bots, healthcare tech projects, full-stack web development, data-driven research, and LLM-based solutions.<br><br>
+<b>Achievements:</b><br>
+• Selected for <b>Harvard HPAIR 2024</b> Conference representing my university globally <br>
+• <b>Campus Ambassador</b> for IIT Bombay Techfest <br>
+• Built several impactful projects including Budget Planner, Nutrition Tracker for kids, and chatbot for maternal health<br>
+• Active contributor to open-source through the <b>C4GT program</b> 
+</p>
