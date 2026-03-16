@@ -3,6 +3,25 @@
 <table>
   <tr>
     <td>Name</td>
+    <td>Pratham Jain</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/pratham27-pro</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>https://www.linkedin.com/in/pratham-jain-46645b325/</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>Maharaja Surajmal Institute of Technology, New Delhi</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>Name</td>
     <td>Shruti Agarwal</td>
   </tr>
   <tr>
