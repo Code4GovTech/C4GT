@@ -909,3 +909,22 @@
       <td>SRCC</td>
   </tr>
 </table>
+
+<table>
+  <tr>
+      <td>Name</td>
+      <td>Atulya Mishra</td>
+  </tr>
+  <tr>
+      <td>GitHub</td>
+      <td>https://github.com/Atulya12345k</td>
+  </tr>
+  <tr>
+      <td>LinkedIn</td>
+      <td>https://www.linkedin.com/in/atulya-mishra-10520425a/</td>
+  </tr>
+  <tr>
+      <td>College</td>
+      <td>IIT Delhi</td>
+  </tr>
+</table>
