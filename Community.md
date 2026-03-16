@@ -1,6 +1,25 @@
 ## Our Community
 
 <table>
+      <tr>
+        <td>Name</td>
+        <td>Aryan Yadav</td>
+      </tr>
+      <tr>
+        <td>GitHub</td>
+        <td>https://github.com/aryan0931</td>
+      </tr>
+      <tr>
+        <td>LinkedIn</td>
+        <td>https://www.linkedin.com/in/aryan3101</td>
+      </tr>
+      <tr>
+        <td>College</td>
+        <td>IIT BHU Varanasi</td>
+      </tr>
+</table>
+
+<table>
   <tr>
     <td>Name</td>
     <td>Shruti Agarwal</td>
