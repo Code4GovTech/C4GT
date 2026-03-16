@@ -909,3 +909,21 @@
       <td>SRCC</td>
   </tr>
 </table>
+<table>
+  <tr>
+    <td>Name</td>
+    <td>Shivang Agarwal</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/SHIVANG2904</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>https://www.linkedin.com/in/shivang-agarwal-506a30273/</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>University of Petroleum And Energy Studies,Dehradun</td>
+  </tr>
+</table>
