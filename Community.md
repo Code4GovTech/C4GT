@@ -166,7 +166,6 @@
       </tr>
     </table>
 
-
 <table>
       <tr>
         <td>Name</td>
@@ -243,8 +242,6 @@
   </tr>
 </table>
 
-    
-    
 <table>
   <tr>
     <td>Name</td>
@@ -320,7 +317,6 @@
         <td>National Institute Of Technology, Rourkela</td>
       </tr>
     </table>
-
 
 <table>
       <tr>
@@ -453,8 +449,6 @@
     <td>NIT Kurukshetra</td>
   </tr>
 </table>
-
-
 
 <table>
   <tr>
@@ -872,7 +866,7 @@
         <td>NIT Rourkela</td>
       </tr>
     </table>
-    
+
 <table>
   <tr>
       <td>Name</td>
@@ -908,4 +902,23 @@
       <td>College</td>
       <td>SRCC</td>
   </tr>
+</table>
+
+<table>
+      <tr>
+        <td>Name</td>
+        <td>Krishna Sarone</td>
+      </tr>
+      <tr>
+        <td>GitHub</td>
+        <td>https://github.com/krisn2</td>
+      </tr>
+      <tr>
+        <td>LinkedIn</td>
+        <td>https://www.linkedin.com/in/krishnasarone/</td>
+      </tr>
+      <tr>
+        <td>College</td>
+        <td>Late Pandharinath Patil Institute of Management Studies and Information Technology/BAMU</td>
+      </tr>
 </table>
