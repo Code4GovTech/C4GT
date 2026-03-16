@@ -909,3 +909,22 @@
       <td>SRCC</td>
   </tr>
 </table>
+
+<table>
+  <tr>
+    <td>Name</td>
+    <td>Harsh</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/harshhh443</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>https://www.linkedin.com/in/harsh-singh-ab2894249</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>Maharaja Surajmal Institute C-4 Janakpuri</td>
+  </tr>
+</table>
