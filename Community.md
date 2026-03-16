@@ -3,6 +3,24 @@
 <table>
   <tr>
     <td>Name</td>
+    <td>Samitha Chowdari</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/Samitha-Chowdari</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>https://www.linkedin.com/in/samitha-chowdari</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>Vaagdevi Engineering College</td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td>Name</td>
     <td>Shruti Agarwal</td>
   </tr>
   <tr>
