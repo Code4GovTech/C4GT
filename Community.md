@@ -909,3 +909,21 @@
       <td>SRCC</td>
   </tr>
 </table>
+<table>
+      <tr>
+        <td>Name</td>
+        <td>Rahul Bamaniya</td>
+      </tr>
+      <tr>
+        <td>GitHub</td>
+        <td>https://github.com/rahulbamnuya</td>
+      </tr>
+      <tr>
+        <td>LinkedIn</td>
+        <td>https://www.linkedin.com/in/rahul-bamaniya-1375772a6/</td>
+      </tr>
+      <tr>
+        <td>College</td>
+        <td>SGSITS Indore</td>
+      </tr>
+    </table>
