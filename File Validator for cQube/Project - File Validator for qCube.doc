@@ -1,0 +1,54 @@
+
+name: C4GT
+about: C4GT Project, File Validator for cQube
+labels: cQube Community
+
+Project Description:
+
+• This project aims to develop a File Validation utility with a user-friendly interface for cQube. The utility will perform checks files to be uploaded to ensure that the data meets the required specifications and is accurate and complete. Basically the Event file has to be validated before uploading that to cQube.
+
+The key features to be implemented as part of this project are:
+
+• User-friendly interface: The utility should have an intuitive and user-friendly interface that allows the end user to easily upload and validate their files.
+• Validation rules: The File Validator utility should include validation rules that cover common file-related issues.
+    1. Format : Format of the data matches as per the spec defined earlier which is available in cQube
+    2. Completeness : All the required fields are filled
+    3. Accuracy
+         i. Dimension values : Dimension values are validated against the master data available in cQube
+        ii. Metric values : Metric values should be within a defined range
+• Custom validation rules: The utility should allow the end user to define custom validation rules specific to their data. This would enable them to check for errors or inconsistencies that are unique to their data.
+    1. Ranges for certain fields
+    2. Pattern of a particular field
+• Error reporting: The File Validator utility should provide clear and detailed error messages when a file fails validation. This would help the end user identify and fix any issues with their data.
+
+Project Set-up:
+
+• Install the required programming language and libraries, such as Python and their respective data validation libraries.
+• Fork the project
+• Clone the forked project repository from GitHub.
+• Set up the environment variables and configurations required to run the utility.
+
+Acceptance Criteria:
+
+The acceptance criteria for this project are:
+
+• The utility should be able to validate files uploaded by the end user and identify any errors or inconsistencies.
+• The utility should provide clear and detailed error messages when a file fails validation.
+• The utility should have an intuitive and user-friendly interface that allows the end user to easily upload and validate their files.
+
+Out of Scope Elements:
+
+The following elements are out of scope for this project:
+
+• Data cleaning and normalization.
+• Handling of large files that require distributed processing.
+• Integration with other systems or tools.
+
+Key milestones for this project are:
+
+• Development of the File Validator utility with basic validation rules
+• Implementation of custom validation rules and error reporting
+• Coming up with UI for easy usage
+• Testing and debugging of the utility
+
+Mentors: @invinayak007
