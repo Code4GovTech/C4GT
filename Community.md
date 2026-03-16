@@ -891,6 +891,28 @@
       <td>Maharaja Surajmal Institute of Technology</td>
   </tr>
 </table>
+
+<table>
+  <tr>
+      <td>Name</td>
+      <td>Bhumika S</td>
+  </tr>
+  <tr>
+      <td>GitHub</td>
+      <td>https://github.com/Bhumika-SP</td>
+  </tr>
+  <tr>
+      <td>LinkedIn</td>
+      <td>https://www.linkedin.com/in/bhumika-s-7182b1260</td>
+  </tr>
+  <tr>
+      <td>College</td>
+      <td>RRCE</td>
+  </tr>
+</table>
+
+
+
 <table>
   <tr>
       <td>Name</td>
