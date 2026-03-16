@@ -909,3 +909,21 @@
       <td>SRCC</td>
   </tr>
 </table>
+<table>
+  <tr>
+      <td>Name</td>
+      <td>Arjun Gupta</td>
+  </tr>
+  <tr>
+      <td>GitHub</td>
+      <td>https://github.com/Arjung352/</td>
+  </tr>
+  <tr>
+      <td>LinkedIn</td>
+      <td>https://www.linkedin.com/in/arjun-gupta-948b11291/</td>
+  </tr>
+  <tr>
+      <td>University</td>
+      <td>GGSIPU</td>
+  </tr>
+</table>
