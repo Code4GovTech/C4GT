@@ -909,3 +909,21 @@
       <td>SRCC</td>
   </tr>
 </table>
+<table>
+      <tr>
+        <td>Name</td>
+        <td>Aman Dokania</td>
+      </tr>
+      <tr>
+        <td>GitHub</td>
+        <td>https://github.com/Aman-Dokania</td>
+      </tr>
+      <tr>
+        <td>LinkedIn</td>
+        <td>https://www.linkedin.com/in/aman-dokaniaa</td>
+      </tr>
+      <tr>
+        <td>College</td>
+        <td>BITS Pilani</td>
+      </tr>
+    </table>
