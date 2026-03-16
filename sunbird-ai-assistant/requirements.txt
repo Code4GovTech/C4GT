@@ -1,0 +1,29 @@
+# Core LLM and LangChain dependencies
+openai>=1.10.0
+langchain>=0.1.8
+
+# Web framework
+fastapi>=0.109.0
+uvicorn[standard]>=0.25.0
+
+# Tooling and HTTP requests
+httpx>=0.25.1
+requests>=2.31.0
+
+# Redis (for session/context caching)
+redis>=5.0.1
+
+# Environment management
+python-dotenv>=1.0.0
+
+# Logging and utilities
+loguru>=0.7.2
+
+# Optional: CLI or local testing
+typer>=0.9.0
+
+# For async support in FastAPI routes if needed
+asyncio
+
+# (Optional) Dev tools
+watchdog>=4.0.0
