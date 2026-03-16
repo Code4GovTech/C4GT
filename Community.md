@@ -908,4 +908,22 @@
       <td>College</td>
       <td>SRCC</td>
   </tr>
+          <table>
+          <tr>
+            <td>Name</td>
+            <td>E.Rohit Reddy</td>
+          </tr>
+          <tr>
+            <td>GitHub</td>
+            <td>https://github.com/rohit20047</td>
+          </tr>
+          <tr>
+            <td>LinkedIn</td>
+            <td>https://www.linkedin.com/in/rohit-reddy-6344011b4/</td>
+          </tr>
+          <tr>
+            <td>College</td>
+            <td>MVSR/td>
+          </tr>
+        </table>
 </table>
