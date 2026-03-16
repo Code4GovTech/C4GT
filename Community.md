@@ -909,3 +909,21 @@
       <td>SRCC</td>
   </tr>
 </table>
+<table>
+  <tr>
+    <td>Name</td>
+    <td>Chandana KN</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td><a href="https://github.com/ChandanaKN1" target="_blank">https://github.com/ChandanaKN1</a></td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td><a href="https://www.linkedin.com/in/chandana-k-377b56269" target="_blank">https://www.linkedin.com/in/chandana-k-377b56269</a></td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>Rajarajeshwari College of Engineering</td>
+  </tr>
+</table>
