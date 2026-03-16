@@ -909,3 +909,21 @@
       <td>SRCC</td>
   </tr>
 </table>
+    <table>
+      <tr>
+        <td>Name</td>
+        <td>Aadhithya DilipKumar</td>
+      </tr>
+      <tr>
+        <td>GitHub</td>
+        <td>https://github.com/its-aadhi-dev</td>
+      </tr>
+      <tr>
+        <td>LinkedIn</td>
+        <td>https://www.linkedin.com/in/aadhithya-d-681209324/</td>
+      </tr>
+      <tr>
+        <td>College</td>
+        <td>Amrita Vishwa Vidyapeetham</td>
+      </tr>
+    </table>
