@@ -760,24 +760,24 @@
       </tr>
     </table>
 
-    <table>
-      <tr>
-        <td>Name</td>
-        <td>Shobita Bhardwaj</td>
-      </tr>
-      <tr>
-        <td>GitHub</td>
-        <td>https://github.com/ShobitaBhardwaj</td>
-      </tr>
-      <tr>
-        <td>LinkedIn</td>
-        <td>https://www.linkedin.com/in/shobita-bhardwaj-327745264/</td>
-      </tr>
-      <tr>
-        <td>College</td>
-        <td>NIT Kurukshetra</td>
-      </tr>
-    </table>
+<table>
+  <tr>
+    <td>Name</td>
+    <td>Shobita Bhardwaj</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/ShobitaBhardwaj</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>https://www.linkedin.com/in/shobita-bhardwaj-327745264/</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>NIT Kurukshetra</td>
+  </tr>
+</table>
 
 <table>
       <tr>
@@ -815,8 +815,25 @@
         <td>College</td>
         <td>National Institute of Technology , Rourkela</td>
       </tr>
-    </table>
-
+  </table>
+<table>
+  <tr>
+    <td>Name</td>
+    <td>Vaibhav Gupta</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/Vaibhavg4651</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>https://www.linkedin.com/in/vaibhav-gupta-7a2992227/</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>Maharaja Surajmal Institute of Technology , Delhi</td>
+  </tr>
+</table>
      <table>
       <tr>
         <td>Name</td>
@@ -836,7 +853,7 @@
       </tr>
     </table>
 
-    <table>
+   <table>
       <tr>
         <td>Name</td>
         <td>Riya Raj</td>
@@ -853,8 +870,8 @@
         <td>College</td>
         <td>NIT Kurukshetra</td>
       </tr>
-    </table>
-    <table>
+   </table>
+   <table>
       <tr>
         <td>Name</td>
         <td>Biswaprem Sahu</td>
@@ -871,7 +888,7 @@
         <td>College</td>
         <td>NIT Rourkela</td>
       </tr>
-    </table>
+   </table>
     
 <table>
   <tr>
