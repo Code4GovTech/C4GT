@@ -19,6 +19,24 @@
   </tr>
 </table>
 <table>
+  <tr>
+    <td>Name</td>
+    <td>Prince Gabecha</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/prince210k</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td><a href="https://www.linkedin.com/in/prince-gabecha-4b2781351/">Prince Gabecha<a></td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>Vishwakarma Institute of Technology, Pune</td>
+  </tr>
+</table>
+<table>
       <tr>
         <td>Name</td>
         <td>Arnav Goel</td>
