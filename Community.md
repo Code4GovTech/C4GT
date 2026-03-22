@@ -909,3 +909,22 @@
       <td>SRCC</td>
   </tr>
 </table>
+
+<table>
+  <tr>
+    <td>Name</td>
+    <td>Aryan</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/aryan-2255</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>https://www.linkedin.com/in/aryan2255/</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>Medhavi Skills University</td>
+  </tr>
+</table>
