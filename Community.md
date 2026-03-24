@@ -909,3 +909,21 @@
       <td>SRCC</td>
   </tr>
 </table>
+<table>
+  <tr>
+      <td>Name</td>
+      <td>Parth Mozarkar</td>
+  </tr>
+  <tr>
+      <td>GitHub</td>
+      <td>https://github.com/parthmozarkar</td>
+  </tr>
+  <tr>
+      <td>LinkedIn</td>
+      <td>https://www.linkedin.com/in/parthmozarkar/</td>
+  </tr>
+  <tr>
+      <td>College</td>
+      <td>Medhavi Skills University</td>
+  </tr>
+</table>
