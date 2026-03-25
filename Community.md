@@ -909,3 +909,21 @@
       <td>SRCC</td>
   </tr>
 </table>
+    <table>
+      <tr>
+        <td>Name</td>
+        <td>Kanishka Singhal</td>
+      </tr>
+      <tr>
+        <td>GitHub</td>
+        <td>https://github.com/kanCHI-Singhal</td>
+      </tr>
+      <tr>
+        <td>LinkedIn</td>
+        <td>https://www.linkedin.com/in/kanishka-singhal-562124256/</td>
+      </tr>
+      <tr>
+        <td>College</td>
+        <td>ABES Institute of Technology, Ghaziabad</td>
+      </tr>
+    </table>
