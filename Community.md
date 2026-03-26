@@ -909,3 +909,23 @@
       <td>SRCC</td>
   </tr>
 </table>
+
+
+<table>
+  <tr>
+      <td>Name</td>
+      <td>Rahul Kumar Singh</td>
+  </tr>
+  <tr>
+      <td>GitHub</td>
+      <td>https://github.com/RahulKumarsingh2001</td>
+  </tr>
+  <tr>
+      <td>LinkedIn</td>
+      <td>https://www.linkedin.com/in/rahul-kumar-singh-1411a9270/</td>
+  </tr>
+  <tr>
+      <td>College</td>
+      <td>GIET University, Gunupur</td>
+  </tr>
+</table>
