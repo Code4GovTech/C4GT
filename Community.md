@@ -146,6 +146,24 @@
     <td>IIITDM Jabalpur</td>
   </tr>
 </table>
+<table>
+  <tr>
+     <td>Name</td>
+    <td>Abdul Raheem</td>
+   </tr>
+  <tr>
+     <td>GitHub</td>
+     <td>https://github.com/abd-RAHEEM</td>
+   </tr>
+   <tr>
+     <td>LinkedIn</td>
+    <td>https://www.linkedin.com/in/abdulraheem032157</td>
+   </tr>
+   <tr>
+     <td>College</td>
+     <td>Chaitanya Bharathi Institute of Technology Hyderabad</td>
+   </tr>
+ </table>
 
 <table>
       <tr>
