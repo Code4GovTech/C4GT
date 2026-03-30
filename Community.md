@@ -3,19 +3,19 @@
 <table>
   <tr>
     <td>Name</td>
-    <td>Shruti Agarwal</td>
+    <td>Jayesh Yadav</td>
   </tr>
   <tr>
     <td>GitHub</td>
-    <td>https://github.com/Shruti3004</td>
+    <td>https://github.com/Jayesh-003</td>
   </tr>
   <tr>
     <td>LinkedIn</td>
-    <td>https://www.linkedin.com/in/shruti-ag</td>
+    <td>www.linkedin.com/in/jayesh-yadav03</td>
   </tr>
   <tr>
     <td>College</td>
-    <td>JSS Academy of Technical Education, Noida</td>
+    <td>AJAY KUMAR GARG ENGINEERING COLLEGE</td>
   </tr>
 </table>
 <table>
