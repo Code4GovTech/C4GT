@@ -78,6 +78,14 @@ body:
     attributes:
       label: Implementation Details
       description: List any technical details about the proposed implementation, including any specific technologies that will be used.
+  - **Frontend**: React.js (TypeScript) built as a Progressive Web App (PWA) — works on mobile browsers and installs like an app; scales to tablet and desktop without a separate codebase                   
+  - **Styling**: Tailwind CSS with a mobile-first approach — ensures the UI renders correctly across screen sizes                                                                                              
+  - **API Integration**: Bahmni REST APIs and FHIR R4 endpoints for patient data, appointments, prescriptions, and clinical documents                                                                          
+  - **Authentication**: SMS OTP (via gateway such as MSG91/Twilio), Email + Password, and Google OAuth                                                                                                         
+  - **Deployment**: Docker container deployable alongside a standard Bahmni instance with minimal configuration                                                                                                
+  - **Reference Designs**: Figma designs provided (30 screens) — contributor implements UI from these designs                                                                                                  
+  - **Testing**: Jest + React Testing Library for unit and component tests                                                                                                                                     
+  - **Hosting**: Open-source repository under the Bahmni GitHub org       
 
   - type: textarea
     id: ticket-mockups
