@@ -1,6 +1,6 @@
 name: DMP 2026 Project Template
 description: List a new project for Dedicated Mentoring Program (DMP) 2026
-title: "[DMP 2026]: "
+title: "[DMP 2026]: Bahmni Patient Portal"
 labels: ["DMP 2026"]
 body:
   - type: textarea
@@ -11,7 +11,9 @@ body:
       label: Ticket Contents
       value: |
         ## Description
-        [Provide a brief description of the feature, including why it is needed and what it will accomplish.]
+        [Bahmni is a widely-deployed open-source hospital information system used across low-resource healthcare settings in India and globally. Currently, patients have no direct digital interface to engage with their own health data — all interactions are mediated through clinical staff.
+        This project aims to build a mobile-first, responsive Patient Portal for Bahmni that converts finalized UI/UX designs into a fully functional application. The portal will empower patients to access their medical records, view appointments, track prescriptions, and receive lab results — all through an interface that works seamlessly on smartphones as well as desktop/laptop computers. 
+        The application will integrate with Bahmni's existing APIs and FHIR-compatible endpoints to surface real patient data in a secure, accessible, and intuitive interface. The end goal is a production-ready portal that can be deployed alongside any standard Bahmni instance with minimal configuration.]
 
   - type: textarea
     id: ticket-goals
@@ -22,11 +24,13 @@ body:
       description: List the goals of the feature. Please add the goals that must be achieved by Mid-point check-in i.e 1.5 months into the coding period.
       value: |
         ## Goals
-        - [ ] [Goal 1]
-        - [ ] [Goal 2]
-        - [ ] [Goal 3]
-        - [ ] [Goal 4]
-        - [ ] [Goals Achieved By Mid-point Milestone]
+        - [ ] [Goal 1] Authentication module — Mobile OTP login, Email + Password login, Patient ID login, Google login, new patient registration (name, DOB, phone, email, password), and Forgot Password flow.
+        - [ ] [Goal 2] Home Dashboard — Personalized greeting, upcoming appointment widget (with Cancel / Reschedule actions), latest visit summary card, and Book Appointment entry point with bottom navigation bar (Home, Records, My Appointments, Profile).
+        - [ ] [Goal 3] Records module — Visit list grouped by type (OPD, IPD, Emergency), visit detail view showing Blood Test Reports, Prescriptions, and Discharge Summaries with generated/uploaded timestamps, and advanced filter panel (filter by Visit Type, Visit Date with This Week / Last 30 Days / Last 90 Days / custom date-range picker with calendar, month, and year selectors, and Type of Record).
+        - [ ] [Above Goals To Be Achieved By Mid-point Milestone]
+        - [ ] [Goal 4] My Appointments module — Tabbed view (Upcoming / Completed / Missed / Cancelled), appointment cards with doctor details and consultation fee, Cancel with confirmation dialog, Reschedule flow, and "Book Again" action on cancelled appointments.
+        - [ ] [Goal 5] Book Appointment flow — Search by Doctor or Speciality; speciality browsing grid; upload prescription option; doctor search results; weekly availability calendar with slot picker; and booking confirmation screen
+        - [ ] [Goal 6] Profile module — Profile setup onboarding (Name, Age, Gender, DOB), profile page with Patient ID, family member list with switch-patient support, Add Family Member flow, Insurance Details, and Sign Out
 
   - type: textarea
     id: ticket-setup
@@ -38,14 +42,35 @@ body:
     id: ticket-expected-outcome
     attributes:
       label: Expected Outcome
-      description: Describe in detail what the final product or result should look like and how it should behave.
+      description: A fully functional, production-ready Patient Portal web application that:
+      - Renders correctly and is touch-friendly on mobile and scales to tablet and desktop browsers                                                         
+      - Supports three login methods (Mobile OTP, Email/Password, Patient ID) plus Google auth, and a full patient registration flow
+      - Displays a personalized dashboard with upcoming appointments and latest visit summary
+      - Lets patients browse all their visits (OPD, IPD, Emergency) and view associated Blood Test Reports, Prescriptions, and Discharge Summaries, with date/type filtering
+      - Shows all appointments across Upcoming, Completed, Missed, and Cancelled tabs with cancel, reschedule, and rebook actions
+      - Provides a full doctor discovery and appointment booking flow — search, filter, view doctor profiles, pick slots, and confirm
+      - Manages patient profile and linked family members, with seamless switching between family member health records
 
   - type: textarea
     id: ticket-acceptance-criteria
     attributes:
       label: Acceptance Criteria
-      description: List the acceptance criteria for this feature.
-
+      description: 
+      - All 30 screens from the provided Figma designs are implemented with fidelity across mobile, tablet, and desktop
+      - All three login methods (Mobile OTP, Email/Password, Patient ID) authenticate successfully against Bahmni APIs; unauthenticated routes redirect to login      
+      - Google login works via OAuth                                    
+      - Patient registration form validates all fields and creates an account via Bahmni API                                                                         
+      - Dashboard displays real upcoming appointments and latest visit data; no hardcoded mock data in production builds                                            
+      - Records filter panel correctly filters by Visit Type (OPD/IPD/Emergency/Follow-up), all date presets (This Week, Last 30 Days, Last 90 Days), custom date range via calendar/month/year pickers, and Type of Record (Reports, Prescription, Discharge Summary)                                                            
+      - Individual documents (Blood Test Report, Prescription/Medication Details, Discharge Summary) are viewable within the app with generated-on and uploaded-on timestamps                                                                                                                                                      
+      - Family member switcher correctly loads the selected member's records and appointments                                                                      
+      - My Appointments tabs (Upcoming/Completed/Missed/Cancelled) display the correct appointments for each state                                                    
+      - Cancel appointment shows a confirmation dialog before cancelling; cancelled appointments show "Book Again"                                            
+      - Doctor profile page shows weekly availability calendar with available slot counts                                                                      
+      - Booking confirmation screen displays correct doctor, date/time, and hours                                                               
+      - Bottom navigation (Home, Records, My Appointments, Profile) is accessible and active-state correct on all pages                                            
+      - Application loads initial view in under 3 seconds on a 3G mobile connection                                                             
+      
   - type: textarea
     id: ticket-implementation-details
     validations:
@@ -53,18 +78,27 @@ body:
     attributes:
       label: Implementation Details
       description: List any technical details about the proposed implementation, including any specific technologies that will be used.
+  - **Frontend**: React.js (TypeScript) built as a Progressive Web App (PWA) — works on mobile browsers and installs like an app; scales to tablet and desktop without a separate codebase                   
+  - **Styling**: Tailwind CSS with a mobile-first approach — ensures the UI renders correctly across screen sizes                                                                                              
+  - **API Integration**: Bahmni REST APIs and FHIR R4 endpoints for patient data, appointments, prescriptions, and clinical documents                                                                          
+  - **Authentication**: SMS OTP (via gateway such as MSG91/Twilio), Email + Password, and Google OAuth                                                                                                         
+  - **Deployment**: Docker container deployable alongside a standard Bahmni instance with minimal configuration                                                                                                
+  - **Reference Designs**: Figma designs provided (30 screens) — contributor implements UI from these designs                                                                                                  
+  - **Testing**: Jest + React Testing Library for unit and component tests                                                                                                                                     
+  - **Hosting**: Open-source repository under the Bahmni GitHub org       
 
   - type: textarea
     id: ticket-mockups
     attributes:
       label: Mockups/Wireframes
       description: Include links to any visual aids, mockups, wireframes, or diagrams that help illustrate what the final product should look like. This is not always necessary, but can be very helpful in many cases.
+      https://www.figma.com/design/K5kK6DDHePjSZ7izkGPJDD/Bahmni-Patient-Portal?node-id=192-3836&p=f&t=Pzjq3WbzgcYFL1ag-0
 
   - type: input
     id: ticket-product
     attributes:
       label: Product Name
-      placeholder: Enter Product Name
+      placeholder: Bahmni Patient Portal
     validations:
       required: true
 
@@ -72,7 +106,7 @@ body:
     id: ticket-organisation
     attributes:
       label: Organisation Name
-      description: Enter Organisation Name
+      description: Thoughtworks
       multiple: false
       options:
         - Agami
