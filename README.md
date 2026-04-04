@@ -1,4 +1,4 @@
-<div align="Center"><h1>Code For GovTech 2025</h1></div>
+<div align="Center"><h1>Code For GovTech 2026</h1></div>
 
 <div align="Center"><img src="https://static.wixstatic.com/media/060b0c_8029055ce0074bfaa4bb6d9f1c2c33d2~mv2.png/v1/fill/w_2266,h_2168,al_c,q_95,usm_0.66_1.00_0.01,enc_auto/060b0c_8029055ce0074bfaa4bb6d9f1c2c33d2~mv2.png" height ="500" align="Center"/><br>
 </div>
@@ -22,3 +22,6 @@ Learn more about C4GT on our wiki page 👉🏻 https://github.com/Code4GovTech/
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
+## UI/UX and Design Resources [DMP 2026]
+-**Role:** UI/UX Designer Contributor
+-**Focus:** Improving visual hierarchy and accessibility for 2026 projects.
