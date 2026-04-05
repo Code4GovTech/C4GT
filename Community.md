@@ -909,3 +909,22 @@
       <td>SRCC</td>
   </tr>
 </table>
+</table>
+<table>
+   <tr>
+        <td>Name</td>
+        <td>Shreya Pandey</td>
+   </tr>
+   <tr>
+         <td>Github</td>
+         <td>https://github.com/Shreyya-ux</td>
+   </tr>
+   <tr>
+          <td>LinkedIn</td>
+          <td>https://www.linkedin.com/in/shreyapandey05/</td>
+       </tr> 
+          <td>College</td>
+          <td>Govt PG college Satna</td>
+   </tr>
+   </table>
+
