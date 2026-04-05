@@ -909,3 +909,22 @@
       <td>SRCC</td>
   </tr>
 </table>
+
+<table>
+  <tr>
+      <td>Name</td>
+      <td>Aniket Singh</td>
+  </tr>
+  <tr>
+      <td>GitHub</td>
+      <td>https://github.com/aniketsingh1023</td>
+  </tr>
+  <tr>
+      <td>LinkedIn</td>
+      <td>https://www.linkedin.com/aniketsingh23</td>
+  </tr>
+  <tr>
+      <td>College</td>
+      <td>IES IPS ACADEMY, Indore</td>
+  </tr>
+</table>
