@@ -909,3 +909,21 @@
       <td>SRCC</td>
   </tr>
 </table>
+<table>
+  <tr>
+    <td>Name</td>
+    <td>Sahil Kumar Singh</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/SahilKumar75</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>https://www.linkedin.com/in/sahil-kumar-singh-88949a27a/</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>Army Institute of Technology, Pune</td>
+  </tr>
+</table>
