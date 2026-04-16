@@ -3,6 +3,25 @@
 <table>
   <tr>
     <td>Name</td>
+    <td>Yatharth Katta</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/yats0x7</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>https://www.linkedin.com/in/yatharthkatta/</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>Newton School of Technology</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>Name</td>
     <td>Shruti Agarwal</td>
   </tr>
   <tr>
