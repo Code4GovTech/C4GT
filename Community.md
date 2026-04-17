@@ -1,5 +1,25 @@
 ## Our Community
 
+
+<table>
+  <tr>
+    <td>Name</td>
+    <td>Jayraje Shinde</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/Jayraje-Shinde</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>https://www.linkedin.com/in/jayraje-shinde-0a7a94223/</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>All India Shri Shivaji Memorial Society College Of Engineering</td>
+  </tr>
+</table>
+
 <table>
   <tr>
     <td>Name</td>
