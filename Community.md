@@ -909,3 +909,21 @@
       <td>SRCC</td>
   </tr>
 </table>
+    <table>
+      <tr>
+        <td>Name</td>
+        <td>Rahul Chaudhary</td>
+      </tr>
+      <tr>
+        <td>GitHub</td>
+        <td>https://github.com/Rahulchaudharyji2</td>
+      </tr>
+      <tr>
+        <td>LinkedIn</td>
+        <td>https://www.linkedin.com/in/rahul-chaudhary-b31b2a297/</td>
+      </tr>
+      <tr>
+        <td>College</td>
+        <td>Delhi Skill and Entrepreneurship University</td>
+      </tr>
+    </table>
