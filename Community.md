@@ -909,3 +909,22 @@
       <td>SRCC</td>
   </tr>
 </table>
+
+<table>
+  <tr>
+    <td>Name</td>
+    <td>Ankita Gupta</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/Ankita562</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>https://www.linkedin.com/in/ankita-gupta-a77022322/</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>BMS College of Engineering</td>
+  </tr>
+</table>
