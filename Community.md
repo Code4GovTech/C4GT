@@ -1,5 +1,24 @@
 ## Our Community
 
+
+  <table>
+      <tr>
+        <td>Name</td>
+        <td>Shubham Shah</td>
+      </tr>
+      <tr>
+        <td>GitHub</td>
+        <td>https://github.com/Shubhamm-02</td>
+      </tr>
+      <tr>
+        <td>LinkedIn</td>
+        <td>https://www.linkedin.com/in/shubham-shah2006</td>
+      </tr>
+      <tr>
+        <td>College</td>
+        <td>BITS Pilani</td>
+      </tr>
+  </table>
 <table>
   <tr>
     <td>Name</td>
