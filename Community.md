@@ -10,7 +10,7 @@
   </tr>
   <tr>
     <td>LinkedIn</td>
-    <td>https://linkedin.com/in/aman-jha-142269307/</td>
+    <td>https://www.linkedin.com/in/aman-jha-142269307/</td>
   </tr>
   <tr>
     <td>College</td>
