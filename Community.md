@@ -21,6 +21,24 @@
 <table>
       <tr>
         <td>Name</td>
+        <td>Naitik Gupta</td>
+      </tr>
+      <tr>
+        <td>GitHub</td>
+        <td>https://github.com/naitik120gupta</td>
+      </tr>
+      <tr>
+        <td>LinkedIn</td>
+        <td>https://www.linkedin.com/in/naitik-gupta</td>
+      </tr>
+      <tr>
+        <td>College</td>
+        <td>Ajay Kumar Garg Engineering College</td>
+      </tr>
+</table>
+<table>
+      <tr>
+        <td>Name</td>
         <td>Arnav Goel</td>
       </tr>
       <tr>
