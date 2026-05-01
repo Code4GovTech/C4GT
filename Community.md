@@ -1,5 +1,22 @@
 ## Our Community
-
+<table>
+  <tr>
+    <td>Name</td>
+    <td>Aman Jha</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/Aman-jha12</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>https://www.linkedin.com/in/aman-jha-142269307/</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>Netaji Subhash Engineering College.Garia</td>
+  </tr>
+</table>
 <table>
   <tr>
     <td>Name</td>
