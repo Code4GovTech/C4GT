@@ -909,3 +909,21 @@
       <td>SRCC</td>
   </tr>
 </table>
+<table>
+  <tr>
+    <td>Name</td>
+    <td>Ashwani Yadav</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/NAME-ASHWANIYADAV</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>https://www.linkedin.com/in/ashwani-yadav-82470221b/</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>Delhi Technological University</td>
+  </tr>
+</table>
