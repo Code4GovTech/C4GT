@@ -909,3 +909,22 @@
       <td>SRCC</td>
   </tr>
 </table>
+
+<table>
+  <tr>
+    <td>Name</td>
+    <td>Shruti Sachan</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/shrutisachan08</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>https://www.linkedin.com/in/shruti-sachan-1b5163287/</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>Indian Institute of Information Technology Design and Manufacturing Jabalpur</td>
+  </tr>
+</table>
