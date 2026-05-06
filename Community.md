@@ -909,3 +909,21 @@
       <td>SRCC</td>
   </tr>
 </table>
+    <table>
+      <tr>
+        <td>Name</td>
+        <td>Tanjil Alam</td>
+      </tr>
+      <tr>
+        <td>GitHub</td>
+        <td>https://github.com/heykcer</td>
+      </tr>
+      <tr>
+        <td>LinkedIn</td>
+        <td>https://www.linkedin.com/in/tanjilalam</td>
+      </tr>
+      <tr>
+        <td>College</td>
+        <td>Gandhi Engineering College</td>
+      </tr>
+    </table>
