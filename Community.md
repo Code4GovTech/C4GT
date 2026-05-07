@@ -1,4 +1,22 @@
 ## Our Community
+    <table>
+      <tr>
+        <td>Name</td>
+        <td>Sarthak Janrao</td>
+      </tr>
+      <tr>
+        <td>GitHub</td>
+        <td>https://github.com/Sarthakjanrao07</td>
+      </tr>
+      <tr>
+        <td>LinkedIn</td>
+        <td>https://www.linkedin.com/in/sarthak-janrao/</td>
+      </tr>
+      <tr>
+        <td>College</td>
+        <td>International Institute Of Information Technology, Pune</td>
+      </tr>
+    </table>
 
 <table>
   <tr>
