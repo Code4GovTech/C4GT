@@ -1,5 +1,7 @@
 ## Our Community
 
+
+
 <table>
   <tr>
     <td>Name</td>
@@ -18,6 +20,28 @@
     <td>JSS Academy of Technical Education, Noida</td>
   </tr>
 </table>
+
+<table>
+  <tr>
+    <td>Name</td>
+    <td>Ajay Mall</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/ajay-mall13</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>https://www.linkedin.com/in/ajay-mall-a9b4a2259</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>Shri Mata Vaishno Devi University, Katra</td>
+  </tr>
+</table>
+
+
+
 <table>
       <tr>
         <td>Name</td>
