@@ -3,6 +3,25 @@
 <table>
   <tr>
     <td>Name</td>
+    <td>Tia Gupta</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/24f2006039-collab</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>https://www.linkedin.com/in/tia-gupta--/</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>Indian Institute of Technology, Madras</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>Name</td>
     <td>Shruti Agarwal</td>
   </tr>
   <tr>
