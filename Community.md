@@ -905,7 +905,26 @@
       <td>https://www.linkedin.com/in/y1abhishek/</td>
   </tr>
   <tr>
-      <td>College</td>
-      <td>SRCC</td>
+    <td>College</td>
+    <td>SRCC</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>Name</td>
+    <td>Prem Singh</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/prem-2006</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>https://www.linkedin.com/in/prem-singh-5b2709379/</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>Medhavi Skills University</td>
   </tr>
 </table>
