@@ -909,3 +909,21 @@
       <td>SRCC</td>
   </tr>
 </table>
+<table>
+  <tr>
+    <td>Name</td>
+    <td>Vansh Verma</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/VanshSwaroopVerma</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>https://www.linkedin.com/in/connect-vanshverma/</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>Indian Institute of Technology Madras</td>
+  </tr>
+</table>
