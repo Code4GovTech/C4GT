@@ -909,3 +909,22 @@
       <td>SRCC</td>
   </tr>
 </table>
+
+<table>
+  <tr>
+    <td>Name</td>
+    <td>Ajmeri M Zaid</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/ZaidAjmeri07</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>https://www.linkedin.com/in/m-zaid-ajmeri-b5346837a</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>Parul Institute of Engineering and Technology, Vadodara</td>
+  </tr>
+</table>
