@@ -909,3 +909,31 @@
       <td>SRCC</td>
   </tr>
 </table>
+
+<table border="1">
+  
+  <thead>
+  <tr>
+  <tr>
+    <th>Issue</th>
+    <td>#803</td>
+  </tr>
+    <th>Name</th>
+    <td>Deepansh Chandra</td>
+  </tr>  
+  <tr>
+    <th>GitHub</th>
+    <td>https://github.com/deeepanshchandra</td>
+  </tr>
+  <tr>
+    <th>LinkedIn</th>
+    <td>https://www.linkedin.com/in/deepansh-chandra-7410103a9</td>
+  </tr>
+  <tr>
+    <th>College</th>
+    <td>Vellore Instituite of Technology Bhopal</td>
+  </tr>
+  
+  </tbody>
+
+</table>
