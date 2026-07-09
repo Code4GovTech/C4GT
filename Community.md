@@ -1,4 +1,22 @@
 ## Our Community
+<table>
+  <tr>
+     <td>Name</td>
+     <td>Javad</td>
+  </tr>
+  <tr>
+      <td>GitHub</td>
+      <td>https://github.com/javaadde</td>
+  </tr>
+  <tr>
+      <td>LinkedIn</td>
+      <td>https://www.linkedin.com/in/javaadde</td>
+  </tr>
+  <tr>
+      <td>College</td>
+      <td>Not yet</td>
+ </tr>
+</table>
 
 <table>
   <tr>
