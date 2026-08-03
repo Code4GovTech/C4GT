@@ -1,12 +1,9 @@
-<div align="Center"><h1>Code For GovTech 2025</h1></div>
+<div align="Center"><h1>Code For Good Tech</h1></div>
 
-<div align="Center"><img src="https://static.wixstatic.com/media/060b0c_8029055ce0074bfaa4bb6d9f1c2c33d2~mv2.png/v1/fill/w_2266,h_2168,al_c,q_95,usm_0.66_1.00_0.01,enc_auto/060b0c_8029055ce0074bfaa4bb6d9f1c2c33d2~mv2.png" height ="500" align="Center"/><br>
+<div align="Center"><img src="https://res.cloudinary.com/dliyyixxu/image/upload/v1785752022/CFGT_Map_Color_Logo_qi4wup.png" height ="500" align="Center"/><br>
 </div>
 
-
-
-
-The C4GT initiative enables development and long term maintenance of open-source products (DPGs and beyond), driving population-scale social impact by creating pathways and an ecosystem for young talent to contribute to these products through an active community 🚀
+C4GT is an ecosystem initiative that bridges the gap between Digital Public Goods and Tech-for-Good builder organizations and talent, particularly students and young professionals. The program creates structured pathways for meaningful development contributions to technology products built for social good.🚀
 
 While the DPG builder ecosystem has seen exciting growth, much of it is still fueled by government or philanthropic funding, which can limit product innovation and long-term sustainability. On the flip side, countless open-source contributors from universities, tech communities, and professional networks are ready to jump in and support DPGs but often hit roadblocks like low visibility, limited opportunities, and a lack of mentorship.
 C4GT is here to bridge that gap! We're bringing together organizations—both builders and adopters—with contributors ranging from students to seasoned professionals. Our mission? To foster ongoing collaborations in the open-source community, enhancing the quality and effectiveness of contributions to drive impactful outcomes. Join us in making a difference! 💡✨
